@@ -3,8 +3,8 @@
 # Lab 1, Lilga_lab1.py
 # Lab file showing install and basic format
 def lab1_averages():
-    myint = int(input("\tPlease enter an int: "))
-    myfloat = float(input("\tPlease enter a float: "))
+    myint = int(input("\tPlease enter any int: "))
+    myfloat = float(input("\tPlease enter any float: "))
     return (myint + myfloat) / 2
 
 
