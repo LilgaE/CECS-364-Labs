@@ -1,4 +1,4 @@
-# EvanLilga
+# Evan Lilga
 # CSCE 364; Spring 2022
 # Lab 1, Lilga_lab1.py
 # Lab file showing install and basic format
