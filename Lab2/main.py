@@ -70,9 +70,153 @@ def HighTen(File):
     for row2 in range(0, 9):
         print(topten[row2])
 
-def monthAve():
-    with open("data_table_for_daily_case_trends__the_united_states.csv", "r") as test:
-        next(test)
+def monthAve(File):
+    Number = []
+    Date = []
+    split = []
+    split2 = []
+    month = ""
+
+    for row in File:
+        split = row.split(",")
+        split2 = split[1].split(" ")
+        Date.append(split2[0])
+        Number.append(int(split[2]))
+    MonthDays = 0
+    DataDay = 0
+    CaseCount = 0
+    for row2 in Date:
+        if row2 == "Jan":
+            MonthDays += 1
+            CaseCount += Number[DataDay]
+            DataDay += 1
+        else:
+            DataDay += 1
+    print("January average :" + str(CaseCount/MonthDays))
+    MonthDays = 0
+    DataDay = 0
+    CaseCount = 0
+    for row2 in Date:
+        if row2 == "Feb":
+            MonthDays += 1
+            CaseCount += Number[DataDay]
+            DataDay += 1
+        else:
+            DataDay += 1
+    print("Febuary average :" + str(CaseCount/MonthDays))
+    MonthDays = 0
+    DataDay = 0
+    CaseCount = 0
+    for row2 in Date:
+        if row2 == "Mar":
+            MonthDays += 1
+            CaseCount += Number[DataDay]
+            DataDay += 1
+        else:
+            DataDay += 1
+    print("March average :" + str(CaseCount/MonthDays))
+    MonthDays = 0
+    DataDay = 0
+    CaseCount = 0
+    for row2 in Date:
+        if row2 == "Apr":
+            MonthDays += 1
+            CaseCount += Number[DataDay]
+            DataDay += 1
+        else:
+            DataDay += 1
+    print("April average :" + str(CaseCount / MonthDays))
+    MonthDays = 0
+    DataDay = 0
+    CaseCount = 0
+    for row2 in Date:
+        if row2 == "May":
+            MonthDays += 1
+            CaseCount += Number[DataDay]
+            DataDay += 1
+        else:
+            DataDay += 1
+    print("May average :" + str(CaseCount / MonthDays))
+    MonthDays = 0
+    DataDay = 0
+    CaseCount = 0
+    for row2 in Date:
+        if row2 == "Jun":
+            MonthDays += 1
+            CaseCount += Number[DataDay]
+            DataDay += 1
+        else:
+            DataDay += 1
+    print("June average :" + str(CaseCount / MonthDays))
+    MonthDays = 0
+    DataDay = 0
+    CaseCount = 0
+    for row2 in Date:
+        if row2 == "Jul":
+            MonthDays += 1
+            CaseCount += Number[DataDay]
+            DataDay += 1
+        else:
+            DataDay += 1
+    print("July average :" + str(CaseCount / MonthDays))
+    MonthDays = 0
+    DataDay = 0
+    CaseCount = 0
+    for row2 in Date:
+        if row2 == "Aug":
+            MonthDays += 1
+            CaseCount += Number[DataDay]
+            DataDay += 1
+        else:
+            DataDay += 1
+    print("August average :" + str(CaseCount / MonthDays))
+    MonthDays = 0
+    DataDay = 0
+    CaseCount = 0
+    for row2 in Date:
+        if row2 == "Sep":
+            MonthDays += 1
+            CaseCount += Number[DataDay]
+            DataDay += 1
+        else:
+            DataDay += 1
+    print("September average :" + str(CaseCount / MonthDays))
+    MonthDays = 0
+    DataDay = 0
+    CaseCount = 0
+    for row2 in Date:
+        if row2 == "Oct":
+            MonthDays += 1
+            CaseCount += Number[DataDay]
+            DataDay += 1
+        else:
+            DataDay += 1
+    print("October average :" + str(CaseCount / MonthDays))
+    MonthDays = 0
+    DataDay = 0
+    CaseCount = 0
+    for row2 in Date:
+        if row2 == "Nov":
+            MonthDays += 1
+            CaseCount += Number[DataDay]
+            DataDay += 1
+        else:
+            DataDay += 1
+    print("November average :" + str(CaseCount / MonthDays))
+    MonthDays = 0
+    DataDay = 0
+    CaseCount = 0
+    for row2 in Date:
+        if row2 == "Dec":
+            MonthDays += 1
+            CaseCount += Number[DataDay]
+            DataDay += 1
+        else:
+            DataDay += 1
+    print("December average :" + str(CaseCount / MonthDays))
+
+
+
     #print average of each month
     #Number of days in given month
     #Not that hard :D
