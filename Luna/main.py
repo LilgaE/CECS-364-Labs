@@ -12,7 +12,7 @@ import datetime  # Gets current date
 
 # test0 are the example functions given from https://investpy.readthedocs.io/_info/usage.html
 def test0():
-    Stockname = input("Please input the company name or ticker\n")
+    Stockname = str(input("Please input the company name or ticker\n"))
     search_result = investpy.search_quotes(text=Stockname, products=['stocks'],
                                            countries=['united states'], n_results=1)
     print(search_result)
@@ -40,17 +40,18 @@ def test0():
 
 # test1 is me messing with the outputs of some functions from the investpy library
 def test1():
-    Stockname = input("Please input the company name or ticker\n")
+    Stockname = str(input("Please input the company name or ticker\n"))
     current = datetime.datetime.now()
     cur = str(current.day) + '/' + str(current.month) + '/' + str(current.year)
+    past = str(current.day) + '/' + str(current.month) + '/' + str(current.year - 1)
     search_result = investpy.search_quotes(text=Stockname, products=['stocks'],
                                            countries=['united states'], n_results=1)
     print(search_result)
     print("\n\n")
-    recent_data = search_result.retrieve_historical_data(from_date='01/01/2022', to_date=cur)
+    recent_data = search_result.retrieve_historical_data(from_date=past, to_date=cur)
 
-    print("\n\nPandas Describe function")
-    print(recent_data['Change Pct'].describe())
+    print("\n\nAverage return for past year")
+    print(str(recent_data['Change Pct'].mean()) + "%")
     print("\n\n")
     print(recent_data.info())
     print("\n\n")
@@ -63,15 +64,15 @@ def test1():
 
 
 # test2 is a combination of investpy and matplotlib.pyplot library to visualize the data better.
-def Plotting():
-    Stockname = input("Please input the company name\n")
+def plotting():
+    Stockname = str(input("Please input the company name\n"))
     current = datetime.datetime.now()
     cur = str(current.day) + '/' + str(current.month) + '/' + str(current.year)
+    past = str(current.day) + '/' + str(current.month) + '/' + str(current.year - 1)
     search_result = investpy.search_quotes(text=Stockname, products=['stocks'],
                                            countries=['united states'], n_results=1)
     print(search_result)
-    print("\n\n")
-    recent_data = search_result.retrieve_historical_data(from_date='01/01/2022', to_date=cur)
+    recent_data = search_result.retrieve_historical_data(from_date=past, to_date=cur)
     test = recent_data[['Open', 'High', 'Low', 'Close']]
     print(test.head())
     plt.close('all')
@@ -79,6 +80,7 @@ def Plotting():
     plt.title(search_result.name + " Stock Data")
     plt.ylabel("Price (USD)")
     plt.show()
+
 
 # main asks what function the user would like to use and runs that function, also repeats until the user is done
 def main():
@@ -98,7 +100,7 @@ def main():
             test1()
             print("\n\n")
         elif Userin == 3:
-            Plotting()
+            plotting()
             print("\n\n")
         else:
             print("Please Try again")
