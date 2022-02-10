@@ -1,17 +1,16 @@
-#Writen by Stabs-
-#Beginnings of the infamous Luna
-#Stock Trading Bot
+# Writen by Stabs-
+# Beginnings of the infamous Luna
+# Stock Trading Bot
 
 
-from _socket import gethostname #For Users Name
-import investpy #Gets stock data
-import pandas as pd #Processes stock data
-import matplotlib.pyplot as plt #Plots Stock Data
-import datetime #Gets current date
-pd.set_option('display.max_columns', None)
+from _socket import gethostname  # For Users Name
+import investpy  # Gets stock data
+import pandas as pd  # Processes stock data
+import matplotlib.pyplot as plt  # Plots Stock Data
+import datetime  # Gets current date
 
 
-#test0 are the example functions given from https://investpy.readthedocs.io/_info/usage.html
+# test0 are the example functions given from https://investpy.readthedocs.io/_info/usage.html
 def test0():
     Stockname = input("Please input the company name or ticker\n")
     search_result = investpy.search_quotes(text=Stockname, products=['stocks'],
@@ -39,7 +38,7 @@ def test0():
     print(data.head())
 
 
-#test1 is me messing with the outputs of some of the functions from the investpy library
+# test1 is me messing with the outputs of some functions from the investpy library
 def test1():
     Stockname = input("Please input the company name or ticker\n")
     current = datetime.datetime.now()
@@ -63,8 +62,8 @@ def test1():
     print("\n\n")
 
 
-#test2 is a combination of investpy and matplotlib.pyplot library to visulize the data better.
-def test2():
+# test2 is a combination of investpy and matplotlib.pyplot library to visualize the data better.
+def Plotting():
     Stockname = input("Please input the company name\n")
     current = datetime.datetime.now()
     cur = str(current.day) + '/' + str(current.month) + '/' + str(current.year)
@@ -81,40 +80,43 @@ def test2():
     plt.ylabel("Price (USD)")
     plt.show()
 
-
-
-#main asks what function the user would like to use and runs that function, also repeats until the user is done
+# main asks what function the user would like to use and runs that function, also repeats until the user is done
 def main():
+    pd.set_option('display.max_columns', None)
     print("\n\nHello " + gethostname() + ", my name is Luna and I will help you with your stock needs.")
     Userin = 99
-    while (Userin != 0):
+    while Userin != 0:
         print("1. Demo function")
         print("2. Messing around")
         print("3. PLOT")
+        print("0. EXIT")
         Userin = int(input("Please input the test you would like to run\n"))
-        if (Userin == 1):
+        if Userin == 1:
             test0()
             print("\n\n")
-        elif (Userin == 2):
+        elif Userin == 2:
             test1()
             print("\n\n")
-        elif (Userin == 3):
-            test2()
+        elif Userin == 3:
+            Plotting()
             print("\n\n")
+        else:
+            print("Please Try again")
 
     print("Thank you for using Luna the stock trading bot\n")
     print("And never forget\n")
-    print("\"Nobody knows if a stock is going to go up, down,\nsideways or in fucking circles,\nleast of all stockbrokers,\nright?\"")
-    #QUOTE FROM THE WOLF OF WALL STREAT
+    print(
+        "\"Nobody knows if a stock is going to go up, down,\nsideways or in fucking circles,\nleast of all "
+        "stockbrokers,\nright?\"")
+    # QUOTE FROM THE WOLF OF WALL STREET
+
 
 main()
 
-
-
-#investpy,
+# investpy,
 #    author = {Alvaro Bartolome del Canto},
 #    title = {investpy - Financial Data Extraction from Investing.com with Python},
 #    year = {2018-2021},
 #    publisher = {GitHub},
 #    journal = {GitHub Repository},
-#    howpublished = {\url{https://github.com/alvarobartt/investpy}},
+#    how published = {\url{https://github.com/alvarobartt/investpy}},
