@@ -141,8 +141,6 @@ def compare():
             listofnames.append(split[7])
     for name in listofnames:
         try:
-            data = nasdaqdatalink.get_table('ZACKS/FC', ticker=name)
-            print(data.head())
             search_result = investpy.search_quotes(text=name, products=['stocks'], countries=['united states'],
                                                    n_results=1)
             print(search_result)
