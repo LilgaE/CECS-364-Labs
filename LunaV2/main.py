@@ -1,5 +1,5 @@
 # Writen by Stabs-
-# Beginnings of the infamous Luna
+# Second version of Luna
 # The Stock Trading Bot
 
 # TODO
@@ -7,10 +7,10 @@
 #  How Fast can we get the data from? -Can we get data anymore?
 #  Create a comparison function
 #  Get stock names with averages
-#  List of top 10 stocks of the day (DATA FRAME SORT)
-#  List of top 10 stocks of the Week (DATA FRAME SORT)
-#  List of top 10 stocks of the Month (DATA FRAME SORT)
-#  List of top 10 stocks of the Year (DATA FRAME SORT)
+#  List of top 10 stocks of the day
+#  List of top 10 stocks of the Week
+#  List of top 10 stocks of the Month
+#  List of top 10 stocks of the Year
 #  For above use present change
 #  Challenges going through all 39952 stocks, 82221 funds, 11403 ETFs
 #  Tax calculations for selling short term vs long term stock.
@@ -19,41 +19,30 @@
 #  Candle stick graph
 #  Maybe Crypto an HFT
 #  Maybe some tax stuff
+#  Volume * ((high + low)/2) Average amount traded
+#  Volume Change from day to day
+#
 
 import datetime  # Gets current date
 import time
 from _socket import gethostname  # For Users Name
-import investpy  # Gets stock data
 import matplotlib.pyplot as plt  # Plots Stock Data
 import pandas as pd  # Processes stock data
+import nasdaqdatalink
+
+nasdaqdatalink.ApiConfig.api_key = "H9RVg-d39XS_GaKb2Eyh"
+
 
 # test0 are the example functions given from https://investpy.readthedocs.io/_info/usage.html
 def test0():
     try:
-        Stockname = str(input("Please input the company name or ticker\n"))
-        search_result = investpy.search_quotes(text=Stockname, products=['stocks'],
-                                               countries=['united states'], n_results=1)
-        print(search_result)
-        print("\n\n")
-
-        recent_data = search_result.retrieve_recent_data()
-        print(recent_data)
-        print("\n\n")
-
-        default_currency = search_result.retrieve_currency()
-        print(default_currency)
-        print("\n\n")
-
-        information = search_result.retrieve_information()
-        print(information)
-        print("\n\n")
-
-        technical_indicators = search_result.retrieve_technical_indicators(interval="daily")
-        print(technical_indicators)
-        print("\n\n")
-
-        data = investpy.economic_calendar()
-        print(data.head())
+        # Stockname = str(input("Please input the company name or ticker\n"))
+        data = nasdaqdatalink.get_table('ZACKS/FC', ticker='MMM')
+        print(data.info())
+        for col in data.columns:
+            print(col)
+        print(data.head().to_csv())
+        print(data[['comp_name_2', 'per_cal_year', 'per_cal_qtr', 'qtr_nbr', 'tot_revnu', 'gross_profit']])
     except ConnectionError():
         print("Connection Error Please try again")
     except RuntimeError:
@@ -61,33 +50,20 @@ def test0():
     except TypeError:
         print("Type Error")
     except:
-        print("Unkown Error")
+        print("Unknown Error")
 
 
 # test1 is me messing with the outputs of some functions from the investpy library
 def test1():
     try:
-        Stockname = str(input("Please input the company name or ticker\n"))
-        current = datetime.datetime.now()
-        cur = str(current.day) + '/' + str(current.month) + '/' + str(current.year)
-        past = str(current.day) + '/' + str(current.month) + '/' + str(current.year - 1)
-        search_result = investpy.search_quotes(text=Stockname, products=['stocks'],
-                                               countries=['united states'], n_results=1)
-        print(search_result)
-        print("\n\n")
-        recent_data = search_result.retrieve_historical_data(from_date=past, to_date=cur)
+        data = nasdaqdatalink.get_table('WIKI/PRICES', ticker='MMM')
+        print(data.info())
+        for col in data.columns:
+            print(col)
+        print(data.head().to_csv())
+        print(data[['open', 'high', 'low', 'close', 'volume', 'split_ratio']])
+        print(data['open'].mean())
 
-        print("\n\nAverage return for past year")
-        print(str(recent_data['Change Pct'].mean()) + "%")
-        print("\n\n")
-        print(recent_data.info())
-        print("\n\n")
-        print(recent_data.sort_values('High').head())
-        print("\n\n")
-        print(recent_data.Open.head())
-        print("\n\n")
-        print(recent_data.Close.head())
-        print("\n\n")
     except RuntimeError:
         print("Stocks not found.")
     except ConnectionError():
@@ -95,25 +71,23 @@ def test1():
     except TypeError:
         print("Type Error")
     except:
-        print("Unkown Error")
+        print("Unknown Error")
 
 
 # Plotting is a combination of investpy and matplotlib.pyplot library to visualize the data better.
 def plotting():
     try:
-        Stockname = str(input("Please input the company name  or ticker\n"))
+        Stockname = str(input("Please input the company ticker\n"))
         current = datetime.datetime.now()
-        cur = str(current.day) + '/' + str(current.month) + '/' + str(current.year)
-        past = str(current.day) + '/' + str(current.month) + '/' + str(current.year - 1)
-        search_result = investpy.search_quotes(text=Stockname, products=['stocks'],
-                                               countries=['united states'], n_results=1)
-        print(search_result)
-        recent_data = search_result.retrieve_historical_data(from_date=past, to_date=cur)
-        test = recent_data[['Open', 'High', 'Low', 'Close']]
+        cur = str(current.year) + '-' + str(current.month) + '-' + str(current.day)
+        past = str(current.year - 3) + '-' + str(current.month) + '-' + str(current.day)
+        data = nasdaqdatalink.get_table('WIKI/PRICES', ticker=Stockname, date={'gte': '2016-01-01'})
+        test = pd.DataFrame(data[['date', 'open', 'high', 'low', 'close']])
+        test = test.set_index('date')
         print(test.head())
         plt.close('all')
         test.plot()
-        plt.title(search_result.name + " Stock Data")
+        plt.title(Stockname + " Stock Data")
         plt.ylabel("Price (USD)")
         plt.show()
     except ConnectionError():
@@ -123,7 +97,7 @@ def plotting():
     except TypeError:
         print("Type Error")
     except:
-        print("Unkown Error")
+        print("Unknown Error")
 
 
 # Used to pull in all US stocks and compare their year/month/week average return on the stock
@@ -141,13 +115,9 @@ def compare():
             listofnames.append(split[7])
     for name in listofnames:
         try:
-            search_result = investpy.search_quotes(text=name, products=['stocks'], countries=['united states'],
-                                                   n_results=1)
-            print(search_result)
-            time.sleep(2)  # Website limitaions
-            recent_data = search_result.retrieve_historical_data(from_date=pastweek, to_date=cur)
-            print(recent_data)
-            listofmeans.append(str(recent_data['Change Pct'].mean()) + "%")
+            data = nasdaqdatalink.get_table('WIKI/PRICES', ticker=name, date={'gte': '2016-01-01'})
+            print(data)
+            time.sleep(30)  # Website limitaions
         except RuntimeError:
             print("Stocks not found.")
         except ConnectionError:
@@ -158,7 +128,7 @@ def compare():
         except TypeError:
             print("Type Error")
         except:
-            print("Unkown Error")
+            print("Unknown Error")
     print(listofnames)
     print(listofmeans)
 
@@ -170,10 +140,10 @@ def main():
     print("\n\nHello " + gethostname() + ", my name is Luna and I will help you with your stock needs.")
     Userin = 99
     while Userin != 0:
-        print("1. Demo functions")
+        print("1. Demo function")
         print("2. Messing around")
         print("3. PLOT")
-        print("4. List of stocks")
+        print("4. compare")
         print("0. EXIT")
         Userin = int(input("Please input the test you would like to run\n"))
         if Userin == 1:
@@ -201,10 +171,6 @@ def main():
 
 main()
 
-# investpy,
-#    author = {Alvaro Bartolome del Canto},
-#    title = {investpy - Financial Data Extraction from Investing.com with Python},
-#    year = {2018-2021},
-#    publisher = {GitHub},
-#    journal = {GitHub Repository},
-#    how published = {\url{https://github.com/alvarobartt/investpy}},
+
+
+#SHOULD NOT BE USED AS A FINANCIAL ADVICE

@@ -18,13 +18,13 @@ united states,Deere&Company,Deere & Company,deere---co,US2441991054,261,USD,DE
 united states,FedEx,FedEx Corporation,fedex-corp,US31428X1063,262,USD,FDX
 united states,General Mills,General Mills Inc,general-mills,US3703341046,263,USD,GIS
 united states,Corning,Corning Incorporated,corning-inc,US2193501051,264,USD,GLW
-united states,Goodyear,The Goodyear Tire & Rubber Company,goodyear-tire,US3825501014,265,USD,GT
+united states,The Goodyear Tire&Rubber,The Goodyear Tire & Rubber Company,goodyear-tire,US3825501014,265,USD,Goodyear
 united states,Goldman Sachs,Goldman Sachs Group Inc,goldman-sachs-group,US38141G1040,266,USD,GS
 united states,JPMorgan,JPMorgan Chase & Co,jp-morgan-chase,US46625H1005,267,USD,JPM
 united states,Kimberly-Clark,Kimberly-Clark Corporation,kimberly-clark,US4943681035,269,USD,KMB
 united states,Kraft Heinz,Kraft Heinz Co,kraft-foods-inc,US5007541064,270,USD,KHC
 united states,Coca-Cola,Coca-Cola Company,coca-cola-co,US1912161007,271,USD,KO
-united states,McDonalds,McDonald’s Corporation,mcdonalds,US5801351017,272,USD,MCD
+united states,McDonald’s,McDonald’s Corporation,mcdonalds,US5801351017,272,USD,McDonald
 united states,Eli Lilly,Eli Lilly and Company,eli-lilly-and-co,US5324571083,273,USD,LLY
 united states,Oracle,Oracle Corporation,oracle-corp,US68389X1054,274,USD,ORCL
 united states,Merck&Co,Merck & Company Inc,merck---co,US58933Y1055,275,USD,MRK
@@ -46,6 +46,7 @@ united states,aTyr Pharma,aTyr Pharma Inc,life-tech-corp,US0021202025,6368,USD,L
 united states,Alphabet A,Alphabet Inc Class A,google-inc,US02079K3059,6369,USD,GOOGL
 united states,Fiserv,Fiserv Inc,fiserv-inc,US3377381088,6370,USD,FISV
 united states,Liberty Global,Liberty Global PLC,liberty-global-inc,GB00B8W67662,6371,USD,LBTYA
+united states,PDL BioPharma,PDL BioPharma Inc,pdl-biopharma-inc,US69329Y1047,6372,USD,PDLI
 united states,Adobe,Adobe Systems Incorporated,adobe-sys-inc,US00724F1012,6373,USD,ADBE
 united states,BlackBerry,BlackBerry Ltd,research-in-motion-ltd,CA09228F1036,6374,USD,BB
 united states,Qualcomm,Qualcomm Incorporated,qualcomm-inc,US7475251036,6376,USD,QCOM
@@ -90,6 +91,7 @@ united states,Ross Stores,Ross Stores Inc,ross-stores-inc,US7782961038,6437,USD,
 united states,Viavi Solutions,Viavi Solutions Inc,jds-uniphase-corp,US9255501051,6438,USD,VIAV
 united states,NetEase,NetEase Inc,netease.com,US64110W1027,6439,USD,NTES
 united states,NetApp,NetApp Inc,network-appliance-inc,US64110D1046,6440,USD,NTAP
+united states,E-TRADE,E-TRADE Financial Corporation,etrade-fincl-cp,US2692464017,6441,USD,ETFC
 united states,Garmin,Garmin Ltd,garmin-ltd,CH0114405324,6442,USD,GRMN
 united states,Costco,Costco Wholesale Corp,costco-whsl-corp-new,US22160K1051,6443,USD,COST
 united states,Check Point Software,Check Point Software Technologies Ltd,check-point-software-tech-lt,IL0010824113,6444,USD,CHKP
@@ -102,6 +104,8 @@ united states,Trip.com ADR,Trip.com Group Ltd ADR,ctrip.com-international,US8967
 united states,UTStarcom,UTStarcom Holdings Corp,utstarcom-inc,KYG9310A1141,6452,USD,UTSI
 united states,Cognizant A,Cognizant Technology Solutions Corp Class A,cognizant-technology-solutio,US1924461023,6454,USD,CTSH
 united states,Rambus,Rambus Inc,rambus-inc,US7509171069,6455,USD,RMBS
+united states,NII Holdings,NII Holdings Inc,nii-hldgs-inc,US62913F5089,6456,USD,NIHD
+united states,YRC Worldwide,YRC Worldwide Inc,yrc-worldwide,US9842496070,6458,USD,YRCW
 united states,Akamai,Akamai Technologies Inc,akamai-technologies-inc,US00971T1016,6460,USD,AKAM
 united states,KLA-Tencor,KLA-Tencor Corporation,kla-tencor-corp,US4824801009,6462,USD,KLAC
 united states,Juniper,Juniper Networks Inc,juniper-networks-inc,US48203R1041,6463,USD,JNPR
@@ -124,12 +128,15 @@ united states,Starbucks,Starbucks Corporation,starbucks-corp,US8552441094,6500,U
 united states,Celgene,Celgene Corporation,celgene-corp,US1510201049,6504,USD,CELG
 united states,Cincinnati Financial,Cincinnati Financial Corporation,cincinnati-fin,US1720621010,6507,USD,CINF
 united states,Extreme,Extreme Networks Inc,extreme-networks,US30226D1063,6508,USD,EXTR
+united states,Axon Enterprise,Axon Enterprise Inc,taser-intl,US05464C1018,6509,USD,AAXN
 united states,Hologic,Hologic Inc,hologic-inc,US4364401012,6515,USD,HOLX
 united states,Comcast,Comcast Corp,comcast-corp-new,US20030N1019,6516,USD,CMCSA
+united states,Capstone Turbine,Capstone Turbine Corp,capstone-turbine-corp,US14067D5086,6517,USD,CPST
 united states,Marvell,Marvell Technology Group Ltd,marvell-technology-group-ltd,BMG5876H1051,6520,USD,MRVL
 united states,Ballard,Ballard Power Systems Inc,ballard-power-systems-inc,CA0585861085,6522,USD,BLDP
 united states,Sify,Sify Technologies Limited,sify-technologies,US82655M1071,6524,USD,SIFY
 united states,CDTi Advanced Materials,CDTi Advanced Materials Inc,clean-diesel-tech,US12514V2043,6539,USD,CDTI
+united states,Euler Hermes,Euler Hermes Group SA,euler-hermes,FR0004254035,7035,EUR,EUHMF
 united states,Nexus Energy,Nexus Energy Services Inc,nexus-energy,US65341F1075,7237,USD,IBGR
 united states,Medtronic,Medtronic PLC,medtronic,IE00BTN1Y115,7857,USD,MDT
 united states,Dover,Dover Corporation,dover-corp,US2600031080,7858,USD,DOV
@@ -161,6 +168,7 @@ united states,Piper Jaffray,Piper Jaffray Companies,piper-jaffray-co,US724078100
 united states,Kinross Gold,Kinross Gold Corp,kinross-gold,CA4969024047,7891,USD,KGC
 united states,Public Service Enterprise,Public Service Enterprise Group Inc,publ-svc-enter,US7445731067,7893,USD,PEG
 united states,NiSource,NiSource Inc,ni-source-inc,US65473P1057,7896,USD,NI
+united states,Yingli Green Energy,Yingli Green Energy Holding Co Ltd,yingli-green,US98584B2025,7898,USD,YGEHY
 united states,Zimmer Biomet,Zimmer Biomet Holdings Inc,zimmer-hldgs,US98956P1021,7902,USD,ZBH
 united states,CSX,CSX Corporation,csx-corp,US1264081035,7906,USD,CSX
 united states,ICE,Intercontinental Exchange Inc,intercontintlex,US45866F1049,7907,USD,ICE
@@ -211,6 +219,7 @@ united states,DuPont,DuPont Inc,du-pont,US26614N1028,7981,USD,DD
 united states,Orix,Orix Corp Ads,orix,US6863301015,7982,USD,IX
 united states,Sherwin-Williams,Sherwin-Williams Co,sherwinwilliams,US8243481061,7986,USD,SHW
 united states,Pfizer,Pfizer Inc,pfizer,US7170811035,7989,USD,PFE
+united states,NTT Docomo ADR,NTT Docomo Inc ADR,ntt-docomo,US62942M2017,7990,USD,DCMYY
 united states,Wells Fargo&Co,Wells Fargo & Company,wells-fargo,US9497461015,7992,USD,WFC
 united states,Manitowoc,Manitowoc Company Inc,manitowoc-co.,US5635714059,7996,USD,MTW
 united states,Walmart,Walmart Inc,wal-mart-stores,US9311421039,7997,USD,WMT
@@ -221,6 +230,7 @@ united states,Allegheny Technologies,Allegheny Technologies Incorporated,alleghe
 united states,Xerox,Xerox Corp,xerox-corp,US98421M1062,8003,USD,XRX
 united states,Equifax,Equifax Inc,equifax-inc,US2944291051,8007,USD,EFX
 united states,Gold Fields ADR,Gold Fields Ltd ADR,gold-fields-lts,US38059T1060,8008,USD,GFI
+united states,Konami Holdings,Konami Holdings Corp,konami,US50046R1014,8010,USD,KNMCY
 united states,McKesson,McKesson Corporation,mckesson-corp,US58155Q1031,8014,USD,MCK
 united states,Entergy,Entergy Corporation,entergy-corp,US29364G1031,8015,USD,ETR
 united states,CMS Energy,CMS Energy Corporation,cms-energy-corp,US1258961002,8016,USD,CMS
@@ -234,8 +244,10 @@ united states,IFF,International Flavors & Fragrances Inc,intl-flav---frag,US4595
 united states,Petroleo Brasileiro Petrobras ADR,Petroleo Brasileiro Petrobras SA ADR,petroleo-bras,US71654V4086,8028,USD,PBR
 united states,M/I Homes,M/I Homes Inc,m-i-homes-inc,US55305B1017,8029,USD,MHO
 united states,WW Grainger,WW Grainger Inc,w-w-grainger-inc,US3848021040,8030,USD,GWW
+united states,JC Penney,JC Penney Company Inc Holding,j-c-penney-co,US7081601061,8032,USD,JCP
 united states,Diamond Offshore Drilling,Diamond Offshore Drilling Inc,diamond-offshore,US25271C1027,8033,USD,DO
 united states,Constellation Brands A,Constellation Brands Inc Class A,constellation-a,US21036P1084,8034,USD,STZ
+united states,China Digital TV,China Digital TV Holding Co Ltd ADR,china-dig-tv-hld,US16938G1076,8035,USD,STVVY
 united states,American Tower,American Tower Corp,amer-tower-corp,US03027X1000,8036,USD,AMT
 united states,Grupo Televisa ADR,Grupo Televisa SAB ADR,grupo-televisa-sa-adr,US40049J2069,8037,USD,TV
 united states,Philip Morris,Philip Morris International Inc,philip-morris-intl,US7181721090,8039,USD,PM
@@ -274,6 +286,7 @@ united states,Ryder System,Ryder System Inc,ryder-system-inc,US7835491082,8087,U
 united states,SLM,SLM Corp,slm-corporation,US78442P1066,8089,USD,SLM
 united states,Micron,Micron Technology Inc,micron-tech,US5951121038,8092,USD,MU
 united states,Avery Dennison,Avery Dennison Corp,avery-dennison,US0536111091,8097,USD,AVY
+united states,Weatherford,Weatherford International PLC,weatherfgord-intl,IE00BLNN3691,8098,USD,WFTIQ
 united states,Marathon Oil,Marathon Oil Corporation,marathon-oil,US5658491064,8099,USD,MRO
 united states,CF Industries,CF Industries Holdings Inc,cf-industries,US1252691001,8102,USD,CF
 united states,Apache,Apache Corporation,apache-corp,US0374111054,8103,USD,APA
@@ -365,6 +378,7 @@ united states,Range Resources,Range Resources Corp,range-resources-corp,US75281A
 united states,FirstEnergy,FirstEnergy Corporation,first-energy,US3379321074,8231,USD,FE
 united states,Hovnanian Enterprises,Hovnanian Enterprises Inc,hovnanian-enter,US4424874018,8233,USD,HOV
 united states,Torchmark,Torchmark Corporation,torchmark-corp,US37959E1029,8234,USD,GL
+united states,United Technologies,United Technologies Corporation,united-tech,US9130171096,8235,USD,UTX
 united states,PulteGroup,PulteGroup Inc,pulte-homes-inc,US7458671010,8237,USD,PHM
 united states,Wyndham,Wyndham Destinations Inc,wyndham-world,US98310W1080,8239,USD,WYND
 united states,Valero Energy,Valero Energy Corporation,valero-energy,US91913Y1001,8241,USD,VLO
@@ -466,6 +480,7 @@ united states,Weyerhaeuser,Weyerhaeuser Company,weyerhaeuser,US9621661043,8953,U
 united states,Empresas ICA ADR,Empresas ICA SAB De CV ADR,empresas-ica-soc-con,US2924482068,8954,USD,ICAYY
 united states,ADP,Automatic Data Processing Inc,auto-data-process,US0530151036,9019,USD,ADP
 united states,Laird,Laird PLC,laird,GB00B1VNST91,9218,USD,LARRF
+united states,Denbury Resources,Denbury Resources Inc,denbury-resources-inc,US2479162081,9222,USD,DNR
 united states,Allscripts,Allscripts Healthcare Solutions Inc,allscripts-misys-healthcre-solution,US01988P1084,9231,USD,MDRX
 united states,Reliance Steel&Aluminum,Reliance Steel & Aluminum Co,reliance-steel---aluminum-co.,US7595091023,9235,USD,RS
 united states,SSR Mining,SSR Mining Inc,silver-standard-resources,CA7847301032,9238,USD,SSRM
@@ -473,6 +488,7 @@ united states,Southwestern Energy,Southwestern Energy Company,southwestern-energ
 united states,Carter’s,Carter’s Inc,carters-inc,US1462291097,9254,USD,CRI
 united states,Keurig Dr Pepper,Keurig Dr Pepper Inc,dr-pepper-snapple,US49271V1008,10548,USD,KDP
 united states,Lowe’s,Lowe’s Companies Inc,lowes-companies,US5486611073,10549,USD,LOW
+united states,Ampal American Israel,Ampal American Israel Corp,ampal-am-israel,US0320157037,10874,USD,AMPLQ
 united states,Middleby Corp,Middleby Corp,the-middleby-corp,US5962781010,13058,USD,MIDD
 united states,Vale ADR,Vale SA ADR,vale-s.a.--americ,US91912E1055,13059,USD,VALE
 united states,CPFL Energia ADR,CPFL Energia SA ADR,cpfl-energia-s.a.,US1261531057,13060,USD,CPL
@@ -491,7 +507,8 @@ united states,Cabot,Cabot Microelectronics Corporation,cabot-microelectr,US12709
 united states,CME Group,CME Group Inc,cme-group-inc.,US12572Q1058,13080,USD,CME
 united states,Illumina,Illumina Inc,"illumina,-inc.",US4523271090,13081,USD,ILMN
 united states,JB Hunt,JB Hunt Transport Services Inc,j.b.-hunt-transpo,US4456581077,13082,USD,JBHT
-united states,Loews,Loews Corp,loews-corporation,US5404241086,13083,USD,Loews
+united states,Loews,Loews Corp,loews-corporation,US5404241086,13083,USD,L
+united states,Maxim,Maxim Integrated Products Inc,maxim-integrated,US57772K1016,13084,USD,MXIM
 united states,Rogers Communications,Rogers Communications Inc,rogers-communicat,CA7751092007,13086,USD,RCI
 united states,Urban Outfitters,Urban Outfitters Inc,urban-outfitters,US9170471026,13087,USD,URBN
 united states,EW Scripps A,E. W. Scripps Co Class A,e.w.-scripps-comp,US8110544025,13089,USD,SSP
@@ -566,6 +583,7 @@ united states,Broadcom,Broadcom Inc,avago-technologies,US11135F1012,13969,USD,AV
 united states,Celsion,Celsion Corp,celsion-corp.,US15117N5032,13971,USD,CLSN
 united states,Cree,Cree Inc,cree-inc.,US2254471012,13972,USD,CREE
 united states,Cirrus,Cirrus Logic Inc,cirrus-logic-inc.,US1727551004,13973,USD,CRUS
+united states,Dunkin Brands,Dunkin Brands Group Inc,dunkin-brands-group,US2655041000,13977,USD,DNKN
 united states,Entegris,Entegris Inc,entegris-inc.,US29362U1043,13978,USD,ENTG
 united states,The Hain Celestial,The Hain Celestial Group Inc,hain-celestial-group,US4052171000,13979,USD,HAIN
 united states,Internet Initiative Japan ADR,Internet Initiative Japan Inc ADR,internet-initiative-japan,US46059T1097,13980,USD,IIJIY
@@ -588,6 +606,7 @@ united states,New Zealand Oil Gas,New Zealand Oil and Gas Ltd,nz-oil---gas?cid=1
 united states,CBB Bancorp,CBB Bancorp Inc,cbb,US12481T1097,14570,USD,CBBI
 united states,Regis Resources,Regis Resources Ltd,regis-resources-ltd?cid=14595,AU000000RRL8,14595,USD,RGRNF
 united states,Dollar Tree,Dollar Tree Inc,dollar-tree-inc,US2567461080,14776,USD,DLTR
+united states,Espirito Santo SA,Espirito Santo Financial Group SA,espirito-santo-re,LU0202957089,15158,USD,ESFOF
 united states,Engie,Engie SA,gdf-suez?cid=15286,FR0010208488,15286,USD,ENGQF
 united states,Atlantic American,Atlantic American Corporation,atlantic-american,US0482091008,15301,USD,AAME
 united states,AAON,AAON Inc,aaon,US0003602069,15302,USD,AAON
@@ -598,6 +617,7 @@ united states,ARCA Biopharma,ARCA Biopharma Inc,arca-biopharma,US00211Y5069,1531
 united states,ABIOMED,ABIOMED Inc,abiomed,US0036541003,15311,USD,ABMD
 united states,Autobytel,Autobytel Inc,autobytel-inc,US05335B1008,15312,USD,AUTO
 united states,ACADIA,ACADIA Pharmaceuticals Inc,acadia-pharmaceuticals,US0042251084,15314,USD,ACAD
+united states,Aceto,Aceto Corp,aceto-corp,US0044461004,15317,USD,ACETQ
 united states,Acorn,Acorn Energy Inc,acorn-energy,US0048481073,15319,USD,ACFN
 united states,Acadia Healthcare,Acadia Healthcare Company Inc,acadia-healthcare,US00404A1097,15321,USD,ACHC
 united states,Achillion,Achillion Pharmaceuticals Inc,achillion-pharmaceuticals,US00448Q2012,15322,USD,ACHN
@@ -626,6 +646,7 @@ united states,Agilysys,Agilysys Inc,agilysys,US00847J1051,15359,USD,AGYS
 united states,Allied Healthcare,Allied Healthcare Products Inc,allied-healthcare,US0192222075,15361,USD,AHPI
 united states,Altra,Altra Holdings Inc,altra-holdings,US02208R1068,15362,USD,AIMC
 united states,Air T,Air T Inc,air-t,US0092071010,15364,USD,AIRT
+united states,Akorn,Akorn Inc,akorn,US0097281069,15366,USD,AKRX
 united states,Alico,Alico Inc,alico,US0162301040,15367,USD,ALCO
 united states,Align,Align Technology Inc,align-technology,US0162551016,15368,USD,ALGN
 united states,Allegiant,Allegiant Travel Company,allegiant-travel,US01748X1028,15369,USD,ALGT
@@ -634,6 +655,7 @@ united states,Alkermes Plc,Alkermes Plc,alkermes-plc,IE00B56GVS15,15371,USD,ALKS
 united states,Allot Communications,Allot Communications Ltd,allot-communications-ta?cid=15373,IL0010996549,15373,USD,ALLT
 united states,Alnylam,Alnylam Pharmaceuticals Inc,alnylam-pharmaceuticals,US02043Q1076,15375,USD,ALNY
 united states,AstroNova,AstroNova Inc,astro-med,US04638F1084,15377,USD,ALOT
+united states,Alaska Communications,Alaska Communications Systems,alaska-communications,US01167P1012,15379,USD,ALSK
 united states,AMAG,AMAG Pharmaceuticals Inc,amag-pharm,US00163U1060,15385,USD,AMAG
 united states,Andatee China Marine,Andatee China Marine Fuel Services,andatee-china-marine,US67086W1053,15389,USD,AMCF
 united states,Amedisys,Amedisys Inc,amedisys-inc,US0234361089,15391,USD,AMED
@@ -672,15 +694,20 @@ united states,Gentherm,Gentherm Inc,gentherm,US37253A1034,15446,USD,THRM
 united states,Ark Restaurants,Ark Restaurants Corp,ark-restaurants-corp,US0407121013,15448,USD,ARKR
 united states,Alliance Resource,Alliance Resource Partners LP,alliance-resource,US01877R1086,15449,USD,ARLP
 united states,Arrow,Arrow Financial Corporation,arrow-financial-corp,US0427441029,15451,USD,AROW
+united states,ArQule,ArQule Inc,arqule,US04269E1073,15452,USD,ARQL
 united states,Array BioPharma,Array BioPharma Inc,array-biopharma-inc,US04269X1054,15453,USD,ARRY
 united states,Trecora Resources,Trecora Resources,arabian-american,US8946481046,15454,USD,TREC
 united states,Artesian,Artesian Resources Corporation,artesian-resource,US0431132085,15456,USD,ARTNA
 united states,Arts-Way,Arts-Way Manufacturing Co Inc,arts-way-manufacturing,US0431681032,15457,USD,ARTW
+united states,Arotech,Arotech Corporation,arotech-corp,US0426822039,15458,USD,ARTX
 united states,Arrowhead Pharma,Arrowhead Pharmaceuticals Inc,arrowhead-research-corp,US04280A1007,15459,USD,ARWR
 united states,Associated Banc-Corp,Associated Banc-Corp,associated-banc-corp,US0454871056,15461,USD,ASB
+united states,Ascent Capital Group,Ascent Capital Group Inc,ascent-capital,US0436321089,15464,USD,ASCMA
+united states,Asta Funding,Asta Funding Inc,asta-funding,US0462201098,15466,USD,ASFI
 united states,ASGN,ASGN Inc,on-assignment,US00191U1025,15467,USD,ASGN
 united states,ASM ADR,ASM International NV ADR,asm-international-nv,USN070451026,15469,USD,ASMIY
 united states,ASML Holding,ASML Holding NV,asml-holding?cid=15470,NL0010273215,15470,USD,ASMLF
+united states,Ascena Retail,Ascena Retail Group Inc,ascena-retail,US04351G1013,15471,USD,ASNA
 united states,AmeriServ,AmeriServ Financial Inc,ameriserv,US03074A1025,15473,USD,ASRV
 united states,Astrotech,Astrotech Corp,astrotech-corp,US0464842006,15474,USD,ASTC
 united states,Astec,Astec Industries Inc,astec-industries,US0462241011,15475,USD,ASTE
@@ -697,6 +724,7 @@ united states,Ames,Ames National Corporation,ames-national-corp,US0310011004,154
 united states,ATN Int,ATN International Inc,atlantic-tele-net,US00215F1075,15489,USD,ATNI
 united states,AtriCure,AtriCure Inc,atricure,US04963C2098,15492,USD,ATRC
 united states,ATRION,ATRION Corporation,atrion-corp,US0499041053,15493,USD,ATRI
+united states,ATRM Holdings,ATRM Holdings Inc,aetrium-inc,US04964A1034,15494,USD,ATRM
 united states,Astronics,Astronics Corporation,astronics-corp,US0464331083,15495,USD,ATRO
 united states,Auburn,Auburn National Bancorporation Inc,auburn-national-b,US0504731078,15498,USD,AUBN
 united states,AudioCodes,AudioCodes Ltd,audiocodes?cid=15499,IL0010829658,15499,USD,AUDC
@@ -721,7 +749,8 @@ united states,BCB Bancorp,BCB Bancorp Inc,bcb-bancorp,US0552981039,15531,USD,BCB
 united states,B Communications,B Communications Ltd,b-communication?cid=15533,IL0011076630,15533,USD,BCOM
 united states,Balchem,Balchem Corporation,balchem-corp,US0576652004,15534,USD,BCPC
 united states,BioCryst,BioCryst Pharmaceuticals Inc,biocryst-pharmaceuticals,US09058V1035,15535,USD,BCRX
-united states,Black Diamond,Black Diamond Inc,black-diamond,US18270P1093,15538,USD,Black Diamond
+united states,Black Diamond,Black Diamond Inc,black-diamond,US18270P1093,15538,USD,CLAR
+united states,Bridge Bancorp,Bridge Bancorp Inc,bridge-bancorp,US1080351067,15539,USD,BDGE
 united states,BioDelivery Sciences,BioDelivery Sciences International,biodelivery,US09060J1060,15541,USD,BDSI
 united states,BioTelemetry,BioTelemetry Inc,cardionet,US0906721065,15542,USD,BEAT
 united states,bebe stores,bebe stores inc,bebe-stores,US0755712082,15544,USD,BEBE
@@ -751,10 +780,14 @@ united states,Bank of Marin,Bank of Marin Bancorp,bank-of-marin-ban,US0634251021
 united states,Biomarin Pharma,Biomarin Pharmaceutical Inc,biomarin-pharmaceuticals,US09061G1013,15579,USD,BMRN
 united states,Bryn Mawr Bank,Bryn Mawr Bank Corporation,bryn-mawr-bank-co,US1176651099,15580,USD,BMTC
 united states,Bonso Electronics Int,Bonso Electronics International Inc,bonso-electronics,VG0985293088,15585,USD,BNSO
+united states,Bank of Commerce,Bank of Commerce Holdings,bank-of-commerce,US06424J1034,15588,USD,BOCH
+united states,Axos Financial,Axos Financial Inc,bofi-holding,US05465C1009,15590,USD,AX
 united states,BOK Financial,BOK Financial Corporation,bok-financial-corp,US05561Q2012,15591,USD,BOKF
 united states,Bon-Ton Stores,Bon-Ton Stores Inc,the-bon-ton-store,US09776J1016,15594,USD,BONTQ
 united states,Dmc Global,Dmc Global Inc,dynamic-materials,US23291C1036,15595,USD,BOOM
 united states,BOS,BOS Better Online Solutions,b.o.s.-better-onl,IL0010828171,15597,USD,BOSC
+united states,Boston Private,Boston Private Financial Holdings,boston-private-fi,US1011191053,15600,USD,BPFH
+united states,Modsys,Modsys International Ltd,bluephoenix-solut,IL0010824378,15601,USD,MDSYF
 united states,Bridgford,Bridgford Foods Corporation,bridgford-foods-c,US1087631032,15603,USD,BRID
 united states,Brookline Bancorp,Brookline Bancorp Inc,brookline-bancorp,US11373M1071,15604,USD,BRKL
 united states,Brooks Automation,Brooks Automation Inc,brooks-automation,US1143401024,15606,USD,BRKS
@@ -762,13 +795,19 @@ united states,Bassett,Bassett Furniture Industries,bassett-furniture,US070203104
 united states,Biostar Pharma,Biostar Pharmaceuticals Inc,biostar-pharmaceuticals,US0906783016,15611,USD,BSPM
 united states,BSQUARE,BSQUARE Corporation,bsquare-corp,US11776U3005,15612,USD,BSQR
 united states,Sierra Bancorp,Sierra Bancorp,sierra-bancorp,US82620P1021,15613,USD,BSRR
+united states,BioSpecifics,BioSpecifics Technologies Corp,biospecifics-tech,US0909311062,15614,USD,BSTC
+united states,Burcon NutraScience,Burcon NutraScience Corp,burcon-nutrascience-corp?cid=15617,CA1208311029,15617,USD,BUROF
 united states,First Busey,First Busey Corp,first-busey-corp,US3193832041,15618,USD,BUSE
+united states,BroadVision,BroadVision Inc,broadvision,US1114127061,15619,USD,BVSN
 united states,Broadwind,Broadwind Energy Inc,broadwind-energy,US11161T2078,15620,USD,BWEN
+united states,Protective Insurance A,Protective Insurance Corp Class A,baldwin---lyons-(a),US74368L1044,15621,USD,PTVCA
+united states,Protective Insurance B,Protective Insurance Corp Class B,baldwin---lyons-(b),US74368L2034,15622,USD,PTVCB
 united states,Broadway Financial,Broadway Financial Corporation,broadway-financial,US1114441058,15625,USD,BYFC
 united states,China Automotive,China Automotive Systems Inc,china-automotive,US16936R1059,15626,USD,CAAS
 united states,Camden,Camden National Corporation,camden-national,US1330341082,15627,USD,CAC
 united states,Credit Acceptance,Credit Acceptance Corporation,credit-acceptance,US2253101016,15629,USD,CACC
 united states,Cache,Cache Inc,cache,US1271503088,15630,USD,CACH
+united states,China Advanced Construction,China Advanced Construction Materials Group Inc,china-advanced,KYG4645B1014,15631,USD,HHT
 united states,The Cheesecake,The Cheesecake Factory,the-cheesecake-factory,US1630721017,15634,USD,CAKE
 united states,China Auto Logistics,China Auto Logistics Inc,china-auto-logist,US16936J2024,15636,USD,CALI
 united states,Cal-Maine,Cal-Maine Foods Inc,cal-maine-foods,US1280302027,15638,USD,CALM
@@ -785,20 +824,26 @@ united states,Cathay,Cathay General Bancorp,cathay-general,US1491501045,15651,US
 united states,Net Element,Net Element Inc,net-element-inc,US64111R3003,15653,USD,NETE
 united states,CBAK Energy,CBAK Energy Technology Inc,china-bak-battery,US14986C1027,15654,USD,CBAT
 united states,Colony Bankcorp,Colony Bankcorp Inc,colony-bankcorp,US19623P1012,15655,USD,CBAN
+united states,Cleveland BioLabs,Cleveland BioLabs Inc,cleveland-biolabs,US1858602022,15659,USD,CBLI
+united states,China Biologic,China Biologic Products Inc,china-biologic-products,KYG215151047,15665,USD,CBPO
 united states,Cracker Barrel Old,Cracker Barrel Old Country Store,cracker-barrelold-country,US22410J1060,15666,USD,CBRL
 united states,Commerce Bancshares,Commerce Bancshares Inc,commerce-bancshar,US2005251036,15668,USD,CBSH
 united states,Capital City Bank,Capital City Bank Group,capital-city-bank,US1396741050,15670,USD,CCBG
 united states,China Ceramics Co,China Ceramics Co Ltd,china-ceramics,VGG2113X1345,15671,USD,CCCL
+united states,ChinaCaches,ChinaCache International Holdings,chinacache,US16950M1071,15673,USD,CCIHY
 united states,CNB Financial,CNB Financial Corporation,cnb-financial-corp,US1261281075,15675,USD,CCNE
 united states,Cogent,Cogent Communications Group Inc,cogent-communications,US19239V3024,15676,USD,CCOI
 united states,Cross Country,Cross Country Healthcare Inc,cross-country,US2274831047,15677,USD,CCRN
+united states,CCUR Holdings,CCUR Holdings Inc,concurrent-comput,US12509F1075,15678,USD,CCUR
 united states,Codexis,Codexis Inc,codexis,US1920051067,15680,USD,CDXS
 united states,Cadiz,Cadiz Inc,cadiz,US1275372076,15681,USD,CDZI
 united states,CECO Environmental,CECO Environmental Corp,ceco-environmenta,US1251411013,15683,USD,CECE
 united states,Career,Career Education Corporation,career-education,US1416651099,15684,USD,CECO
 united states,Central Garden&Pet,Central Garden & Pet Company,central-garden---pet-co.,US1535271068,15687,USD,CENT
 united states,Central Garden&Pet A,Central Garden & Pet Company A,central-garden-pet-a,US1535272058,15688,USD,CENTA
+united states,Cereplast Inc,Cereplast Inc,cereplast,US1567324066,15690,USD,CERPQ
 united states,Cerus,Cerus Corporation,cerus-corp,US1570851014,15691,USD,CERS
+united states,Central European Media,Central European Media Enterprises Ltd,cent-euro-medi?cid=15692,BMG200452024,15692,USD,CETV
 united states,CEVA,CEVA Inc,ceva,US1572101053,15693,USD,CEVA
 united states,Central Federal,Central Federal Corp,central-federal,US15346Q4001,15694,USD,CFBK
 united states,C&F Financial,C&F Financial Corporation,c-f-financial-corp,US12466Q1040,15696,USD,CFFI
@@ -807,6 +852,8 @@ united states,California First National,California First National Bancorp,califo
 united states,Pingtan Marine,Pingtan Marine Enterprise Ltd,pingtan-marine,KYG7114V1023,15701,USD,PME
 united states,Compugen,Compugen Ltd,compugen?cid=15702,IL0010852080,15702,USD,CGEN
 united states,Cognex,Cognex Corporation,cognex-corp,US1924221039,15703,USD,CGNX
+united states,Comstock,Comstock Holding Companies Inc,comstock-homebuil,US2056842022,15704,USD,CHCI
+united states,City Holding,City Holding Company,city-holding-comp,US1778351056,15705,USD,CHCO
 united states,Churchill Downs,Churchill Downs Incorporated,churchill-downs,US1714841087,15706,USD,CHDN
 united states,The Chefs Warehouse,The Chefs Warehouse Inc,the-chefs-warehouse,US1630861011,15708,USD,CHEF
 united states,Apex Global Brands Inc,Apex Global Brands Inc,cherokee-inc,US03755M2017,15712,USD,APEX
@@ -816,6 +863,7 @@ united states,Coherus BioSciences,Coherus BioSciences Inc,charming-shoppes,US192
 united states,Charter Communications,Charter Communications Inc,charter-communications,US16119P1084,15722,USD,CHTR
 united states,Cinedigm,Cinedigm Corp,cinedigm-digital,US1724062096,15725,USD,CIDM
 united states,Fanhua,Fanhua Inc,cninsure-inc,US30712A1034,15728,USD,FANH
+united states,Citizens,Citizens Holding Company,citizens-holding,US1747151025,15730,USD,CIZN
 united states,China Jo-Jo Drugstores,China Jo-Jo Drugstores Inc,china-jo-jo-drugs,US16949A2069,15731,USD,CJJD
 united states,Collectors Universe,Collectors Universe Inc,collectors-univer,US19421R2004,15735,USD,CLCT
 united states,Celldex Therapeutics,Celldex Therapeutics Inc,celldex-therapeutics,US15117B2025,15736,USD,CLDX
@@ -824,13 +872,16 @@ united states,Calumet,Calumet Specialty Products Partners,calumet-specialty,US13
 united states,Clean Energy,Clean Energy Fuels Corp,clean-energy-fuel,US1844991018,15740,USD,CLNE
 united states,Sharing Economy,Sharing Economy International Inc,cleantech,US8195341081,15741,USD,SEII
 united states,ClearOne,ClearOne Inc,clearone-communications,US18506U1043,15742,USD,CLRO
+united states,Town Sportss,Town Sports International Holdings,town-sports-international,US89214A1025,15743,USD,CLUB
 united states,Clovis,Clovis Oncology Inc,clovis-oncology,US1894641000,15744,USD,CLVS
+united states,Euro Tech,Euro Tech Holdings Company Ltd,euro-tech-holding,VGG320301275,15745,USD,CLWT
 united states,Columbus McKinnon,Columbus McKinnon Corporation,columbus-mckinnon,US1993331057,15746,USD,CMCO
 united states,Destination XL Group,Destination XL Group Inc,destination-xl,US25065K1043,15751,USD,DXLG
 united states,Comtech,Comtech Telecommunications Corp,comtech-tele,US2058262096,15753,USD,CMTL
 united states,Commercial National Financial,Commercial National Financial Corp,commercial-nation,US2022171050,15755,USD,CNAF
 united states,Century Bancorp,Century Bancorp Inc,century-bancorp,US1564321065,15757,USD,CNBKA
 united states,Fortress Biotech,Fortress Biotech Inc,coronado-bioscien,US34960Q1094,15758,USD,FBIO
+united states,Chinanet Online,Chinanet Online Holdings Inc,chinanet-online,US16949H2013,15759,USD,CNET
 united states,Taoping,Taoping Inc,china-information,VGG8675V1013,15760,USD,TAOP
 united states,CONMED,CONMED Corporation,conmed-corp,US2074101013,15761,USD,CNMD
 united states,Consolidated Communications,Consolidated Communications,consolidated-comm,US2090341072,15763,USD,CNSL
@@ -844,9 +895,11 @@ united states,Columbia Banking,Columbia Banking System Inc,columbia-banking,US19
 united states,Columbia Sportswear,Columbia Sportswear Company,columbia-sportswear,US1985161066,15777,USD,COLM
 united states,Conns,Conns Inc,conns,US2082421072,15779,USD,CONN
 united states,Polarityte,Polarityte Inc,majesco-entertainment,US7310941080,15780,USD,PTE
+united states,Core-Mark,Core-Mark Holding Company Inc,core-mark-holding,US2186811046,15781,USD,CORE
 united states,Corcept,Corcept Therapeutics Incorporated,corcept-therapeutics,US2183521028,15782,USD,CORT
 united states,Cowen Group,Cowen Group Inc,cowen-group,US2236226062,15784,USD,COWN
 united states,Two Rivers Bancorp,Two Rivers Bancorp,two-rivers-bancorp,US90207C1053,15785,USD,TRCB
+united states,Canterbury Park,Canterbury Park Holding Corporation,canterbury-park,US13811E1010,15787,USD,CPHC
 united states,Cumberland,Cumberland Pharmaceuticals Inc,cumberland-pharma,US2307701092,15789,USD,CPIX
 united states,Capital Product,Capital Product Partners LP,capital-product-partners,MHY110822068,15791,USD,CPLP
 united states,Catalyst Pharmaceuticals,Catalyst Pharmaceuticals Inc,catalyst-pharmaceuticals,US14888U1016,15794,USD,CPRX
@@ -908,6 +961,7 @@ united states,Citizens&Northern,Citizens & Northern Corp,citizens---northe,US172
 united states,Citizens Community,Citizens Community Bancorp Inc,citizens-community,US1749031043,15886,USD,CZWI
 united states,Data I/O,Data I/O Corporation,data-i-o-corp,US2376901029,15888,USD,DAIO
 united states,Daktronics,Daktronics Inc,daktronics,US2342641097,15889,USD,DAKT
+united states,BBQ Holdings,BBQ Holdings Inc,famous-daves-of,US05551A1097,15892,USD,BBQ
 united states,Performance Shipping,Performance Shipping Inc,diana-containersh,MHY673051055,15894,USD,DCIX
 united states,Dime Community,Dime Community Bancshares Inc,dime-community-ba,US2539221083,15895,USD,DCOM
 united states,Delcath Systems,Delcath Systems Inc,delcath-systems,US24661P7087,15896,USD,DCTH
@@ -950,17 +1004,20 @@ united states,Liberty Global C,Liberty Global PLC Class C,liberty-global-(c),GB0
 united states,MercadoLibre,MercadoLibre Inc,mercadolibre,US58733R1023,16599,USD,MELI
 united states,T-Mobile US,T-Mobile US Inc,metropcs-communications,US8725901040,19694,USD,TMUS
 united states,Facebook,Facebook Inc,facebook-inc,US30303M1027,26490,USD,FB
+united states,Willis Towers Watson,Willis Towers Watson PLC,willis-group-holdings-plc,IE00BDB6Q211,29740,USD,WLTW
 united states,Workday,Workday Inc,workday-inc,US98138H1014,32361,USD,WDAY
 united states,Mondelez,Mondelez International Inc,mondelez-international-inc,US6092071058,32372,USD,MDLZ
 united states,Skyworks,Skyworks Solutions Inc,skyworks-solutions-inc,US83088M1027,32378,USD,SWKS
 united states,Lululemon Athletica,Lululemon Athletica Inc,lululemon-athletica,US5500211090,32383,USD,LULU
 united states,Regeneron Pharma,Regeneron Pharmaceuticals Inc,regeneron-phar.,US75886F1075,32391,USD,REGN
+united states,ASML  ADR,ASML Holding NV ADR,asml-holdings,USN070592100,39320,USD,ASML
 united states,Synopsys,Synopsys Inc,synopsys-inc,US8716071076,39335,USD,SNPS
 united states,Ulta Beauty,Ulta Beauty Inc,ulta-salon-cosmetics---fragrance,US90384S3031,39338,USD,ULTA
 united states,Verisk,Verisk Analytics Inc,verisk-analytics-inc,US92345Y1064,39340,USD,VRSK
 united states,American Airlines,American Airlines Group,american-airlines-group,US02376R1023,44412,USD,AAL
 united states,Alphabet C,Alphabet Inc Class C,google-inc-c,US02079K1079,100160,USD,GOOG
 united states,Jd.Com Inc Adr,Jd.Com Inc Adr,jd.com-inc-adr,US47215P1066,102911,USD,JD
+united states,PayPal Holdings Inc,PayPal Holdings Inc,paypal-holdings-inc,US70450Y1038,956170,USD,PYPL
 united states,Fox Corp A,Fox Corp Class A,fox-corp,US35137L1052,1123483,USD,FOXA
 united states,Fox Corp B,Fox Corp Class B,fox-corp-b,US35137L2043,1123484,USD,FOX
 united states,Dynatronics,Dynatronics Corporation,dynatronics-corp,US2681574016,15956,USD,DYNT
@@ -1005,6 +1062,7 @@ united states,Evolving Systems,Evolving Systems Inc,evolving-systems,US30049R209
 united states,East West Bancorp,East West Bancorp Inc,east-west-bancorp,US27579R1041,16037,USD,EWBC
 united states,EXACT Sciences,EXACT Sciences Corporation,exact-sciences-co,US30063P1057,16040,USD,EXAS
 united states,EXFO,EXFO Inc,exfo?cid=16042,CA3020461073,16042,USD,EXFO
+united states,ExlServices,ExlService Holdings Inc,exlservice-holdin,US3020811044,16044,USD,EXLS
 united states,Exponent,Exponent Inc,exponent,US30214U1025,16045,USD,EXPO
 united states,EZCORP,EZCORP Inc,ezcorp,US3023011063,16048,USD,EZPW
 united states,Farmer Bros. Co,Farmer Bros. Co,farmer-brothers-c,US3076751086,16052,USD,FARM
@@ -1025,6 +1083,7 @@ united states,First Defiance,First Defiance Financial Corp,first-defiance,US3200
 united states,Frequency Electronics,Frequency Electronics Inc,frequency-electro,US3580101067,16077,USD,FEIM
 united states,Franklin Electric,Franklin Electric Co Inc,franklin-electric,US3535141028,16078,USD,FELE
 united states,First Financial Bancorp,First Financial Bancorp,first-financial-bancorp,US3202091092,16080,USD,FFBC
+united states,Fuwei Films Holdings,Fuwei Films Holdings Co Ltd,fuwei-films-(holdings)-co.,KYG3704F1101,16087,USD,FFHL
 united states,Flushing,Flushing Financial Corporation,flushing-financial,US3438731057,16088,USD,FFIC
 united states,First Financial Bankshares,First Financial Bankshares Inc,first-financial-bankshares,US32020R1095,16089,USD,FFIN
 united states,First Financial Northwest,First Financial Northwest Inc,first-financial-northwest,US32022K1025,16094,USD,FFNW
@@ -1046,6 +1105,7 @@ united states,Forward Industries,Forward Industries Inc,forward-industries,US349
 united states,FormFactor,FormFactor Inc,formfactor,US3463751087,16119,USD,FORM
 united states,Forrester,Forrester Research Inc,forrester-research,US3465631097,16120,USD,FORR
 united states,Formula Systems ADR,Formula Systems 1985 Ltd ADR,formula-systems-(1985)-ltd,US3464141056,16121,USD,FORTY
+united states,Francescass,Francescas Holdings,francescas-holdings-corp,US3517931040,16123,USD,FRAN
 united states,Republic First Bancorp,Republic First Bancorp Inc,republic-first,US7604161072,16124,USD,FRBK
 united states,First Merchants,First Merchants Corporation,first-merchants-corp,US3208171096,16127,USD,FRME
 united states,Franklin Financial,Franklin Financial Services Corp,franklin-financial,US3535251082,16128,USD,FRAF
@@ -1099,11 +1159,13 @@ united states,Chart Industries,Chart Industries Inc,chart-industries,US16115Q308
 united states,GTX Inc,Oncternal Therapeutics Inc,gtx,US68236P1075,16229,USD,ONCT
 united states,Gulf Resources,Gulf Resources Inc,gulf-resources,US40251W3097,16231,USD,GURE
 united states,Gyrodyne of America,Gyrodyne Company of America Inc,gyrodyne-company,US4038291047,16232,USD,GYRO
+united states,Hawaiian,Hawaiian Holdings Inc,hawaiian-holdings,US4198791018,16233,USD,HA
 united states,Hanmi,Hanmi Financial Corporation,hafc,US4104952043,16234,USD,HAFC
 united states,Hallmark,Hallmark Financial Services Inc,hallmark-financial,US40624Q2030,16235,USD,HALL
 united states,Halozyme,Halozyme Therapeutics Inc,halozyme-therapeutics,US40637H1095,16236,USD,HALO
 united states,Haynes,Haynes International Inc,haynes--international,US4208772016,16240,USD,HAYN
 united states,Home Bancorp,Home Bancorp Inc,home-bancorp,US43689E1073,16241,USD,HBCP
+united states,Hancock Whitney,Hancock Whitney Corp,hancock-holding-c,US4101201097,16242,USD,HWC
 united states,Harvard Bioscience,Harvard Bioscience Inc,harvard-bioscienc,US4169061052,16243,USD,HBIO
 united states,Horizon Bancorp,Horizon Bancorp,horizon-bancorp,US4404071049,16244,USD,HBNC
 united states,Heritage-Crystal Clean,Heritage-Crystal Clean Inc,heritage-crystal,US42726M1062,16247,USD,HCCI
@@ -1118,9 +1180,11 @@ united states,China HGS RE,China HGS Real Estate Inc,china-hgs-real-estate,US169
 united states,Hudson Global Inc,Hudson Global Inc,hudson-highland-g,US4437872058,16265,USD,HSON
 united states,Hibbett Sports,Hibbett Sports Inc,hibbett-sports,US4285671016,16266,USD,HIBB
 united states,Hingham Institution,Hingham Institution for Savings,hingham-institutions,US4333231029,16267,USD,HIFS
+united states,Highways,Highway Holdings Limited,highway-holdings,VGG4481U1066,16268,USD,HIHO
 united states,Himax,Himax Technologies Inc,himax-tech,US43289P1066,16270,USD,HIMX
 united states,Harmonic,Harmonic Inc,harmonic-inc,US4131601027,16273,USD,HLIT
 united states,HMN Financial,HMN Financial Inc,hmn-financial,US40424G1085,16275,USD,HMNF
+united states,HMS Holdings,HMS Holdings Corp,hms-holdings-corp,US40425J1016,16278,USD,HMSY
 united states,Hallador,Hallador Energy Company,hallador-energy-c,US40609P1057,16280,USD,HNRG
 united states,Hooker Furniture,Hooker Furniture Corporation,hooker-furniture,US4390381006,16282,USD,HOFT
 united states,Hollysys Automation Tech,Hollysys Automation Technologies Ltd,hollysys-automati,VGG456671053,16285,USD,HOLI
@@ -1130,6 +1194,7 @@ united states,Horizon Finance,Horizon Technology Finance,horizon-tech,US44045A10
 united states,Heidrick&Struggles,Heidrick & Struggles International,heidrick---strugg,US4228191023,16295,USD,HSII
 united states,Heska,Heska Corporation,heska-corp,US42805E3062,16296,USD,HSKA
 united states,HealthStream,HealthStream Inc,healthstream,US42222N1037,16299,USD,HSTM
+united states,Remark,Remark Holdings Inc,remark,US75955K1025,16300,USD,MARK
 united states,Heritage Commerce,Heritage Commerce Corp,heritage-commerce,US4269271098,16301,USD,HTBK
 united states,Huazhu,Huazhu Group Ltd,china-lodging-gro,US44332N1063,16304,USD,HTHT
 united states,Heartland Express,Heartland Express Inc,heartland-express,US4223471040,16305,USD,HTLD
@@ -1142,6 +1207,7 @@ united states,Hawthorn Bancshares,Hawthorn Bancshares Inc,hawthorn-bancshar,US42
 united states,Houston Wire&Cable,Houston Wire & Cable Company,houston-wire---ca,US44244K1097,16313,USD,HWCC
 united states,Hawkins,Hawkins Inc,hawkins,US4202611095,16314,USD,HWKN
 united states,Horizon Pharma,Horizon Pharma PLC,horizon-pharma,IE00BQPVQZ61,16316,USD,HZNP
+united states,Integra,Integra LifeSciences Holdings,integra-lifescien,US4579852082,16317,USD,IART
 united states,Independent Bank Corp,Independent Bank Corporation,independent-bank-corp,US4538386099,16319,USD,IBCP
 united states,IBERIABANK,IBERIABANK Corporation,iberiabank-corp,US4508281080,16320,USD,IBKC
 united states,Interactive Brokers,Interactive Brokers Group Inc,interactive-broke,US45841N1072,16321,USD,IBKR
@@ -1156,6 +1222,7 @@ united states,Idera Pharma,Idera Pharmaceuticals Inc,idera-pharmaceuticals,US451
 united states,Industrial Services,Industrial Services of America Inc,industrial-service,US4563141039,16333,USD,IDSA
 united states,ID Systems,PowerFleet Inc,i.d.-systems,US73931J1097,16334,USD,PWFL
 united states,Icahn Enterprises,Icahn Enterprises LP,icahn-enterprises,US4511001012,16337,USD,IEP
+united states,IES Holdings,IES Holdings Inc,integrated-electr,US44951W1062,16338,USD,IESC
 united states,Interface,Interface Inc,interface,US4586653044,16340,USD,TILE
 united states,Internet Gold,Internet Gold Golden Lines Ltd,internet-gold?cid=16341,IL0010834435,16341,USD,IGLD
 united states,Information Services,Information Services Group Inc,information-services,US45675Y1047,16344,USD,III
@@ -1180,6 +1247,7 @@ united states,Identive,Identive Group Inc,identive-group,US45170X2053,16378,USD,
 united states,InnerWorkings,InnerWorkings Inc,innerworkings,US45773Y1055,16379,USD,INWK
 united states,Innospec,Innospec Inc,innospec-inc,US45768S1050,16381,USD,IOSP
 united states,Inter Parfums,Inter Parfums Inc,inter-parfums-inc,US4583341098,16382,USD,IPAR
+united states,Innophoss,Innophos Holdings Inc,innophos-holdings,US45774N1081,16387,USD,IPHS
 united states,iRobot,iRobot Corporation,irobot-corp,US4627261005,16390,USD,IRBT
 united states,Iridium,Iridium Communications Inc,iridium-communications,US46269C1027,16391,USD,IRDM
 united states,IRIDEX,IRIDEX Corporation,iridex-corp,US4626841013,16394,USD,IRIX
@@ -1205,6 +1273,7 @@ united states,51job,51job Inc,51job,US3168271043,16431,USD,JOBS
 united states,Centric Brands,Centric Brands Inc,joes-jeans-inc,US15644G1040,16432,USD,CTRC
 united states,Johnson Outdoors,Johnson Outdoors Inc,johnson-outdoors,US4791671088,16434,USD,JOUT
 united states,China Finance,China Finance Online Co Limited,china-finance-onlilne,US1693791048,16436,USD,JRJC
+united states,Coffee Holding,Coffee Holding Co Inc,coffee-holding,US1921761052,16439,USD,JVA
 united states,Kaiser,Kaiser Aluminum Corporation,kaiser-aluminum-c,US4830077040,16441,USD,KALU
 united states,Kimball,Kimball International Inc,kimball--international,US4942741038,16443,USD,KBAL
 united states,Kelly Services A,Kelly Services A Inc,kelly-services-(a),US4881522084,16445,USD,KELYA
@@ -1254,6 +1323,7 @@ united states,LogMeIn,LogMeIn Inc,logmein,US54142L1098,16527,USD,LOGM
 united states,Loop Industries,Loop Industries Inc,loopnet,US5435181046,16531,USD,LOOP
 united states,Grand Canyon Education,Grand Canyon Education Inc,grand-canyon-educ,US38526M1062,16532,USD,LOPE
 united states,Loral Space,Loral Space and Communications Inc,loral-space-and-c,US5438811060,16533,USD,LORL
+united states,LPL Financial,LPL Financial Holdings Inc,lpl-investment-ho,US50212V1008,16535,USD,LPLA
 united states,LivePerson,LivePerson Inc,liveperson,US5381461012,16538,USD,LPSN
 united states,LightPath,LightPath Technologies Inc,lightpath-technol,US5322578056,16539,USD,LPTH
 united states,Liquidity Services,Liquidity Services Inc,liquidity-service,US53635B1070,16540,USD,LQDT
@@ -1285,6 +1355,7 @@ united states,STRATA Skin Sciences,STRATA Skin Sciences Inc,mela-sciences,US8627
 united states,Methanex,Methanex Corporation,methanex?cid=16603,CA59151K1084,16603,USD,MEOH
 united states,Mercer Int,Mercer International Inc,mercer-international-inc,US5880561015,16604,USD,MERC
 united states,Mackinac,Mackinac Financial Corporation,mackinac-financial,US5545711096,16610,USD,MFNC
+united states,Perma-Pipe Int,Perma-Pipe International Holdings Inc,mfri,US7141671039,16611,USD,PPIH
 united states,MutualFirst,MutualFirst Financial Inc,mutualfirst-financial,US62845B1044,16613,USD,MFSF
 united states,MGE Energy,MGE Energy Inc,mge-energy-inc,US55277P1049,16615,USD,MGEE
 united states,Magic,Magic Software Enterprises Ltd,magic-sftware?cid=16616,IL0010823123,16616,USD,MGIC
@@ -1292,10 +1363,12 @@ united states,Magellan Health,Magellan Health Services Inc,magellan-health-s,US5
 united states,MGP Ingredients,MGP Ingredients Inc,mgp-ingredients,US55303J1060,16618,USD,MGPI
 united states,McGrath,McGrath RentCorp,mcgrath-rentcorp,US5805891091,16619,USD,MGRC
 united states,Magyar,Magyar Bancorp Inc,magyar-bancorp,US55977T1097,16620,USD,MGYR
+united states,Maiden Holdings,Maiden Holdings Ltd,maiden-holdings,BMG5753U1128,16622,USD,MHLD
 united states,Mitcham,Mitcham Industries Inc,mitcham-industries,US6065011040,16623,USD,MIND
 united states,Mobile Mini,Mobile Mini Inc,mobile-mini,US60740F1057,16624,USD,MINI
 united states,Mitek,Mitek Systems Inc,mitek-systems,US6067102003,16627,USD,MITK
 united states,MKS Instruments,MKS Instruments Inc,mks-instruments,US55306N1046,16629,USD,MKSI
+united states,MarketAxesss,MarketAxess Holdings Inc,marketaxess-holdi,US57060D1081,16631,USD,MKTX
 united states,Mesa Labs,Mesa Laboratories Inc,mesa-laboratories,US59064R1095,16632,USD,MLAB
 united states,Herman Miller,Herman Miller Inc,herman-miller,US6005441000,16633,USD,MLHR
 united states,Steel Connect,Steel Connect Inc,moduslink-global,US8580981061,16634,USD,STCN
@@ -1394,6 +1467,7 @@ united states,Omeros,Omeros Corporation,omeros-corp,US6821431029,16807,USD,OMER
 united states,Odyssey,Odyssey Marine Exploration Inc,odyssey-marine-ex,US6761182012,16808,USD,OMEX
 united states,Oncolytics Biotech,Oncolytics Biotech Inc,oncolytics-biotech-inc?cid=16810,CA6823108759,16810,USD,ONCY
 united states,ON Semiconductor,ON Semiconductor Corporation,on-semiconductor,US6821891057,16812,USD,ON
+united states,OptimumBank Holdings,OptimumBank Holdings Inc,optimumbank-holdi,US68401P4037,16818,USD,OPHC
 united states,Old Point,Old Point Financial Corporation,old-point-financial,US6801941070,16821,USD,OPOF
 united states,Ocean Power,Ocean Power Technologies Inc,ocean-power-tech,US6748705067,16823,USD,OPTT
 united states,Great Elm Capital,Great Elm Capital Group Inc,unwired-planet,US39036P2092,16824,USD,GEC
@@ -1418,6 +1492,7 @@ united states,Pure Acquisition A,Pure Acquisition Corp Class A,prime-acquisition
 united states,PacWest,PacWest Bancorp,pacwest-bancorp,US6952631033,16859,USD,PACW
 united states,Universal Display,Universal Display,universal-display,US91347P1057,16860,USD,OLED
 united states,Patrick,Patrick Industries Inc,patrick-industries,US7033431039,16864,USD,PATK
+united states,Frp Holdings Ord,Frp Holdings Ord,patriot-transport,US30292L1070,16865,USD,FRPH
 united states,Pathfinder Bancorp,Pathfinder Bancorp Inc,pathfinder-bancor,US70319R1095,16867,USD,PBHC
 united states,Porter Bancorp,Limestone Bancorp Inc,porter-bancorp,US53262L1052,16868,USD,LMST
 united states,Prudential Pennsylvania,Prudential Bancorp Inc Pennsylvania,prudential-bancor,US74431A1016,16870,USD,PBIP
@@ -1461,9 +1536,11 @@ united states,Everest,Everest Re Group Ltd,everest-re-group-ltd,BMG3223R1088,207
 united states,Regency Centers,Regency Centers Corporation,regency-centers-corp,US7588491032,20718,USD,REG
 united states,Dollar General,Dollar General Corporation,dollar-general-corp,US2566771059,20744,USD,DG
 united states,First Republic Bank,First Republic Bank,first-republic-bank,US33616C1009,20751,USD,FRC
+united states,Nielsen,Nielsen Holdings PLC,nielsen-holdings-nv,GB00BWFY5505,20769,USD,NLSN
 united states,Transdigm,Transdigm Group Incorporated,transdigm-group-inc,US8936411003,20793,USD,TDG
 united states,Atmos Energy,Atmos Energy Corporation,atmos-energy-corp,US0495601058,20844,USD,ATO
 united states,Duke,Duke Realty Corporation,duke-realty-corp,US2644115055,20923,USD,DRE
+united states,HCA,HCA Holdings Inc,hca-holdings-inc,US40412C1018,20931,USD,HCA
 united states,Rollins,Rollins Inc,rollins-inc,US7757111049,21137,USD,ROL
 united states,ResMed,ResMed Inc,resmed-inc,US7611521078,21180,USD,RMD
 united states,MSCI,MSCI Inc,msci-inc,US55354G1004,21232,USD,MSCI
@@ -1473,6 +1550,7 @@ united states,Alexandria RE,Alexandria Real Estate Equities Inc,alexandria-real-
 united states,Teleflex,Teleflex Incorporated,teleflex-inc,US8793691069,29680,USD,TFX
 united states,Westinghouse Air Brake,Westinghouse Air Brake Technologies Corp,westinghouse-air-brake-tech,US9297401088,29723,USD,WAB
 united states,Evergy,Evergy Inc,westar-energy,US30034W1062,29737,USD,EVRG
+united states,Capri Holdings,Capri Holdings Ltd,michael-kors-holdings,VGG1890L1076,32321,USD,CPRI
 united states,Aptiv,Aptiv PLC,delphi-automotive,JE00B783TY65,32331,USD,APTV
 united states,Crown Castle,Crown Castle International Corp,crown-castle-int,US22822V1017,32337,USD,CCI
 united states,Foot Locker,Foot Locker Inc,foot-locker,US3448491049,32358,USD,FL
@@ -1519,12 +1597,16 @@ united states,HollyFrontier,HollyFrontier Corporation,hollyfrontier-co,US4361061
 united states,Realty Income,Realty Income Corp,realty-income,US7561091049,39285,USD,O
 united states,AO Smith,Smith AO Corporation,a.o-smith-corp,US8318652091,39291,USD,AOS
 united states,Fortune Brands,Fortune Brands Home & Security Inc,fortune-brands-home---security,US34964C1062,39295,USD,FBHS
+united states,Cboe Global,Cboe Global Markets Inc,cboe-holdings-inc,US12503M1080,39325,USD,CBOE
 united states,Copart,Copart Inc,copart-inc,US2172041061,39327,USD,CPRT
 united states,AbbVie,AbbVie Inc,abbvie-inc,US00287Y1091,40041,USD,ABBV
 united states,Diamondback,Diamondback Energy Inc,diamondback-energy-inc,US25278X1090,40062,USD,FANG
+united states,Norwegian Cruise Line,Norwegian Cruise Line Holdings Ltd,norwegian-cruise-line-holdings-ltd,BMG667211046,40082,USD,NCLH
 united states,Zoetis Inc,Zoetis Inc,zoetis-inc,US98978V1035,41176,USD,ZTS
+united states,Iqvia,Iqvia Holdings Inc,quintis-trl-hlgs,US46266C1053,41232,USD,IQV
 united states,Coty Inc,Coty Inc,coty-inc,US2220702037,41258,USD,COTY
 united states,Twitter Inc,Twitter Inc,twitter-inc,US90184L1026,44334,USD,TWTR
+united states,Hilton Worldwide,Hilton Worldwide Holdings Inc,hilton-worldwide,US43300A2033,44408,USD,HLT
 united states,Allegion PLC,Allegion PLC,allegion-public,IE00BFRT3W74,48361,USD,ALLE
 united states,IHS Markit Ltd,IHS Markit Ltd,markit-ltd,BMG475671050,102907,USD,INFO
 united states,Arista Networks,Arista Networks,arista-networks,US0404131064,103925,USD,ANET
@@ -1537,6 +1619,7 @@ united states,Hewlett Packard,Hewlett Packard Enterprise Co,hewlett-packard-ente
 united states,Under Armour C,Under Armour Inc C,under-armour-c,US9043112062,976067,USD,UA
 united states,Fortive,Fortive Corp,fortive-corp,US34959J1088,985775,USD,FTV
 united states,Arconic Inc,Arconic Inc,arconic-inc,US03965L1008,992959,USD,ARNC
+united states,Lamb Weston Holdings,Lamb Weston Holdings Inc,lamb-weston-holdings-inc,US5132721045,993236,USD,LW
 united states,Corteva,Corteva Inc,corteva,US22052L1044,1135949,USD,CTVA
 united states,Amcor PLC,Amcor,amcor-plc,JE00BJ1F3079,1142204,USD,AMCR
 united states,Kirby,Kirby Corporation,kirby-corp,US4972661064,21168,USD,KEX
@@ -1588,6 +1671,7 @@ united states,Trans Atlantic Petroleum,Trans Atlantic Petroleum Ltd,trans-atlant
 united states,Alio Gold,Alio Gold Inc,timmins-gold-corp?cid=30940,CA01627X1087,30940,USD,ALO
 united states,Tanzanian Royalty Exploration,Tanzanian Royalty Exploration Corp,tanzanian-royalty-exploration-corp?cid=30947,CA87601A1075,30947,USD,TRX
 united states,Northern Oil&Gas,Northern Oil and Gas Inc,northern-oil-and-gas-inc?cid=34149,US6655311099,34149,USD,NOG
+united states,VirnetX,VirnetX Holding Corp,virnetx-holding-corp?cid=34330,US92823T1088,34330,USD,VHC
 united states,Aberdeen Asia-Pacific,Aberdeen Asia Pacific Income Fund,aberdeen-asia-pacific-income-fund?cid=34551,US0030091070,34551,USD,FAX
 united states,Aberdeen Australia,Aberdeen Australia Equity Fund,aberdeen-australia-equity-fund?cid=34552,US0030111035,34552,USD,IAF
 united states,Aberdeen Global,Aberdeen Global Income Fund Inc,aberdeen-global-income-fund-inc?cid=34553,US0030131090,34553,USD,FCO
@@ -1596,8 +1680,10 @@ united states,Adams Resources&Energy,Adams Resources & Energy Inc,adams-resource
 united states,AeroCentury,AeroCentury Corp,aerocentury-corp?cid=34597,US0077371096,34597,USD,ACY
 united states,Alpha Pro Tech,Alpha Pro Tech,alpha-pro-tech?cid=34638,US0207721095,34638,USD,APT
 united states,AMCON Distributing,AMCON Distributing Co,amcon-distributing-co?cid=34648,US02341Q2057,34648,USD,DIT
+united states,Planet Green,Planet Green Holdings Corp,american-lorain-corp?cid=34662,US72703U1025,34662,USD,PLAG
 united states,Ampio Pharm,Ampio Pharm,ampio-pharm?cid=34686,US03209T1097,34686,USD,AMPE
 united states,Micron Solutions,Micron Solutions Inc,arrhythmia-research-technology?cid=34725,US59511X1054,34725,USD,MICR
+united states,Avalon,Avalon Holdings Corp,avalon-holdings-corp?cid=34761,US05343P1093,34761,USD,AWX
 united states,Ballantyne Strong,Ballantyne Strong Inc,ballantyne-strong-inc?cid=34786,US0585161054,34786,USD,BTN
 united states,Bancroft,Bancroft Fund,bancroft-fund?cid=34793,US0596951063,34793,USD,BCV
 united states,Bancorp of New Jersey,Bank of New Jersey Inc,bank-of-new-jersey-inc?cid=34796,US0599151083,34796,USD,BKJ
@@ -1610,6 +1696,7 @@ united states,CEL-SCI,CEL-SCI Corp,cel-sci-corp?cid=35009,US1508376076,35009,USD
 united states,Central Securities,Central Securities Corp,central-securities-corp?cid=35019,US1551231020,35019,USD,CET
 united states,Chase,Chase,chase?cid=35032,US16150R1041,35032,USD,CCF
 united states,Chicago Rivet&Machine,Chicago Rivet and Machine Co,chicago-rivet-and-machine-co?cid=35046,US1680881026,35046,USD,CVR
+united states,China Pharma,China Pharma Holdings Inc,china-pharma-holdings-inc?cid=35067,US16941T1043,35067,USD,CPHI
 united states,Clough Global Allocation,Clough Global Allocation Fund,clough-global-allocation-fund?cid=35124,US18913Y1038,35124,USD,GLV
 united states,Clough Global,Clough Global Equity Fund,clough-global-equity-fund?cid=35125,US18914C1009,35125,USD,GLQ
 united states,Clough Global Opportunities,Clough Global Opportunities Fund,clough-global-opportunities-fund?cid=35126,US18914E1064,35126,USD,GLO
@@ -1628,6 +1715,7 @@ united states,Delaware Colorado,Delaware Inv. Col. Mun. Income,delaware-inv.-col
 united states,Delaware Florida,Delaware Inv. Nat. Muni. Income,delaware-inv.-nat.-muni.-income?cid=35278,US24610T1088,35278,USD,VFL
 united states,Delaware Minnesota II,Delaware Inv. Min. Muni. Income II,delaware-inv.-min.-muni.-income-ii?cid=35279,US24610V1035,35279,USD,VMM
 united states,Delta Apparel,Delta Apparel Inc,delta-apparel-inc?cid=35281,US2473681037,35281,USD,DLA
+united states,DPW,DPW Holdings Inc,digital-power-corp?cid=35303,US26140E6005,35303,USD,DPW
 united states,Document Security,Document Security Systems Inc,document-security-systems-inc?cid=35311,US25614T2006,35311,USD,DSS
 united states,Dreyfus Municipalome,Dreyfus Municipal Income Inc,dreyfus-municipal-income-inc?cid=35327,US26201R1023,35327,USD,DMF
 united states,Eagle,Eagle Capital Growth Fund Inc,eagle-capital-growth-fund-inc?cid=35352,US2694511005,35352,USD,GRF
@@ -1660,7 +1748,9 @@ united states,Hemispherx Biopharma,Hemispherx Biopharma Inc,hemispherx-biopharma
 united states,Houston American Energy,Houston American Energy Corp,houston-american-energy-corp?cid=35804,US44183U1007,35804,USD,HUSA
 united states,IEC,IEC Electronics Corp,iec-electronics-corp?cid=35826,US44949L1052,35826,USD,IEC
 united states,Ibio,Ibio Inc,ibio-inc?cid=35831,US4510332038,35831,USD,IBIO
+united states,Impac Mortgage,Impac Mortgage Holdings Inc,impac-mortgage-holdings-inc?cid=35848,US45254P5089,35848,USD,IMH
 united states,Income Opportunity Realty,Income Opportunity Realty Trust,income-opportunity-realty-trust?cid=35851,US4529261087,35851,USD,IOR
+united states,InfuSystems,InfuSystem Holdings Inc,infusystem-holdings-inc?cid=35862,US45685K1025,35862,USD,INFU
 united states,Cohen & Co,Cohen & Company Inc,institutional-financial-markets?cid=35878,US19249M1027,35878,USD,COHN
 united states,InnSuites Hospitality,InnSuites Hospitality Trust,innsuites-hospitality-trust?cid=35880,US4579191085,35880,USD,IHT
 united states,Intellicheck Mobilisa,Intellicheck Mobilisa Inc,intellicheck-mobilisa-inc?cid=35883,US45817G2012,35883,USD,IDN
@@ -1670,6 +1760,7 @@ united states,LGL Group,LGL Group,lgl-group?cid=36004,US50186A1088,36004,USD,LGL
 united states,Ladenburg Thalmann,Ladenburg Thalmann,ladenburg-thalmann?cid=36015,US50575Q1022,36015,USD,LTS
 united states,Libbey,Libbey Inc,libbey-inc?cid=36039,US5298981086,36039,USD,LBY
 united states,Camber Energy Inc,Camber Energy Inc,lucas-energy?cid=36068,US13200M5085,36068,USD,CEI
+united states,Mastech,Mastech Holdings,mastech-holdings?cid=36138,US57633B1008,36138,USD,MHH
 united states,Mexco Energy,Mexco Energy Corp,mexco-energy-corp?cid=36197,US5927701012,36197,USD,MXC
 united states,NTN Buzztime,NTN Buzztime,ntn-buzztime?cid=36269,US6294106066,36269,USD,NTN
 united states,National HealthCare,National HealthCare Corp,national-healthcare-corp?cid=36284,US6359061008,36284,USD,NHC
@@ -1755,11 +1846,16 @@ united states,Ubiquiti,Ubiquiti Networks Inc,ubiquiti-networks,US90353W1036,1742
 united states,United Natural Foods,United Natural Foods Inc,united-natural-foods,US9111631035,17450,USD,UNFI
 united states,US Physicalrapy,US Physicalrapy Inc,us-physical-therapy-inc,US90337L1089,17467,USD,USPH
 united states,WPP ADR,WPP PLC ADR,wpp-plc,US92937A1025,17566,USD,WPP
+united states,Leidos,Leidos Holdings Inc,leidos-holdings,US5253271028,19696,USD,LDOS
+united states,American Equity Inv. Life,American Equity Investment Life Holding Co,american-equity-holdings,US0256762065,20134,USD,AEL
 united states,GAP ADR,Grupo Aeroportuario del Pacifico SAB De CV ADR,grupo-aeroportuario-del-pacifico,US4005061019,20135,USD,PAC
+united states,ASE Industrial ADR,ASE Industrial Holding Co Ltd ADR,advanced-semiconductor-engineering,US00215W1009,20137,USD,ASX
 united states,California Water Service,California Water Service Group,california-water-service-group,US1307881029,20139,USD,CWT
 united states,IRSA ADR,IRSA Inversiones Y Representaciones,irsa-inversiones-representaciones,US4500472042,20142,USD,IRS
 united states,MFA Financial,MFA Financial Inc,mfa-financial-inc,US55272X1028,20143,USD,MFA
 united states,Apollo Commercial RE Finance,Apollo Commercial Real Estate Finance Inc,apollo-commercial-real-estate-fin.,US03762U1051,20146,USD,ARI
+united states,Concord Medical Services,Concord Medical Services Holdings,concord-medical-services-holdings,US2062771058,20148,USD,CCM
+united states,China Distance Education,China Distance Education Holdings,china-distance-education-holdings,US16944W1045,20150,USD,DL
 united states,PLDT ADR,PLDT Inc ADR,philippine-long-distance-telephone,US69344D4088,20152,USD,PHI
 united states,Roadrunner,Roadrunner Transportation Systems Inc,roadrunner-transportation-systems,US76973Q2049,20153,USD,RRTS
 united states,Superior Industries,Superior Industries International,superior-industries-international,US8681681057,20155,USD,SUP
@@ -1772,6 +1868,7 @@ united states,Pennsylvania RE,Pennsylvania RE Investment Trust,pennsylvania-real
 united states,Sumitomo Mitsui Financial ADR,Sumitomo Mitsui Financial Group Inc,sumitomo-mitsui-financial-group,US86562M2098,20171,USD,SMFG
 united states,Federal Agricultural Mortgage,Federal Agricultural Mortgage,federal-agricultural-mortgage-corp,US3131483063,20172,USD,AGM
 united states,Banco Bilbao ADR,Banco Bilbao Viscaya Argentaria SA,banco-bilbao-viscaya-argentaria-sa,US05946K1016,20173,USD,BBVA
+united states,Clear Channel,Clear Channel Outdoor Holdings Inc,clear-channel-outdoor-holdings-inc,US18453H1068,20175,USD,CCO
 united states,Canadian Imperial Bank,Canadian Imperial Bank of Commerce,cibc?cid=20176,CA1360691010,20176,USD,CM
 united states,North American Construction,North American Energy Partners Inc,north-american-energy-partners?cid=20181,CA6568111067,20181,USD,NOA
 united states,PennyMac Mortgage,PennyMac Mortgage Investment Trust,pennymac-mortgage-investment-trust,US70931T1034,20183,USD,PMT
@@ -1779,6 +1876,7 @@ united states,Oi ADR,Oi SA ADR,brasil-telecom-participacoes-sa-c,US6708515001,20
 united states,First Commonwealth Financial,First Commonwealth Financial,first-commonwealth-financial-corp,US3198291078,20188,USD,FCF
 united states,First Industrial RT,First Industrial Realty Trust Inc,first-industrial-realty-trust-inc,US32054K1034,20189,USD,FR
 united states,RPT Realty,RPT Realty,ramco-gershenson-properties-trust,US74971D1019,20195,USD,RPT
+united states,Booz Allen Hamilton,Booz Allen Hamilton Holding,booz-allen-hamilton-holding-corp,US0995021062,20199,USD,BAH
 united states,Hawaiian Electric Industries,Hawaiian Electric Industries Inc,hawaiian-electric-industries-inc,US4198701009,20204,USD,HE
 united states,Helix,Helix Energy Solutions Group Inc,helix-energy-solutions-group-inc,US42330P1075,20205,USD,HLX
 united states,AG Mortgage Investment,AG Mortgage Investment Trust Inc,ag-mortgage-investment-trust-inc,US0012281053,20209,USD,MITT
@@ -1790,10 +1888,14 @@ united states,China Eastern Airlines,China Eastern Airlines Ltd,china-eastern-ai
 united states,Choice Hotels,Choice Hotels International Inc,choice-hotels-international-inc,US1699051066,20224,USD,CHH
 united states,Equity Lifestyle,Equity Lifestyle Properties Inc,equity-lifestyle-properties-inc,US29472R1086,20227,USD,ELS
 united states,Entravision,Entravision Communications,entravision-communications-corp,US29382R1077,20228,USD,EVC
+united states,Everi Holdings,Everi Holdings Inc,global-cash-access-holdings-inc,US30034T1034,20231,USD,EVRI
 united states,Haverty Furniture,Haverty Furniture Companies Inc,haverty-furniture-companies-inc,US4195961010,20234,USD,HVT
 united states,Kingsway Financial,Kingsway Financial Services Inc,kingsway-financial-services-inc,US4969042021,20236,USD,KFS
 united states,Kraton,Kraton Corp,kraton-performance-polymers-inc,US50077C1062,20237,USD,KRA
+united states,Lumber Liquidators,Lumber Liquidators Holdings Inc,lumber-liquidators-holdings-inc,US55003T1079,20238,USD,LL
+united states,PNM Resources,PNM Resources Inc,pnm-resources-inc-(holding-co.),US69349H1077,20242,USD,PNM
 united states,Pzena Investment Management,Pzena Investment Management Inc,pzena-investment-management-inc,US74731Q1031,20243,USD,PZN
+united states,Spirit Aerosystems,Spirit Aerosystems Holdings Inc,spirit-aerosystems-holdings-inc,US8485741099,20246,USD,SPR
 united states,Pyxus,Pyxus International Inc,alliance-one-international-inc,US74737V1061,20248,USD,PYX
 united states,Armstrong World Industries,Armstrong World Industries Inc,armstrong-world-industries-inc,US04247X1028,20249,USD,AWI
 united states,American Axle&Manufacturing,American Axle & Manufacturing,american-axle---manufacturing,US0240611030,20250,USD,AXL
@@ -1803,6 +1905,7 @@ united states,China Yuchai,China Yuchai International Limited,china-yuchai-inter
 united states,Centrais Electricas Brasileiras,Centrais Electricas Brasileiras SA,centrais-elc-braz-pfb-b-elbras,US15234Q2075,20259,USD,EBR
 united states,New Oriental Education&Tech,New Oriental Education & Technology,new-oriental-education---tech,US6475811070,20261,USD,EDU
 united states,EPR Properties,EPR Properties,entertainment-properties-trust,US26884U1097,20262,USD,EPR
+united states,Graphic Packaging,Graphic Packaging Holding Company,graphic-packaging-holding-comp,US3886891015,20263,USD,GPK
 united states,Maui Land&Pineapple,Maui Land & Pineapple Company Inc,maui-land---pineapple-comp-inc,US5773451019,20266,USD,MLP
 united states,MSC Industrial Direct,MSC Industrial Direct Company Inc,msc-industrial-direct-comp-inc,US5535301064,20267,USD,MSM
 united states,Natural Gas Services,Natural Gas Services Group Inc,natural-gas-services-group-inc,US63886Q1094,20268,USD,NGS
@@ -1820,6 +1923,7 @@ united states,Haverty Furniture A,Haverty Furniture Companies A,haverty-furnitur
 united states,InterContinental ADR,InterContinental Hotels Group PLC ADR,intercontinental-hotels-group-plc,US45857P8068,20294,USD,IHG
 united states,China Life Insurance ADR,China Life Insurance Company,china-life-insurance-comp-ltd,US16939P1066,20295,USD,LFC
 united states,Lions Gate,Lions Gate Entertainment,lions-gate-entertainment-corp,CA5359194019,20296,USD,LGFa
+united states,Laredo Petroleum,Laredo Petroleum Holdings Inc,laredo-petroleum-holdings-inc,US5168061068,20297,USD,LPI
 united states,Live Nation Entertainment,Live Nation Entertainment Inc,live-nation-entertainment-inc,US5380341090,20298,USD,LYV
 united states,National Health Investors,National Health Investors Inc,national-health-investors-inc,US63633D1046,20300,USD,NHI
 united states,Annaly Capital Management,Annaly Capital Management Inc,annaly-capital-management-inc,US0357104092,20301,USD,NLY
@@ -1833,10 +1937,13 @@ united states,FactSet Research,FactSet Research Systems Inc,factset-research-sys
 united states,Genco Shipping Trading,Genco Shipping & Trading Ltd,genco-shipping---trading-ltd,MHY2685T1313,20323,USD,GNK
 united states,Medical Properties,Medical Properties Trust Inc,medical-properties-trust-inc,US58463J3041,20330,USD,MPW
 united states,MagnaChip,MagnaChip Semiconductor,magnachip-semiconductor-corp,US55933J2033,20332,USD,MX
+united states,Navios Maritime Holdings,Navios Maritime Holdings Inc,navios-maritime-holdings-inc,MHY621971198,20333,USD,NM
 united states,OFG Bancorp,OFG Bancorp,oriental-financial-group-inc,PR67103X1020,20334,USD,OFG
 united states,Oil States,Oil States International Inc,oil-states-international-inc,US6780261052,20335,USD,OIS
+united states,Select Medical,Select Medical Holdings,select-medical-holdings-corp,US81619Q1058,20340,USD,SEM
 united states,Sunstone Hotel Investors,Sunstone Hotel Investors Inc,sunstone-hotel-investors-inc,US8678921011,20342,USD,SHO
 united states,Genesis Healthcare Inc,Genesis Healthcare Inc,skilled-healthcare-group-inc,US37185X1063,20343,USD,GEN
+united states,Spectrum Brands,Spectrum Brands Holdings Inc,spectrum-brands-holdings-inc,US84790A1051,20344,USD,SPB
 united states,Asbury Automotive,Asbury Automotive Group Inc,asbury-automotive-group-inc,US0434361046,20347,USD,ABG
 united states,AMN Healthcare Services,AMN Healthcare Services Inc,amn-healthcare-services-inc,US0017441017,20348,USD,AMN
 united states,Anworth Mortgage Asset,Anworth Mortgage Asset,anworth-mortgage-asset-corp,US0373471012,20350,USD,ANH
@@ -1846,17 +1953,21 @@ united states,Fresenius Medical Care ADR,Fresenius Medical Care Corporation,fres
 united states,Hanger,Hanger Inc,hanger-orthopedic-group-inc,US41043F2083,20362,USD,HNGR
 united states,Summit Hotel Properties,Summit Hotel Properties Inc,summit-hotel-properties-inc,US8660821005,20364,USD,INN
 united states,John Bean Tech,John Bean Technologies Corporation,john-bean-technologies-corp,US4778391049,20365,USD,JBT
+united states,JinkoSolar,JinkoSolar Holding Company Limited,jinkosolar-holding-comp-ltd,US47759T1007,20366,USD,JKS
+united states,Kennedy-Wilson,Kennedy-Wilson Holdings Inc,kennedy-wilson-holdings-inc,US4893981070,20367,USD,KW
 united states,McDermott,McDermott International Inc,mcdermott-international-inc,PAL1201471A1,20368,USD,MDR
 united states,MSA Safety,MSA Safety,mine-safety-appliances-comp,US5534981064,20372,USD,MSA
 united states,Nordic American Tankers,Nordic American Tankers Limited,nordic-american-tankers-ltd,BMG657731060,20373,USD,NAT
 united states,Navistar,Navistar International Corporation,navistar-international-corp,US63934E1082,20374,USD,NAV
 united states,Penske Automotive,Penske Automotive Group Inc,penske-automotive-group-inc,US70959W1036,20376,USD,PAG
+united states,Prestige Brand,Prestige Brand Holdings Inc,prestige-brand-holdings-inc,US74112D1019,20377,USD,PBH
 united states,REX American Resources,REX American Resources Corporation,rex-american-resources-corp,US7616241052,20379,USD,REX
 united states,South Jersey Industries,South Jersey Industries Inc,south-jersey-industries-inc,US8385181081,20381,USD,SJI
 united states,Standard Motor Products,Standard Motor Products Inc,standard-motor-products-inc,US8536661056,20382,USD,SMP
 united states,Starwood Property,Starwood Property Trust Inc,starwood-property-trust-inc,US85571B1052,20383,USD,STWD
 united states,Triton Int,Triton International Group Inc,tal-international-group-inc,BMG9078F1077,20384,USD,TRTN
 united states,Molson Coors Brewing A,Molson Coors Brewing Comp A,molson-coors-brewing-comp-a,US60871R1005,20385,USD,TAPa
+united states,Arcos Dorados,Arcos Dorados Holdings Inc,arcos-dorados-holdings-inc,VGG0457F1071,20389,USD,ARCO
 united states,American States Water,American States Water Company,american-states-water-comp,US0298991011,20391,USD,AWR
 united states,Capital Senior Living,Capital Senior Living Corporation,capital-senior-living-corp,US1404751042,20393,USD,CSU
 united states,Ryman Hospitality Properties,Ryman Hospitality Properties Inc,ryman-hospitality-properties,US78377T1079,20399,USD,RHP
@@ -1866,6 +1977,7 @@ united states,Hornbeck,Hornbeck Offshore Services,hornbeck-offshore-services,US4
 united states,Northwest Natural Gas,Northwest Natural Gas Co,northwest-natural-gas-comp,US66765N1054,20413,USD,NWN
 united states,One Liberty,One Liberty Properties Inc,one-liberty-properties-inc,US6824061039,20414,USD,OLP
 united states,Prudential Public ADR,Prudential Public Limited Company,prudential-public-ltd-comp,US74435K2042,20419,USD,PUK
+united states,Renaissancere,Renaissancere Holdings Ltd,renaissancere-holdings-ltd,BMG7496G1033,20420,USD,RNR
 united states,Standex,Standex International Corporation,standex-international-corp,US8542311076,20422,USD,SXI
 united states,Sensient Technologies,Sensient Technologies Corporation,sensient-technologies-corp,US81725T1007,20423,USD,SXT
 united states,American Assets,American Assets Trust Inc,american-assets-trust-inc,US0240131047,20424,USD,AAT
@@ -1886,6 +1998,8 @@ united states,Brinker,Brinker International Inc,brinker-international-inc,US1096
 united states,Emergent Biosolutions,Emergent Biosolutions Inc,emergent-biosolutions-inc,US29089Q1058,20443,USD,EBS
 united states,Ethan Allen Interiors,Ethan Allen Interiors Inc,ethan-allen-interiors-inc,US2976021046,20444,USD,ETH
 united states,Greenbrier,Greenbrier Companies Inc,greenbrier-companies-inc,US3936571013,20446,USD,GBX
+united states,GAIN,GAIN Capital Holdings Inc,gain-capital-holdings-inc,US36268W1009,20447,USD,GCAP
+united states,Independence,Independence Holding Company,independence-holding-comp,US4534403070,20449,USD,IHC
 united states,Korea Electric Power,Korea Electric Power Corporation,korea-electric-power-corp,US5006311063,20450,USD,KEP
 united states,Knight Transportation,Knight Transportation Inc,knight-transportation-inc,US4990491049,20451,USD,KNX
 united states,Modine Manufacturing,Modine Manufacturing Company,modine-manufacturing-comp,US6078281002,20455,USD,MOD
@@ -1893,6 +2007,7 @@ united states,Minerals Technologies,Minerals Technologies Inc,minerals-technolog
 united states,National Grid ADR,National Grid PLC ADR,national-grid-transco-plc,US6362744095,20458,USD,NGG
 united states,Prosperity Bancshares,Prosperity Bancshares Inc,prosperity-bancshares-inc,US7436061052,20459,USD,PB
 united states,Park Electrochemical,Park Electrochemical Corporation,park-electrochemical-corp,US70014A1043,20460,USD,PKE
+united states,Sally Beauty,Sally Beauty Holdings Inc,sally-beauty-holdings-inc,US79546E1047,20464,USD,SBH
 united states,Safeguard Scientifics,Safeguard Scientifics Inc,safeguard-scientifics-inc,US7864492076,20465,USD,SFE
 united states,Sequans Communications,Sequans Communications SA,sequans-communications-sa,US8173231080,20467,USD,SQNS
 united states,Bonanza Creek Energy,Bonanza Creek Energy Inc,bonanza-creek-energy-inc,US0977934001,20474,USD,BCEI
@@ -1908,13 +2023,17 @@ united states,Hersha,Hersha Hospitality Trust,hersha-hospitality-trust,US4278255
 united states,KAR Auction Services,KAR Auction Services Inc,kar-auction-services-inc,US48238T1097,20496,USD,KAR
 united states,Korn/Ferry,Korn/Ferry International,korn-ferry-international,US5006432000,20498,USD,KFY
 united states,Lloyds Banking ADR,Lloyds Banking Group PLC ADR,lloyds-banking-group-plc,US5394391099,20503,USD,LYG
+united states,Murphy USA Inc,Murphy USA Inc,metals-usa-holdings-corp,US6267551025,20505,USD,MUSA
 united states,Cornerstone Building,Cornerstone Building Brands Inc,nci-building-systems-inc,US21925D1090,20506,USD,CNR
 united states,NewJersey Resources,NewJersey Resources Corporation,newjersey-resources-corp,US6460251068,20507,USD,NJR
+united states,Oppenheimer,Oppenheimer Holdings Inc,oppenheimer-holdings-inc,US6837971042,20508,USD,OPY
 united states,Scotts Miracle-Gro,Scotts Miracle-Gro Company,scotts-miracle-gro-comp,US8101861065,20511,USD,SMG
 united states,Smith&Nephew SNATS,Smith & Nephew SNATS Inc,smith---nephew-snats-inc,US83175M2052,20512,USD,SNN
+united states,Alexander&Baldwin,Alexander & Baldwin Holdings Inc,alexander---baldwin-inc,US0144911049,20515,USD,ALEX
 united states,Antero Midstream,Antero Midstream Corp,american-greetings-corp,US03676B1026,20516,USD,AM
 united states,Acorn,Acorn International Inc,acorn-international-inc,US0048542049,20518,USD,ATV
 united states,Brandywine,Brandywine Realty Trust,brandywine-realty-trust,US1053682035,20520,USD,BDN
+united states,B&G Foods,B&G Foods Inc,b-g-foods-holdings-corp,US05508R1068,20521,USD,BGS
 united states,Coeur Mining,Coeur Mining Inc,coeur-dalene-mines-corp,US1921085049,20522,USD,CDE
 united states,Chunghwa Telecom,Chunghwa Telecom Co Ltd,chunghwa-telecom-co-ltd,US17133Q5027,20523,USD,CHT
 united states,CNO Financial,CNO Financial Group Inc,cno-financial-group-inc,US12621E1038,20525,USD,CNO
@@ -1927,6 +2046,7 @@ united states,Methode Electronics,Methode Electronics Inc,methode-electronics-in
 united states,Nam Tai Property,Nam Tai Property Inc,nam-tai-electronics-inc,VGG639071023,20544,USD,NTP
 united states,Nu Skin,Nu Skin Enterprises Inc,nu-skin-enterprises-inc,US67018T1051,20545,USD,NUS
 united states,Oil-Dri Of America,Oil-Dri Corporation Of America,oil-dri-corp-of-america,US6778641000,20546,USD,ODC
+united states,OneSmart,OneSmart International Education Group Ltd,higher-one-holdings-inc,US68276W1036,20547,USD,ONE
 united states,Precision Drilling,Precision Drilling Corporation,precision-drilling?cid=20548,CA74022D3085,20548,USD,PDS
 united states,Pebblebrook Hotel,Pebblebrook Hotel Trust,pebblebrook-hotel-trust,US70509V1008,20549,USD,PEB
 united states,Obsidian Energy,Obsidian Energy Ltd,penn-west-petroleum?cid=20550,CA6744822033,20550,USD,OBE
@@ -1944,6 +2064,7 @@ united states,Capstead Mortgage,Capstead Mortgage Corporation,capstead-mortgage-
 united states,Comstock Resources,Comstock Resources Inc,comstock-resources-inc,US2057683029,20570,USD,CRK
 united states,Carlisle,Carlisle Companies Incorporated,carlisle-companies-inc,US1423391002,20571,USD,CSL
 united states,Cousins Properties,Cousins Properties Incorporated,cousins-properties-inc,US2227955026,20572,USD,CUZ
+united states,Employers,Employers Holdings Inc,employers-holdings-inc,US2922181043,20575,USD,EIG
 united states,Group 1 Automotive,Group 1 Automotive Inc,group-1-automotive-inc,US3989051095,20578,USD,GPI
 united states,Hill Intl,Hill International Inc,hill-international-inc,US4314661012,20579,USD,HIL
 united states,Jones Lang LaSalle,Jones Lang LaSalle Incorporated,jones-lang-lasalle-inc,US48020Q1076,20580,USD,JLL
@@ -1955,6 +2076,7 @@ united states,Mechel ADR,Mechel OAO,mechel-steel-group-oao,US5838406081,20588,US
 united states,Mueller Water Products,Mueller Water Products,mueller-water-products-inc,US6247581084,20589,USD,MWA
 united states,National Fuel Gas,National Fuel Gas Company,national-fuel-gas-comp,US6361801011,20590,USD,NFG
 united states,Ormat,Ormat Technologies Inc,ormat-technologies-inc,US6866881021,20591,USD,ORA
+united states,Orion Group,Orion Group Holdings Inc,orion-marine-group-inc,US68628V3087,20592,USD,ORN
 united states,Panhandle Royalty,Panhandle Royalty Company,panhandle-royalty-comp,US6984771062,20593,USD,PHX
 united states,Sturm Ruger&Company,Sturm Ruger & Company Inc,sturm-ruger---comp-inc,US8641591081,20599,USD,RGR
 united states,Sun Life Financial,Sun Life Financial Inc,sun-life-financial?cid=20602,CA8667961053,20602,USD,SLF
@@ -1962,20 +2084,24 @@ united states,Constellation Brands B,Constellation Brands B,constellation-brands
 united states,Toronto Dominion Bank,Toronto Dominion Bank,toronto-dominion-bank?cid=20605,CA8911605092,20605,USD,TD
 united states,Ampco-Pittsburgh,Ampco-Pittsburgh Corporation,ampco-pittsburgh-corp,US0320371034,20607,USD,AP
 united states,AngloGold Ashanti ADR,AngloGold Ashanti Ltd ADR,anglogold-ashanti-ltd,US0351282068,20610,USD,AU
+united states,BlueLinx,BlueLinx Holdings Inc,bluelinx-holdings-inc,US09624H2085,20613,USD,BXC
 united states,Cai,Cai International Inc,cai-international-inc,US12477X1063,20614,USD,CAI
 united states,Mack-Cali,Mack-Cali Realty Corporation,mack-cali-realty-corp,US5544891048,20619,USD,CLI
 united states,Clearwater Paper,Clearwater Paper Corporation,clearwater-paper-corp,US18538R1032,20620,USD,CLW
 united states,China Cord Blood,China Cord Blood Corporation,china-cord-blood-corp,KYG393421030,20623,USD,CO
 united states,Callon Petroleum,Callon Petroleum Company,callon-petroleum-comp,US13123X1028,20625,USD,CPE
 united states,Carriage Services,Carriage Services Inc,carriage-services-inc,US1439051079,20627,USD,CSV
+united states,Delek US Energy,Delek US Energy Inc,delek-us-holdings-inc,US24665A1034,20628,USD,DK
 united states,El Paso Electric,El Paso Electric Company,el-paso-electric-comp,US2836778546,20630,USD,EE
 united states,ESCO Technologies,ESCO Technologies Inc,esco-technologies-inc,US2963151046,20631,USD,ESE
 united states,Evercore,Evercore Partners Inc,evercore-partners-inc,US29977A1051,20632,USD,EVR
+united states,Archrock,Archrock Inc,exterran-holdings-inc,US03957W1062,20633,USD,AROC
 united states,Endeavour Silver,Endeavour Silver Corporation,endeavour-silver?cid=20634,CA29258Y1034,20634,USD,EXK
 united states,Phoenix New Media,Phoenix New Media Limited,phoenix-new-media-ltd,US71910C1036,20636,USD,FENG
 united states,Flotek,Flotek Industries Inc,flotek-industries-inc,US3433891021,20637,USD,FTK
 united states,Gildan Activewear,Gildan Activewear Inc,gildan-activewear?cid=20639,CA3759161035,20639,USD,GIL
 united states,Global Ship Lease,Global Ship Lease Inc,global-ship-lease-inc,MHY271836006,20644,USD,GSL
+united states,Hill-Rom,Hill-Rom Holdings Inc,hill-rom-holdings-inc,US4314751029,20646,USD,HRC
 united states,Miller Industries,Miller Industries Inc,miller-industries-inc,US6005512040,20650,USD,MLR
 united states,Molina Healthcare,Molina Healthcare Inc,molina-healthcare-inc,US60855R1005,20651,USD,MOH
 united states,Newpark Resources,Newpark Resources Inc,newpark-resources-inc,US6517185046,20652,USD,NR
@@ -1987,6 +2113,8 @@ united states,Boston Beer,Boston Beer Company Inc,boston-beer-comp-inc,US1005571
 united states,Stifel,Stifel Financial Corporation,stifel-financial-corp,US8606301021,20664,USD,SF
 united states,STMicroelectronics ADR,STMicroelectronics NV ADR,stmicroelectronics-nv,US8610121027,20666,USD,STM
 united states,ARMOUR Residential,ARMOUR Residential REIT Inc,armour-residential-r,US0423155078,20671,USD,ARR
+united states,Biglari,Biglari Holdings Inc,biglari-holdings-inc,US08986R3093,20673,USD,BH
+united states,Bitauto,Bitauto Holdings Limited,bitauto-holdings-ltd,US0917271076,20674,USD,BITA
 united states,Bank of Nova Scotia,Bank of Nova Scotia,scotiabank?cid=20675,CA0641491075,20675,USD,BNS
 united states,Beazer Homes USA,Beazer Homes USA Inc,beazer-homes-usa-inc,US07556Q8814,20678,USD,BZH
 united states,Core Laboratories,Core Laboratories NV,core-laboratories?cid=20679,NL0000200384,20679,USD,CLB
@@ -1994,7 +2122,10 @@ united states,CoreSite,CoreSite Realty Corporation,coresite-realty-corp,US21870Q
 united states,Daqo New Energy ADR,Daqo New Energy Corp ADR,daqq-new-energy-corp,US23703Q2030,20685,USD,DQ
 united states,Dycom Industries,Dycom Industries Inc,dycom-industries-inc,US2674751019,20687,USD,DY
 united states,Flagstar Bancorp,Flagstar Bancorp Inc,flagstar-bancorp-inc,US3379307057,20689,USD,FBC
+united states,Hilltop,Hilltop Holdings Inc,hilltop-holdings-inc,US4327481010,20690,USD,HTH
+united states,Interxion Holding NV,Interxion Holding NV,interxion-holding-nv,NL0009693779,20693,USD,INXN
 united states,Ion Geophysical,Ion Geophysical Corp,ion-geophysical-corp,US4620442073,20694,USD,IO
+united states,Koppers,Koppers Holdings Inc,koppers-holdings-inc,US50060P1066,20695,USD,KOP
 united states,Kronos Worldwide,Kronos Worldwide Inc,kronos-worldwide-inc,US50105F1057,20696,USD,KRO
 united states,Quaker Chemical,Quaker Chemical Corporation,quaker-chemical-corp,US7473161070,20698,USD,KWR
 united states,Mercury General,Mercury General Corporation,mercury-general-corp,US5894001008,20700,USD,MCY
@@ -2016,6 +2147,7 @@ united states,BRF,BRF SA,brf-brasil-foods-sa,US10552T1079,20733,USD,BRFS
 united states,Caleres,Caleres Inc,brown-shoe-comp-inc,US1295001044,20734,USD,CAL
 united states,Cincinnati Bell,Cincinnati Bell Inc,cincinnati-bell-inc,US1718715022,20735,USD,CBB
 united states,CIT,CIT Group Inc,cit-group-inc-(del),US1255818015,20737,USD,CIT
+united states,SEACOR,SEACOR Holdings Inc,seacor-holdings-inc,US8119041015,20738,USD,CKH
 united states,Cantel Medical,Cantel Medical Corp,cantel-medical-corp,US1380981084,20739,USD,CMD
 united states,Credit Suisse ADR,Credit Suisse Group,credit-suisse-group,US2254011081,20740,USD,CS
 united states,Curtiss-Wright,Curtiss-Wright Corporation,curtiss-wright-corp,US2315611010,20743,USD,CW
@@ -2037,6 +2169,7 @@ united states,PAR Technology,PAR Technology Corporation,par-technology-corp,US69
 united states,Royal Dutch Shell ADR,Royal Dutch Shell PLC ADR,royal-dutch-shell-a-plc,US7802592060,20778,USD,RDSa
 united states,Royal Dutch Shell B ADR,Royal Dutch Shell B PLC,royal-dutch-shell-b-plc,US7802591070,20779,USD,RDSb
 united states,istar Inc,istar Inc,istar-financial-inc,US45031U1016,20780,USD,STAR
+united states,Fang Holdings,Fang Holdings Ltd,soufun-holdings-ltd,US30711Y2019,20781,USD,SFUN
 united states,National Steel,National Steel Company,national-steel-comp,US20440W1053,20782,USD,SID
 united states,STAG Industrial,STAG Industrial Inc,stag-industrial-inc,US85254J1025,20787,USD,STAG
 united states,Scorpio Tankers,Scorpio Tankers Inc,scorpio-tankers-inc,MHY7542C1306,20788,USD,STNG
@@ -2045,6 +2178,7 @@ united states,Taubman Centers,Taubman Centers Inc,taubman-centers-inc,US87666410
 united states,Resolute Forest Products,Resolute Forest Products Inc,resolute-forest-products,US76117W1099,20794,USD,RFP
 united states,ABM Industries,ABM Industries Incorporated,abm-industries-inc,US0009571003,20795,USD,ABM
 united states,Arbor,Arbor Realty Trust,arbor-realty-trust,US0389231087,20796,USD,ABR
+united states,AerCap Holdings NV,AerCap Holdings NV,aercap-holdings-nv,NL0000687663,20797,USD,AER
 united states,Clarivate Analytics,Clarivate Analytics PLC,calgon-carbon-corp,JE00BJJN4441,20803,USD,CCC
 united states,Cellcom,Cellcom Israel Ltd,cellcom-israel?cid=20804,IL0011015349,20804,USD,CEL
 united states,CNA Financial,CNA Financial Corporation,cna-financial-corp,US1261171003,20805,USD,CNA
@@ -2057,12 +2191,14 @@ united states,Eldorado Gold,Eldorado Gold Corporation,eldorado-gold-corp.?cid=20
 united states,Callaway Golf,Callaway Golf Company,callaway-golf-comp,US1311931042,20817,USD,ELY
 united states,FTI Consulting,FTI Consulting Inc,fti-consulting-inc,US3029411093,20819,USD,FCN
 united states,Forestar,Forestar Group Inc,forestar-group-inc,US3462321015,20820,USD,FOR
+united states,Gardner Denver,Gardner Denver Holdings Inc,gardner-denver-inc,US36555P1075,20821,USD,GDI
 united states,Greif Bros B,Greif Bros Corp B,greif-bros-corp-b,US3976242061,20822,USD,GEFb
 united states,GP Strategies,GP Strategies Corporation,gp-strategies-corp,US36225V1044,20823,USD,GPX
 united states,HNI,HNI Corporation,hon-industries-inc,US4042511000,20826,USD,HNI
 united states,Huaneng Power,Huaneng Power International Inc,huaneng-power-intl,US4433041005,20827,USD,HNP
 united states,LTC Properties,LTC Properties Inc,ltc-properties-inc,US5021751020,20830,USD,LTC
 united states,Lsb Industries,Lsb Industries Inc,lsb-industries-inc,US5021601043,20831,USD,LXU
+united states,Southwest Gas Hold,Southwest Gas Holdings Inc,southwest-gas-corp,US8448951025,20840,USD,SWX
 united states,SunCoke Energy,SunCoke Energy Inc,suncoke-energy-inc,US86722A1034,20841,USD,SXC
 united states,Agree,Agree Realty Corporation,agree-realty-corp,US0084921008,20843,USD,ADC
 united states,Acuity Brands,Acuity Brands Inc,acuity-brands-inc,US00508Y1029,20846,USD,AYI
@@ -2073,6 +2209,7 @@ united states,Crawford&Co,Crawford & Co,crawford---comp-a,US2246332066,20854,USD
 united states,Crawford&Comp D,Crawford & Comp D,crawford---comp-d,US2246331076,20855,USD,CRDb
 united states,Blackstone Mortgage,Blackstone Mortgage Trust Inc,blackstone-mortgage,US09257W1009,20857,USD,BXMT
 united states,Equity Commonwealth,Equity Commonwealth,commonwealth-reit,US2946281027,20858,USD,EQC
+united states,DHI Group,DHI Group Inc,dice-holdings-inc,US23331S1006,20860,USD,DHX
 united states,Domino’s Pizza Inc,Domino’s Pizza Inc,dominos-pizza-inc,US25754A2015,20861,USD,DPZ
 united states,Dynex Capital,Dynex Capital Inc,dynex-capital-inc,US26817Q8868,20862,USD,DX
 united states,Vaalco Energy,Vaalco Energy Inc,vaalco-energy-inc,US91851C2017,20863,USD,EGY
@@ -2080,6 +2217,7 @@ united states,Orange ADR,Orange SA ADR,france-telecom-sa,US6840601065,20865,USD,
 united states,Gray Television A,Gray Television A,gray-television-a,US3893752051,20868,USD,GTNa
 united states,Getty,Getty Realty Corporation,getty-realty-corp,US3742971092,20869,USD,GTY
 united states,Hyatt,Hyatt Hotels Corporation,hyatt-hotels-corp,US4485791028,20870,USD,H
+united states,HSBC ADR,HSBC Holdings PLC ADR,hsbc-holdings-plc,US4042804066,20871,USD,HSBC
 united states,Hecla Mining,Hecla Mining Company,hecla-mining-comp,US4227041062,20872,USD,HL
 united states,Turquoise Hill Resources,Turquoise Hill Resources Ltd,turquoise-hill-resources?cid=20875,CA9004351081,20875,USD,TRQ
 united states,Jagged Peak Energy,Jagged Peak Energy Inc,jaguar-mining-inc,US47009K1079,20876,USD,JAG
@@ -2089,10 +2227,12 @@ united states,Spire,Spire Inc,laclede-group-inc,US84857L1017,20880,USD,SR
 united states,MDU Resources,MDU Resources Group Inc,mdu-res-group-inc,US5526901096,20882,USD,MDU
 united states,Mistras,Mistras Group Inc,mistras-group-inc,US60649T1079,20884,USD,MG
 united states,NL Industries,NL Industries Inc,nl-industries-inc,US6291564077,20885,USD,NL
+united states,Noah,Noah Holdings Ltd,noah-holdings-ltd,US65487X1028,20886,USD,NOAH
 united states,NeoPhotonics,NeoPhotonics Corporation,neophotonics-corp,US64051T1007,20887,USD,NPTN
 united states,NorthWestern,NorthWestern Corporation,northwestern-corp,US6680743050,20889,USD,NWE
 united states,Owens&Minor,Owens & Minor Inc,owens---minor-inc,US6907321029,20891,USD,OMI
 united states,ProAssurance,ProAssurance Corporation,proassurance-corp,US74267C1062,20893,USD,PRA
+united states,PROS,PROS Holdings Inc,pros-holdings-inc,US74346Y1038,20894,USD,PRO
 united states,Quad Graphics,Quad Graphics Inc,quad-graphics-inc,US7473011093,20895,USD,QUAD
 united states,Regal Beloit,Regal Beloit Corporation,regal-beloit-corp,US7587501039,20896,USD,RBC
 united states,RLJ Lodging,RLJ Lodging Trust,rlj-lodging-trust,US74965L1017,20897,USD,RLJ
@@ -2109,11 +2249,15 @@ united states,Bank of Montreal,Bank Of Montreal,bank-of-montreal-financial-group
 united states,BRT,BRT Realty Trust,brt-realty-trust,US0556453035,20915,USD,BRT
 united states,Bancorpsouth Bank,Bancorpsouth Bank,bancorpsouth-inc,US05971J1025,20916,USD,BXS
 united states,Boyd Gaming,Boyd Gaming Corporation,boyd-gaming-corp,US1033041013,20917,USD,BYD
+united states,Copa,Copa Holdings SA,copa-holdings-sa,PAP310761054,20918,USD,CPA
 united states,Carnival ADS,Carnival Plc ADS,carnival-plc-ads,US14365C1036,20919,USD,CUK
+united states,DHT Holdings Inc,DHT Holdings Inc,dht-holdings-inc,MHY2065G1219,20921,USD,DHT
 united states,Leaf Group,Leaf Group Ltd,demand-media-inc,US52177G1022,20922,USD,LEAF
 united states,Enzo Biochem,Enzo Biochem Inc,enzo-biochem-inc,US2941001024,20925,USD,ENZ
+united states,GNC,GNC Holdings Inc,gnc-holdings-inc,US36191G1076,20929,USD,GNC
 united states,Haemonetics,Haemonetics Corporation,haemonetics-corp,US4050241003,20930,USD,HAE
 united states,Encompass Health,Encompass Health Corp,healthsouth-corp,US29261A1007,20932,USD,EHC
+united states,MDC,MDC Holdings Inc,mdc-holdings-inc,US5526761086,20935,USD,MDC
 united states,Movado,Movado Group Inc,movado-group-inc,US6245801062,20936,USD,MOV
 united states,Vail Resorts,Vail Resorts Inc,vail-resorts-inc,US91879Q1094,20937,USD,MTN
 united states,Neenah Paper,Neenah Paper Inc,neenah-paper-inc,US6400791090,20938,USD,NP
@@ -2142,6 +2286,7 @@ united states,Chicos FAS,Chicos FAS Inc,chicos-fas-inc,US1686151028,20984,USD,CH
 united states,CVR Energy,CVR Energy Inc,cvr-energy-inc,US12662P1084,20985,USD,CVI
 united states,DineEquity,DineEquity Inc,dineequity-inc,US2544231069,20987,USD,DIN
 united states,H B Fuller,H B Fuller Company,hb-fuller-comp,US3596941068,20991,USD,FUL
+united states,Integer Hld,Integer Holdings Corp,greatbatch-inc,US45826H1095,20992,USD,ITGR
 united states,Green Dot,Green Dot Corporation,green-dot-corp,US39304D1028,20993,USD,GDOT
 united states,Geo,Geo Group Inc,geo-group-inc,US36162J1060,20994,USD,GEO
 united states,NewMarket,NewMarket Corporation,newmarket-corp,US6515871076,21003,USD,NEU
@@ -2203,6 +2348,7 @@ united states,Embraer ADR,Embraer SA ADR,embraer-sa,US29082A1079,21112,USD,ERJ
 united states,Express,Express Inc,express-inc,US30219E1038,21113,USD,EXPR
 united states,Genpact,Genpact Limited,genpact-ltd,BMG3922B1072,21114,USD,G
 united states,Genesco,Genesco Inc,genesco-inc,US3715321028,21115,USD,GCO
+united states,Aerojet Rocketdyne,Aerojet Rocketdyne Holdings Inc,gencorp-inc,US0078001056,21116,USD,AJRD
 united states,Harsco,Harsco Corporation,harsco-corp,US4158641070,21118,USD,HSC
 united states,Hexcel,Hexcel Corporation,hexcel-corp,US4282911084,21119,USD,HXL
 united states,IDACORP,IDACORP Inc,idacorp-inc,US4511071064,21120,USD,IDA
@@ -2262,14 +2408,17 @@ united states,Fortum ADR,Fortum Oyj ADR,fortum-exch,US34959F1066,25956,USD,FOJCY
 united states,Veolia ADR,Veolia Environnement SA ADR,veolia-environnement-ve,US92334N1037,29470,USD,VEOEY
 united states,Yanzhou Coal Mining,Yanzhou Coal Mining Company Limited,yanzhou-coal-mining-co-ltd,US9848461052,29757,USD,YZCAY
 united states,Coca Cola HBC ADR,Coca Cola HBC AG ADR,coca-cola-hellenic-bottling-co,US1912232055,30371,USD,CCHGY
+united states,China Resources Power ADR,China Resources Power Holding ADR,china-res-power-exch,US16943S1042,38061,USD,CRPJY
 united states,Siemens ADR,Siemens AG ADR,siemens-ag-adr,US8261975010,39230,USD,SIEGY
 united states,ZTE Corp ADR,ZTE Corp ADR,zte-corporation,US98878Q1058,52699,USD,ZTCOY
 united states,Swedish Match Ab Ord,Swedish Match Ab Ord,swedish-match-ab-ord,US8703096060,52980,USD,SWMAY
 united states,Louis Vuitton ADR,LVMH Moet Hennessy Louis Vuitton SA ADR,lvmh-moet-henn-l-vut,US5024413065,53053,USD,LVMUY
 united states,Mowi,Mowi ASA,marine-hrvs,US6246781081,101877,USD,MHGVY
+united states,Tencent ADR,Tencent Holdings Ltd ADR,tencent-holdings-pk,US88032Q1094,102875,USD,TCEHY
 united states,Gazprom,PJSC Gazprom,gazprom?cid=102876,US3682872078,102876,USD,OGZPY
 united states,Pernod Ricard SA PK,Pernod Ricard SA PK,pernod-ricard-sa-pk,US7142642070,102877,USD,PDRDY
 united states,Air France KLM SA,Air France KLM SA,air-france-klm-sa,US0091191082,941022,USD,AFLYY
+united states,AAC Technologies Holdings Inc,AAC Technologies Holdings Inc,aac-technologies-holdings-inc,US0003041052,941701,USD,AACAY
 united states,AB Electrolux,AB Electrolux,ab-electrolux,US0101982082,941702,USD,ELUXY
 united states,AB SKF,AB SKF,ab-skf,US7843754042,941703,USD,SKFRY
 united states,Abcam PLC PK,Abcam PLC PK,abcam-plc-pk,US0003801059,941704,USD,ABCZY
@@ -2293,6 +2442,8 @@ united states,Allianz ADR,Allianz SE ADR,allianz-se-pk,US0188051017,941725,USD,A
 united states,Alpha Bank,Alpha Bank SA,alpha-bank-ae,US02071M5076,941726,USD,ALBKY
 united states,Alstom PK,Alstom PK,alstom-pk,US0212442075,941727,USD,ALSMY
 united states,Alumina Limited PK,Alumina Limited PK,alumina-limited-pk,US0222051080,941728,USD,AWCMY
+united states,Amadeus IT Holding SA PK,Amadeus IT Holding SA PK,amadeus-it-holding-sa-pk,US02263T1043,941729,USD,AMADY
+united states,ANA Holdings ADR,ANA Holdings Inc ADR,ana-holdings-inc,US0323501009,941731,USD,ALNPY
 united states,Anglo American Platinum ADR,Anglo American Platinum Ltd ADR,anglo-american-platinum-ltd-pk,US03486T2024,941733,USD,ANGPY
 united states,Anglo American ADR,Anglo American PLC ADR,anglo-american-plc-pk,US03485P3001,941734,USD,NGLOY
 united states,Anhui Conch Cement Co,Anhui Conch Cement Co Ltd,anhui-conch-cement-co-ltd,US0352431045,941735,USD,AHCHY
@@ -2327,6 +2478,7 @@ united states,BB Seguridade Participacoes SA,BB Seguridade Participacoes SA,bb-s
 united states,Bezeq Corp,Bezeq Corp Ltd,bezeq-corp-ltd,US08861Q1031,941777,USD,BZQIY
 united states,Bidvest Group Ltd PK,Bidvest Group Ltd PK,bidvest-group-ltd-pk,US0888363092,941779,USD,BDVSY
 united states,BNP Paribas ADR,BNP Paribas SA ADR,bnp-paribas-pk,US05565A2024,941781,USD,BNPQY
+united states,BOC Hong Kong ADR,BOC Hong Kong Holdings Ltd ADR,boc-hong-kong-holdings-ltd,US0968132094,941782,USD,BHKLY
 united states,Bpost ADR,Bpost SA ADR,bpost-sa,US05578W1009,941783,USD,BPOSY
 united states,Brambles ADR,Brambles Ltd ADR,brambles-ltd,US1051052090,941784,USD,BXBLY
 united states,Bridgestone ADR,Bridgestone Corp ADR,bridgestone-corp,US1084412055,941785,USD,BRDCY
@@ -2351,11 +2503,13 @@ united states,China Shenhua Energy Co,China Shenhua Energy Co Ltd,china-shenhua-
 united states,China State Construction Int Hold,China State Construction Int Hold,china-state-construction-int-hold,US16948H1032,941812,USD,CCOHY
 united states,Chorus ADR,Chorus Ltd ADR,chorus-limited,US17040V1070,941813,USD,CHRYY
 united states,Chow Tai Fook Jewellery Group,Chow Tai Fook Jewellery Group,chow-tai-fook-jewellery-group,US17044P1066,941814,USD,CJEWY
+united states,CHR Hansen Holding AS,CHR Hansen Holding AS,chr-hansen-holding-as,US12545M2070,941815,USD,CHYHY
 united states,Cielo SA,Cielo SA,cielo-sa,US1717782023,941816,USD,CIOXY
 united states,City Developments,City Developments Ltd,city-developments-ltd,US1777973058,941818,USD,CDEVY
 united states,Clariant AG,Clariant AG,clariant-ag,US18047P1012,941819,USD,CLZNY
 united states,Clicks Group,Clicks Group Ltd,clicks-group-ltd,US18682W2052,941820,USD,CLCGY
 united states,Clinuvel Pharmaceuticals ADR,Clinuvel Pharmaceuticals Ltd ADR,clinuvel-pharmaceuticals-ltd,US1887691038,941821,USD,CLVLY
+united states,CLP Holdings,CLP Holdings Ltd,clp-holdings-ltd,US18946Q1013,941822,USD,CLPHY
 united states,Coca-Cola Amatil ADR,Coca-Cola Amatil Ltd ADR,coca-cola-amatil-ltd,US1910852086,941823,USD,CCLAY
 united states,CochLear ADR,CochLear Ltd ADR,cochlear-ltd,US1914592050,941824,USD,CHEOY
 united states,Colruyt SA,Colruyt SA,colruyt-sa,US1968501015,941825,USD,CUYTY
@@ -2380,6 +2534,7 @@ united states,Danone PK,Danone PK,danone-pk,US23636T1007,941846,USD,DANOY
 united states,Danske Bank A/S ADR,Danske Bank A/S ADR,danske-bank-a-s,US2363632066,941847,USD,DNKEY
 united states,Dassault Systemes SA,Dassault Systemes SA,dassault-systemes-sa,US2375451083,941848,USD,DASTY
 united states,Davide Campari-Milano SpA,Davide Campari-Milano SpA,davide-campari-milano-spa,US23857W1053,941849,USD,DVDCY
+united states,DBS Group Holdings ADR,DBS Group Holdings Ltd ADR,dbs-group-holdings-ltd,US23304Y1001,941850,USD,DBSDY
 united states,Delek Group,Delek Group Ltd,delek-group-ltd,US24664R1077,941852,USD,DGRLY
 united states,Denso ADR,Denso Corp ADR,denso-corp,US24872B1008,941853,USD,DNZOY
 united states,Deutsche Boerse ADR,Deutsche Boerse AG ADR,deutsche-boerse-ag,US2515421061,941854,USD,DBOEY
@@ -2388,6 +2543,7 @@ united states,Deutsche Post AG,Deutsche Post AG,deutsche-post-ag,US25157Y2028,94
 united states,Deutsche Telekom ADR,Deutsche Telekom AG ADR,deutsche-telekom-ag-pk,US2515661054,941857,USD,DTEGY
 united states,Direct Line Insurance,Direct Line Insurance Group PLC,direct-line-insurance-group,US25490E2028,941858,USD,DIISY
 united states,DNB ASA ADR,DNB ASA ADR,dnb-asa,US23328E1064,941859,USD,DNHBY
+united states,Pan Pacific Intl,Pan Pacific International Holdings Corp,don-quijote-holdings-co-ltd,US69807K1051,941861,USD,DQJCY
 united states,Dongfeng Motor Group Co,Dongfeng Motor Group Co Ltd,dongfeng-motor-group-co-ltd,US2577382037,941862,USD,DNFGY
 united states,East Japan Railway ADR,East Japan Railway Co ADR,east-japan-railway-co,US2732021017,941864,USD,EJPRY
 united states,EDP Energias de Portugal ADR,EDP Energias de Portugal SA ADR,edp-energias-de-portugal-sa,US2683531097,941865,USD,EDPFY
@@ -2397,6 +2553,7 @@ united states,Electricite de France SA,Electricite de France SA,electricite-de-f
 united states,Elekta ADR,Elekta AB ADR,elekta-ab,US28617Y1010,941869,USD,EKTAY
 united states,Enagas SA,Enagas SA,enagas-sa,US29248L1044,941870,USD,ENGGY
 united states,ENEL Societa per Azioni,ENEL Societa per Azioni,enel-societa-per-azioni,US29265W2070,941871,USD,ENLAY
+united states,ENN Energy Holdings,ENN Energy Holdings Ltd,enn-energy-holdings-ltd,US26876F1021,941873,USD,XNGSY
 united states,EON SE,EON SE,eon-se,US2687801033,941874,USD,EONGY
 united states,Erste Group Bank AG PK,Erste Group Bank AG PK,erste-group-bank-ag-pk,US2960363040,941875,USD,EBKDY
 united states,Essilor International SA,Essilor International SA,essilor-international-sa,US2972842007,941877,USD,ESLOY
@@ -2415,11 +2572,13 @@ united states,Foxtons Group PLC,Foxtons Group PLC,foxtons-group-plc,US35166C1099
 united states,Fresenius ADR,Fresenius SE & Co KGaA ADR,fresenius-se---co-kgaa,US35804M1053,941895,USD,FSNUY
 united states,Fuchs Petrolub ADR,Fuchs Petrolub SE ADR,fuchs-petrolub-se,US35952Q1067,941896,USD,FUPBY
 united states,Subaru ADR,Subaru Corp ADR,fuji-heavy-industries-ltd,US86428V1044,941897,USD,FUJHY
+united states,FUJIFILM Holdings Corp,FUJIFILM Holdings Corp,fujifilm-holdings-corp,US35958N1072,941898,USD,FUJIY
 united states,Fujitsu ADR,Fujitsu Ltd ADR,fujitsu-ltd,US3595903044,941899,USD,FJTSY
 united states,G4S ADR,G4S PLC ADR,g4s-plc,US37441W1080,941900,USD,GFSZY
 united states,Gazprom Neft ADR,Gazprom Neft PAO ADR,gazprom-neft,US36829G1076,941903,USD,GZPFY
 united states,Engie ADR,Engie SA ADR,gdf-suez-sa-pk,US29286D1054,941904,USD,ENGIY
 united states,GEA Group AG,GEA Group AG,gea-group-ag,US3615921083,941905,USD,GEAGY
+united states,Geely Automobile ADR,Geely Automobile Holdings Ltd ADR,geely-automobile-holdings-ltd,US36847Q1031,941906,USD,GELYY
 united states,Gemalto ADR,Gemalto NV ADR,gemalto-nv,US36863N2080,941907,USD,GTOMY
 united states,Genmab AS,Genmab AS,genmab-as,US3723032062,941908,USD,GMAB
 united states,Genting Berhad,Genting Berhad,genting-berhad,US3724523002,941909,USD,GEBHY
@@ -2453,6 +2612,8 @@ united states,Hugo Boss AG,Hugo Boss AG,hugo-boss-ag,US4445601069,941944,USD,BOS
 united states,Husqvarna AB,Husqvarna AB,husqvarna-ab,US4481031015,941945,USD,HSQVY
 united states,Hypera,Hypera SA,hypermarcas-sa,US44914U1060,941948,USD,HYPMY
 united states,Iberdrola SA,Iberdrola SA,iberdrola-sa,US4507371015,941950,USD,IBDRY
+united states,Impala Platinum Holdings Ltd PK,Impala Platinum Holdings Ltd PK,impala-platinum-holdings-ltd-pk,US4525533083,941953,USD,IMPUY
+united states,Imperial Holdings Ltd PK,Imperial Holdings Ltd PK,imperial-holdings-ltd-pk,US4528332053,941954,USD,IHLDY
 united states,Imperial Brands,Imperial Brands PLC,imperial-tobacco-group-plc,US45262P1021,941955,USD,IMBBY
 united states,Incitec Pivot ADR,Incitec Pivot Ltd ADR,incitec-pivot-ltd,US45326Y2063,941956,USD,INCZY
 united states,Indra Sistemas SA,Indra Sistemas SA,indra-sistemas-sa,US45579R1068,941958,USD,ISMAY
@@ -2470,6 +2631,8 @@ united states,Isuzu Motors,Isuzu Motors Ltd,isuzu-motors-ltd,US4652542097,941969
 united states,Itochu ADR,Itochu Corp ADR,itochu-corp,US4657171066,941971,USD,ITOCY
 united states,ITV ADR,ITV PLC ADR,itv-plc,US45069P1075,941973,USD,ITVPY
 united states,J Sainsbury PLC,J Sainsbury PLC OTC,j-sainsbury-plc,US4662492085,941974,USD,JSAIY
+united states,Jardine Matheson Holdings Ltd PK,Jardine Matheson Holdings Ltd PK,jardine-matheson-holdings-ltd-pk,US4711154025,941976,USD,JMHLY
+united states,Jardine Strategic Holdings Ltd PK,Jardine Strategic Holdings Ltd PK,jardine-strategic-holdings-ltd-pk,US4711222004,941977,USD,JSHLY
 united states,JBS SA,JBS SA,jbs-sa,US4661101034,941979,USD,JBSAY
 united states,Jeronimo Martins SGPS SA ADR,Jeronimo Martins SGPS SA ADR,jeronimo-martins-sgps-sa,US4764931014,941980,USD,JRONY
 united states,JGC Corp,JGC Corp,jgc-corp,US4661401004,941981,USD,JGCCY
@@ -2486,6 +2649,8 @@ united states,Keppel Corporation,Keppel Corporation Limited,keppel-corporation-l
 united states,Kering SA,Kering SA,kering-sa,US4920891078,941993,USD,PPRUY
 united states,Kimberly-Clark de Mexico,Kimberly-Clark de Mexico,kimberly-clark-de-mexico,US4943862049,941994,USD,KCDMY
 united states,Kingfisher ADR,Kingfisher PLC ADR,kingfisher-plc,US4957244035,941995,USD,KGFHY
+united states,Kirin Holdings Co,Kirin Holdings Co Ltd,kirin-holdings-co-ltd,US4973503067,941996,USD,KNBWY
+united states,Koc Holdings AS,Koc Holdings AS,koc-holdings-as,US49989A1097,941997,USD,KHOLY
 united states,Komatsu,Komatsu Ltd,komatsu-ltd,US5004584018,941998,USD,KMTUY
 united states,Kone Oyj ADR,Kone Oyj ADR,kone-oyj,US50048H1014,941999,USD,KNYJY
 united states,Konica Minolta Inc,Konica Minolta Inc,konica-minolta-inc,US50048B1044,942000,USD,KNCAY
@@ -2526,6 +2691,7 @@ united states,Mitsubishi Estate ADR,Mitsubishi Estate Co Ltd ADR,mitsubishi-esta
 united states,Mitsubishi Tanabe Pharma Corp,Mitsubishi Tanabe Pharma Corp,mitsubishi-tanabe-pharma-corp,US6068132025,942052,USD,MTZPY
 united states,Monotaro Co,Monotaro Co Ltd,monotaro-co-ltd,US61022V1070,942054,USD,MONOY
 united states,Mr Price Group,Mr Price Group Ltd,mr-price-group-ltd,US62476L2079,942055,USD,MRPLY
+united states,MS&AD Insurance Group Holdings PK,MS&AD Insurance Group Holdings PK,ms-ad-insurance-group-holdings-pk,US5534911012,942056,USD,MSADY
 united states,MTN Group Ltd PK,MTN Group Ltd PK,mtn-group-ltd-pk,US62474M1080,942057,USD,MTNOY
 united states,MTU Aero Engines AG,MTU Aero Engines AG,mtu-aero-engines-ag,US62473G1022,942059,USD,MTUAY
 united states,Muenchener Rueckver Ges,Muenchener Rueckver Ges,muenchener-rueckver-ges,US6261881063,942060,USD,MURGY
@@ -2555,6 +2721,7 @@ united states,OMV AG PK,OMV AG PK,omv-ag-pk,US6708755094,942090,USD,OMVKY
 united states,Ono Pharmaceutical Co,Ono Pharmaceutical Co Ltd,ono-pharmaceutical-co-ltd,US6827361030,942091,USD,OPHLY
 united states,Orica ADR,Orica Ltd ADR,orica-ltd,US68618H1032,942092,USD,OCLDY
 united states,Orkla ASA ADR,Orkla ASA ADR,orkla-asa,US6863311097,942094,USD,ORKLY
+united states,Otsuka ADR,Otsuka Holdings Co Ltd ADR,otsuka-holdings-co-ltd,US6891641010,942096,USD,OTSKY
 united states,Panasonic Corp PK,Panasonic Corp PK,panasonic-corp-pk,US69832A2050,942098,USD,PCRFY
 united states,Pandora ADR,Pandora A/S ADR,pandora-as,US6983412031,942099,USD,PANDY
 united states,PCCW,PCCW Limited,pccw-limited,US70454G2075,942100,USD,PCCWY
@@ -2564,6 +2731,8 @@ united states,Petroleum Geo-Services ADR,Petroleum Geo-Services ASA ADR,petroleu
 united states,Peugeot SA,Peugeot SA,peugeot-sa,US7168301049,942104,USD,PUGOY
 united states,Ping An Insurance Company of China,Ping An Insurance Company of China,ping-an-insurance-company-of-china,US72341E3045,942106,USD,PNGAY
 united states,Piraeus Bank ADR,Piraeus Bank SA ADR,piraeus-bank-sa,US7242494042,942107,USD,BPIRY
+united states,Porsche Automobile Holding SE,Porsche Automobile Holding SE,porsche-automobile-holding-se,US73328P1066,942108,USD,POAHY
+united states,Power Assets Holdings,Power Assets Holdings Ltd,power-assets-holdings-ltd,US7391972004,942110,USD,HGKGY
 united states,PPC,PPC Ltd,ppc-limited,US69354A2033,942111,USD,PPCLY
 united states,Prada Spa PK,Prada Spa PK,prada-spa-pk,US73942H1005,942112,USD,PRDSY
 united states,Premier Oil ADR,Premier Oil PLC ADR,premier-oil-plc,US7405361079,942113,USD,PMOIY
@@ -2575,6 +2744,7 @@ united states,Semen Persero,Semen Indonesia Persero Tbk PT,pt-semen-indonesia-pe
 united states,PT United Tractors,PT United Tractors,pt-united-tractors,US69367T1088,942124,USD,PUTKY
 united states,Publicis Groupe SA,Publicis Groupe SA,publicis-groupe-sa,US74463M1062,942126,USD,PUBGY
 united states,QBE Insurance Group ADR,QBE Insurance Group Ltd ADR,qbe-insurance-group-ltd,US74728G6052,942127,USD,QBIEY
+united states,Randstad Holdings NV,Randstad Holdings NV,randstad-holdings-nv,US75279Q1085,942130,USD,RANJY
 united states,Reckitt Benckiser ADR,Reckitt Benckiser Group PLC ADR,reckitt-benckiser-group-plc,US7562552049,942131,USD,RBGLY
 united states,Red Electrica ADR,Red Electrica Corporacion SA ADR,red-electrica-corporacion-sa,US7565681019,942132,USD,RDEIY
 united states,Rentokil ADR,Rentokil Initial PLC ADR,rentokil-initial-plc,US7601251041,942133,USD,RTOKY
@@ -2582,7 +2752,10 @@ united states,Repsol SA,Repsol SA,repsol-sa,US76026T2050,942134,USD,REPYY
 united states,Rheinmetall ADR,Rheinmetall AG ADR,rheinmetall-ag,US76206K1079,942136,USD,RNMBY
 united states,Rib Software AG PK,Rib Software AG PK,rib-software-ag-pk,US74965G1022,942137,USD,RSTAY
 united states,Ricoh Company,Ricoh Company Ltd,ricoh-company-ltd,US7656583074,942138,USD,RICOY
+united states,Robinsons Retail Holdings Inc,Robinsons Retail Holdings Inc,robinsons-retail-holdings-inc,US7710071017,942140,USD,RRETY
+united states,Roche Holding ADR,Roche Holding Ltd ADR,roche-holding-ltd,US7711951043,942141,USD,RHHBY
 united states,Rohm ADR,Rohm Co Ltd ADR,rohm-co-ltd,US7753761060,942142,USD,ROHCY
+united states,Rolls Royce Holdings plc,Rolls Royce Holdings plc,rolls-royce-holdings-plc,US7757812067,942143,USD,RYCEY
 united states,PJSC Rostelecom,PJSC Rostelecom PAO,rostelekom-oao?cid=942144,US7785291078,942144,USD,ROSYY
 united states,Royal DSM NV,Royal DSM NV,royal-dsm-nv,US7802491081,942145,USD,RDSMY
 united states,Koninklijke ADR,Koninklijke KPN NV ADR,royal-kpn-nv,US7806412059,942146,USD,KKPNY
@@ -2604,13 +2777,16 @@ united states,Sberbank,Sberbank of Russia,sberbank-rossii-oao?cid=942163,US80585
 united states,Schneider Electric SA,Schneider Electric SA,schneider-electric-sa,US80687P1066,942164,USD,SBGSY
 united states,SCOR PK,SCOR PK,scor-pk,US80917Q1067,942165,USD,SCRYY
 united states,Secom ADR,Secom Co Ltd ADR,secom-co-ltd,US8131132065,942166,USD,SOMLY
+united states,Sega Sammy ADR,Sega Sammy Holdings Inc ADR,sega-sammy-holdings-inc,US8157941027,942167,USD,SGAMY
 united states,Seiko Epson ADR,Seiko Epson Corp ADR,seiko-epson-corp,US81603X1081,942168,USD,SEKEY
 united states,Sekisui House ADR,Sekisui House Ltd ADR,sekisui-house-ltd,US8160783077,942169,USD,SKHSY
+united states,Seven i ADR,Seven & i Holdings Co Ltd ADR,seven---i-holdings-co-ltd,US81783H1059,942171,USD,SVNDY
 united states,Severn Trent PLC PK,Severn Trent PLC PK,severn-trent-plc-pk,US81814P2092,942172,USD,STRNY
 united states,SGS SA,SGS SA,sgs-sa,US8188001049,942173,USD,SGSOY
 united states,Sharp ADR,Sharp Corp ADR,sharp-corp,US8198823093,942175,USD,SHCAY
 united states,Shin-Etsu Chemical ADR,Shin-Etsu Chemical Co Ltd ADR,shin-etsu-chemical-co-ltd,US8245511055,942176,USD,SHECY
 united states,Shiseido Company,Shiseido Company Ltd,shiseido-company-ltd,US8248414075,942177,USD,SSDOY
+united states,Shoprite ADR,Shoprite Holdings Ltd ADR,shoprite-holdings-ltd-pk,US82510E2090,942178,USD,SRGHY
 united states,Sims Metal Management Ltd PK,Sims Metal Management Ltd PK,sims-metal-management-ltd-pk,US8291601008,942180,USD,SMSMY
 united states,Singapore Airlines,Singapore Airlines Ltd,singapore-airlines-ltd,US82930C1062,942181,USD,SINGY
 united states,Singapore Telecommunications PK,Singapore Telecommunications PK,singapore-telecommunications-pk,US82929R3049,942182,USD,SGAPY
@@ -2620,14 +2796,18 @@ united states,Snam ADR,Snam SpA ADR,snam-spa,US78460A1060,942186,USD,SNMRY
 united states,Societe Generale ADR,Societe Generale ADR,societe-generale-pk,US83364L1098,942187,USD,SCGLY
 united states,Sodexo PK,Sodexo PK,sodexo-pk,US8337921048,942188,USD,SDXAY
 united states,SoftBank Group,SoftBank Group Corp,softbank-corp,US83404D1090,942189,USD,SFTBY
+united states,Sonova Holding AG,Sonova Holding AG,sonova-holding-ag,US83569C1027,942191,USD,SONVY
+united states,Sony Financial Holdings Inc,Sony Financial Holdings Inc,sony-financial-holdings-inc,US8357071005,942192,USD,SNYFY
 united states,Spark New Zealand ADR,Spark New Zealand Ltd ADR,spark-new-zealand-limited,US84652A1025,942193,USD,SPKKY
 united states,SSE ADR,SSE PLC ADR,sse-plc,US78467K1079,942194,USD,SSEZY
 united states,Standard Bank Group Ltd PK,Standard Bank Group Ltd PK,standard-bank-group-ltd-pk,US8531182066,942196,USD,SGBLY
+united states,Starpharma Holdings,Starpharma Holdings Ltd,starpharma-holdings-ltd,US8555631022,942197,USD,SPHRY
 united states,Stora Enso Oyj PK,Stora Enso Oyj PK,stora-enso-oyj-pk,US86210M1062,942198,USD,SEOAY
 united states,Subsea 7 ADR,Subsea 7 SA ADR,subsea-7-sa,US8643231009,942199,USD,SUBCY
 united states,Suez Environnement Co SA,Suez Environnement Co SA,suez-environnement-co-sa,US8646911003,942200,USD,SZEVY
 united states,Sumitomo ADR,Sumitomo Corp ADR,sumitomo-corp,US8656131039,942201,USD,SSUMY
 united states,Sumitomo Metal ADR,Sumitomo Metal Mining Co Ltd ADR,sumitomo-metal-mining-co-ltd,US86563T1043,942202,USD,SMMYY
+united states,Sumitomo Mitsui Trust Holdings PK,Sumitomo Mitsui Trust Holdings PK,sumitomo-mitsui-trust-holdings-pk,US86562X1063,942203,USD,SUTNY
 united states,Sun Hung Kai Properties,Sun Hung Kai Properties Ltd,sun-hung-kai-properties-ltd,US86676H3021,942205,USD,SUHJY
 united states,Suncorp Group ADR,Suncorp Group Ltd ADR,suncorp-group-ltd,US86723Y3080,942206,USD,SNMCY
 united states,Suntory Beverage & Food,Suntory Beverage & Food Ltd,suntory-beverage---food-ltd,US86803T1043,942208,USD,STBFY
@@ -2644,6 +2824,7 @@ united states,Sysmex Corp,Sysmex Corp,sysmex-corp,US87184P1093,942218,USD,SSMXY
 united states,Takeda Pharma ADR,Takeda Pharmaceutical Co Ltd ADR,takeda-pharmaceutical-co-ltd,US8740602052,942220,USD,TAK
 united states,Tate & Lyle ADR,Tate & Lyle PLC ADR,tate---lyle-plc,US8765706077,942221,USD,TATYY
 united states,Tatneft ADR,Tatneft ADR,tatneft,US8766292051,942222,USD,OAOFY
+united states,Tav Havalimanlari Holding AS,Tav Havalimanlari Holding AS,tav-havalimanlari-holding-as,US8767041077,942223,USD,TAVHY
 united states,TDK ADR,TDK Corp ADR,tdk-corp,US8723514084,942224,USD,TTDKY
 united states,Technicolor,Technicolor,technicolor,US8785202040,942225,USD,TCLRY
 united states,Techtronic Industries ADR,Techtronic Industries Ltd ADR,techtronic-industries-ltd,US87873R1014,942227,USD,TTNDY
@@ -2658,6 +2839,7 @@ united states,Tesco PLC,Tesco PLC,tesco-plc,US8815753020,942239,USD,TSCDY
 united states,THK Co,THK Co Ltd,thk-co-ltd,US8724341057,942240,USD,THKLY
 united states,Tiger Brands Ltd PK,Tiger Brands Ltd PK,tiger-brands-ltd-pk,US88673M2017,942241,USD,TBLMY
 united states,TMK ADR,TMK OAO ADR,tmk-oao,US87260R3003,942242,USD,TMKXY
+united states,Tokio Marine Holdings Inc,Tokio Marine Holdings Inc,tokio-marine-holdings-inc,US8890941086,942244,USD,TKOMY
 united states,Tokyo Electron Ltd PK,Tokyo Electron Ltd PK,tokyo-electron-ltd-pk,US8891101029,942246,USD,TOELY
 united states,Tokyo Gas Co,Tokyo Gas Co Ltd,tokyo-gas-co-ltd,US8891151016,942247,USD,TKGSY
 united states,Topdanmark AS,Topdanmark AS,topdanmark-as,US89054C1018,942248,USD,TPDKY
@@ -2686,11 +2868,13 @@ united states,Vinci ADR,Vinci SA ADR,vinci-sa,US9273201015,942274,USD,VCISY
 united states,Vivendi SA PK,Vivendi SA PK,vivendi-sa-pk,US92852T2015,942275,USD,VIVHY
 united states,Vodacom Group Ltd PK,Vodacom Group Ltd PK,vodacom-group-ltd-pk,US92858D2009,942276,USD,VDMCY
 united states,Volkswagen Pref ADR,Volkswagen AG Pref ADR,volkswagen-ag-pk,US9286625010,942278,USD,VWAPY
+united states,VTech ADR,VTech Holdings Ltd ADR,vtech-holdings-ltd,US9289292073,942280,USD,VTKLY
 united states,Wal-Mart De Mexico,Wal-Mart De Mexico,wal-mart-de-mexico,US93114W1071,942281,USD,WMMVY
 united states,Weichai Power Company,Weichai Power Company Ltd,weichai-power-company-ltd,US9485971090,942283,USD,WEICY
 united states,Weir Group PLC,Weir Group PLC,weir-group-plc,US94876Q2057,942284,USD,WEGRY
 united states,Wesfarmers ADR,Wesfarmers Ltd ADR,wesfarmers-ltd,US9508403063,942285,USD,WFAFY
 united states,West Japan Railway ADR,West Japan Railway Co ADR,west-japan-railway-co,US9534321016,942286,USD,WJRYY
+united states,Wharf Holdings,Wharf Holdings Ltd,wharf-holdings-ltd,US9622574088,942288,USD,WARFY
 united states,Wheelock & Co,Wheelock & Co Ltd,wheelock---co-ltd,US9632712009,942289,USD,WHLKY
 united states,Wienerberger Baustoffindustrie,Wienerberger Baustoffindustrie,wienerberger-baustoffindustrie,US9676621074,942290,USD,WBRBY
 united states,William Hill ADR,William Hill PLC ADR,william-hill-plc,US96925P1049,942291,USD,WIMHY
@@ -2699,9 +2883,12 @@ united states,WM Morrison ADR,WM Morrison Supermarkets PLC ADR,wm-morrison-super
 united states,Ferguson ADR,Ferguson PLC ADR,wolseley-plc,US31502A3032,942294,USD,FERGY
 united states,Wolters Kluwer NV,Wolters Kluwer NV,wolters-kluwer-nv,US9778742059,942295,USD,WTKWY
 united states,Woodside Petroleum ADR,Woodside Petroleum Ltd ADR,woodside-petroleum-ltd,US9802283088,942296,USD,WOPEY
+united states,Woolworths Holdings Ltd PK,Woolworths Holdings Ltd PK,woolworths-holdings-ltd-pk,US98088R5054,942297,USD,WLWHY
 united states,Worley Parsons,Worley Parsons Ltd,worley-parsons-ltd,US98161Q1013,942298,USD,WYGPY
 united states,Wynn Macau ADR,Wynn Macau Ltd ADR,wynn-macau-ltd,US98313R1068,942299,USD,WYNMY
+united states,Z Holdings,Z Holdings Corp,yahoo-japan-corp,US98877X1019,942301,USD,YAHOY
 united states,Yara International ASA,Yara International ASA,yara-international-asa,US9848512045,942302,USD,YARIY
+united states,Yue Yuen Industrial Holdings,Yue Yuen Industrial Holdings,yue-yuen-industrial-holdings,US9884151054,942303,USD,YUEIY
 united states,Zurich Insurance Group,Zurich Insurance Group Ltd,zurich-insurance-group-ltd,US9898251049,942305,USD,ZURVY
 united states,Ashtead Gro,Ashtead Gro,ashtead-gro,US0450551009,942447,USD,ASHTY
 united states,Atlas Copco ADR,Atlas Copco ADR,atlas-copco,US0492558053,942448,USD,ATLCY
@@ -2732,6 +2919,7 @@ united states,Advantest DRC,Advantest Corp ADR,advantest-exch?cid=1053110,US0076
 united states,Banca Mediolanum SPA ADR,Banca Mediolanum SPA ADR,banca-mediolanum-spa-adr,US05970D1063,1053112,USD,BNCDY
 united states,Brenntag ADR,Brenntag AG ADR,brenntag-adr,US1071801013,1053113,USD,BNTGY
 united states,Caixabank ADR,Caixabank SA ADR,caixabank-adr,US12803K1097,1053114,USD,CAIXY
+united states,CK Hutchison ADR,CK Hutchison Holdings LTD ADR,ck-hutchison-adr,US12562Y1001,1053115,USD,CKHUY
 united states,ConvaTec ADR,ConvaTec Group plc ADR,convatec-adr,US21244X1090,1053116,USD,CNVVY
 united states,Compagnie Saint-Gobain ADR,Compagnie de Saint-Gobain ADR,compagnie-saint-gobain-adr,US2042803096,1053117,USD,CODYY
 united states,DIDA ADR,Distribuidora Internacional De Alimentacion SA ADR,dida-adr,US25476E1010,1053118,USD,DIDAY
@@ -2771,6 +2959,7 @@ united states,Sumitomo Electric ADR,Sumitomo Electric Industries Ltd ADR,sumitom
 united states,Siam Commercial Bank ADR,Siam Commercial Bank Public Co Ltd ADR,siam-commercial-bank-adr,US8257151055,1053154,USD,SMUUY
 united states,Sumitomo Chemical ADR,Sumitomo Chemical Co Ltd ADR,sumitomo-chemical-adr,US8656121055,1053155,USD,SOMMY
 united states,Singapore Exchange ADR,Singapore Exchange Ltd ADR,singapore-exchange-adr,US82929W1053,1053156,USD,SPXCY
+united states,T&D ADR,T&D Holdings Inc ADR,t-d-adr,US8721201007,1053157,USD,TDHOY
 united states,WH ADR,WH Group Ltd ADR,wh-adr,US92890T2050,1053158,USD,WHGLY
 united states,Yamaha DRC,Yamaha Corp ADR,yamaha-corp-be?cid=1053160,US9846271099,1053160,USD,YAMCY
 united states,ZALANDO ADR,ZALANDO SE ADR,zalando-adr,US98887L1052,1053161,USD,ZLNDY
@@ -2794,6 +2983,7 @@ united states,Texas Capital,Texas Capital Bancshares Inc,texas-capital-ban,US882
 united states,Trustmark,Trustmark Corporation,trustmark-corp,US8984021027,17386,USD,TRMK
 united states,United Bankshares,United Bankshares Inc,united-bankshares,US9099071071,17428,USD,UBSI
 united states,UMB Financial,UMB Financial Corporation,umb-financial-corp,US9027881088,17446,USD,UMBF
+united states,Umpquas,Umpqua Holdings Corporation,umpqua-holdings-corp,US9042141039,17447,USD,UMPQ
 united states,Washington Federal,Washington Federal Inc,washington-federa,US9388241096,17546,USD,WAFD
 united states,Wintrust,Wintrust Financial Corporation,wintrust-financial,US97650W1080,17579,USD,WTFC
 united states,Service Properties,Service Properties Trust,hospitality-properites-trust,US81761L1026,20324,USD,SVC
@@ -2831,6 +3021,7 @@ united states,Omega Healthcare,Omega Healthcare Investors Inc,omega-healthcare,U
 united states,Invesco Mortgage,Invesco Mortgage Capital Inc,invesco-mortgage,US46131B1008,39250,USD,IVR
 united states,CoreCivic,CoreCivic Inc,corrections-corp,US21871N1019,39253,USD,CXW
 united states,National Retail Properties,National Retail Properties Inc,national-retail,US6374171063,39257,USD,NNN
+united states,Axis Capital,AXIS Capital Holdings Ltd,axis-capital,BMG0692U1099,39259,USD,AXS
 united states,Highwoods Properties,Highwoods Properties Inc,highwoods-properties,US4312841087,39265,USD,HIW
 united states,Assured Guaranty,Assured Guaranty Ltd,assured-guaranty,BMG0585R1060,39272,USD,AGO
 united states,First American,First American Corporation,first-american-financial-corp,US31847R1023,39274,USD,FAF
@@ -2838,6 +3029,7 @@ united states,Kilroy,Kilroy Realty Corp,kilroy-realty,US49427F1084,39283,USD,KRC
 united states,Rayonier,Rayonier Inc,rayonier-inc,US7549071030,39290,USD,RYN
 united states,Two Harbors,Two Harbors Investments Corp,two-harbors-investment-corp,US90187B4086,39297,USD,TWO
 united states,Waddell&Reed Financial,Waddell & Reed Financial Inc,waddell---reed,US9300591008,39305,USD,WDR
+united states,Realogy,Realogy Holdings Corp,realogy-holdings,US75605Y1064,39312,USD,RLGY
 united states,Arch Capital,Arch Capital Group Ltd,arch-capital-group,BMG0450A1053,39321,USD,ACGL
 united states,Popular,Popular Inc,popular-inc,PR7331747001,39324,USD,BPOP
 united states,CyrusOne,CyrusOne Inc,cyrusone-inc,US23283R1005,40058,USD,CONE
@@ -2884,6 +3076,7 @@ united states,Catalent Inc,Catalent Inc,catalent-inc,US1488061029,940817,USD,CTL
 united states,Avanos Medical,Avanos Medical Inc,halyard-health,US05350V1061,943129,USD,AVNS
 united states,Superior Energy Services,Superior Energy Services Inc,superior-energy-services-inc,US8681571084,20345,USD,SPNV
 united states,Targa Resources,Targa Resources Inc,targa-resources-inc,US87612G1013,24321,USD,TRGP
+united states,US Silica,US Silica Holdings Inc,u.s.-silica-holdings-inc,US90346E1038,29673,USD,SLCA
 united states,Whiting Petroleum,Whiting Petroleum Corporation,whiting-petroleum-corp,US9663874090,29733,USD,WLL
 united states,Oceaneering,Oceaneering International Inc,oceanerring-international,US6752321025,32314,USD,OII
 united states,World Fuel Services,World Fuel Services Corporation,world-fuel-services,US9814751064,32324,USD,INT
@@ -2902,6 +3095,7 @@ united states,PTC,PTC Inc,ptc,US69370C1009,16932,USD,PTC
 united states,EchoStar,EchoStar Corporation,echostar-corp,US2787681061,17116,USD,SATS
 united states,Silicon Labs,Silicon Laboratories Inc,silicon-laborator,US8269191024,17187,USD,SLAB
 united states,Semtech,Semtech Corporation,semtech-corp,US8168501018,17203,USD,SMTC
+united states,SS&Cs,SS&C Technologies Holdings Inc,ss-c-technologies,US78467J1007,17251,USD,SSNC
 united states,Synaptics,Synaptics Incorporated,synaptics-incorp,US87157D1090,17300,USD,SYNA
 united states,Tech Data,Tech Data Corporation,tech-data-corp,US8782371061,17326,USD,TECD
 united states,ViaSat,ViaSat Inc,viasat,US92552V1008,17517,USD,VSAT
@@ -2925,6 +3119,9 @@ united states,Veeva Systems A,Veeva Systems Inc Class A,veeva-sys-inc,US92247510
 united states,Scnc App In,Scnc App In,scnc-app-in,US8086251076,48373,USD,SAIC
 united states,Commscope Hlding,Commscope Hlding,commscope-hlding,US20337X1090,48413,USD,COMM
 united states,Grubhub Inc,Grubhub Inc,grubhub-inc,US4001101025,101865,USD,GRUB
+united states,CDK Global Holdings LLC,CDK Global Holdings LLC,cdk-global-holdings-llc,US12508E1010,941651,USD,CDK
+united states,Zayo Group Holdings Inc,Zayo Group Holdings Inc,zayo-group-holdings-inc,US98919V1052,942481,USD,ZAYO
+united states,Lumentum Holdings Inc,Lumentum Holdings Inc,lumentum-holdings-inc,US55024U1097,958233,USD,LITE
 united states,Zillow Group Inc,Zillow Group Inc,zillow-group-inc,US98954M1018,958830,USD,ZG
 united states,Versum Materials,Versum Materials Inc,versum-materials-inc,US92532W1036,989527,USD,VSM
 united states,UGI,UGI Corporation,ugi,US9026811052,39146,USD,UGI
@@ -2936,7 +3133,10 @@ united states,Pacific Mercantile,Pacific Mercantile Bancorp,pacific-mercantil,US
 united states,Patriot National Bancorp,Patriot National Bancorp Inc,patriot-national,US70336F2039,16935,USD,PNBK
 united states,Pinnacle,Pinnacle Financial Partners Inc,pinnacle-financial,US72346Q1040,16937,USD,PNFP
 united states,Pacific Premier,Pacific Premier Bancorp Inc,pacific-premier,US69478X1054,16949,USD,PPBI
+united states,Provident,Provident Financial Holdings Inc,provident-financial-holdings,US7438681014,16963,USD,PROV
+united states,PB Bancorp,PB Bancorp Inc,psb-holdings,US70454T1007,16972,USD,PBBI
 united states,Penns Woods,Penns Woods Bancorp Inc,penns-woods-banco,US7084301032,16998,USD,PWOD
+united states,QCR,QCR Holdings Inc,qcr-holdings,US74727A1043,17008,USD,QCRH
 united states,Republic Bancorp,Republic Bancorp Inc,republic-bancorp,US7602812049,17022,USD,RBCAA
 united states,Rurban,Rurban Financial,rurban-financial,US78408D1054,17024,USD,SBFG
 united states,Renasant,Renasant Corporation,renasant-corp,US75970E1073,17071,USD,RNST
@@ -3000,6 +3200,7 @@ united states,First Internet,First Internet Bancorp,first-internet-bancorp,US320
 united states,Sound Financial,Sound Financial Bancorp Inc,sound-financial-bancorp-inc,US83607A1007,40095,USD,SFBC
 united states,Community Bankers,Community Bankers Trust Corp,community-bankers-trust-corp,US2036121067,40987,USD,ESXB
 united states,Independent Bank Group,Independent Bank Group Inc,independent-bank-group-inc,US45384B1061,40994,USD,IBTX
+united states,TriState,TriState Capital Holdings Inc,tristate-capital-holdings-inc,US89678F1003,41019,USD,TSC
 united states,Community Financial Corp,Community Financial Corp,tricounty-f,US20368X1019,41331,USD,TCFC
 united states,First Bank,First Bank,first-bank,US31931U1025,48416,USD,FRBA
 united states,Standard AVB,Standard AVB Financial Corp,standard-financial-otc,US85303B1008,51088,USD,STND
@@ -3014,6 +3215,7 @@ united states,First Mid Illinois Bancshares,First Mid Illinois Bancshares Inc,fi
 united states,Carolina Financial,Carolina Financial Corp,carolina-fi,US1438731077,103934,USD,CARO
 united states,Middlefield Banc,Middlefield Banc,middlefield-banc,US5963042040,941658,USD,MBCN
 united states,Entegra Financial,Entegra Financial Corp,entegra-financl,US29363J1088,942328,USD,ENFC
+united states,Veritex Holdings Inc,Veritex Holdings Inc,veritex-holdings-inc,US9234511080,942488,USD,VBTX
 united states,CB Financial Services Inc,CB Financial Services Inc,cb-financial-services-inc,US12479G1013,942495,USD,CBFV
 united states,First Foundation Inc,First Foundation Inc,first-foundation-inc,US32026V1044,942496,USD,FFWM
 united states,Landmark Infrastructure Part,Landmark Infrastructure Part,landmark-infrastructure-part,US51508J1088,943149,USD,LMRK
@@ -3040,10 +3242,12 @@ united states,Midland States Banc,Midland States Bancorp Inc,midland-states-banc
 united states,HarborOne Banc,HarborOne Bancorp Inc,harborone-bancorp-inc,US41165Y1001,985778,USD,HONE
 united states,Randolph Bancorp,Randolph Bancorp Inc,randolph-bancorp-inc,US7523781091,985780,USD,RNDB
 united states,First Hawaiian,First Hawaiian Inc,first-hawaiian-inc,US32051X1081,986077,USD,FHB
+united states,Capstar Financial,Capstar Financial Holdings Inc,capstar-financial-holdings-inc,US14070T1025,989654,USD,CSTR
 united states,HV Bancorp,HV Bancorp Inc,hv-bancorp-inc,US40441H1059,995096,USD,HVBC
 united states,PCSB Financial,PCSB Financial Corp,pcsb-financial-corp,US69324R1041,1008978,USD,PCSB
 united states,Community First Bancshares,Community First Bancshares Inc,community-first-bancshares-inc,US20369M1045,1009353,USD,CFBI
 united states,Guaranty Bancshares,Guaranty Bancshares Inc,guaranty-bancshares-inc,US4007641065,1010528,USD,GNTY
+united states,Esquire Financial,Esquire Financial Holdings Inc,esquire-financial-holdings-inc,US29667J1016,1014085,USD,ESQ
 united states,RBB Bancorp,RBB Bancorp,rbb-bancorp,US74930B1052,1027142,USD,RBB
 united states,Bank Of Princeton,Bank Of Princeton,bank-of-princeton,US0645201098,1031337,USD,BPRN
 united states,Eagle Financial,Eagle Financial Bancorp Inc,eagle-financial,US26952G1076,1046316,USD,EFBI
@@ -3070,6 +3274,8 @@ united states,Mid-Southern Bancorp,Mid-Southern Bancorp Inc,mid-southern-bancorp
 united states,Amalgamated Bank,Amalgamated Bank,amalgamated-bank,US0226631085,1089602,USD,AMAL
 united states,Pacific City Financial,Pacific City Financial Corp,pacific-city-financial,US69320M1099,1089750,USD,PCB
 united states,Riverview Financial,Riverview Financial Corp,riverview-financial,US76940Q1058,1091141,USD,RIVE
+united states,Mercantil Bank A,Mercantil Bank Holding Corp Class A,mercantil-bank-a,US0235761014,1095928,USD,AMTB
+united states,Mercantil Bank,Mercantil Bank Holding Corp,mercantil-bank-b,US0235762004,1095929,USD,AMTBB
 united states,Bank7,Bank7 Corp,bank7,US06652N1072,1096069,USD,BSVN
 united states,Capital Bancorp,Capital Bancorp,capital-bancorp,US1397371006,1096079,USD,CBNK
 united states,CBM Bancorp,CBM Bancorp Inc,cbm-bancorp,US1248XT1040,1096508,USD,CBMB
@@ -3145,6 +3351,7 @@ united states,ProQR Therapeutics NV,ProQR Therapeutics NV,proqr-thera,NL00108724
 united states,Atara Biotherapeutics Inc,Atara Biotherapeutics Inc,atara-biotherapeutics-inc,US0465131078,942487,USD,ATRA
 united states,PRA Health Sciences Inc,PRA Health Sciences Inc,pra-health-sciences-inc,US69354M1080,942655,USD,PRAH
 united states,FibroGen Inc,FibroGen Inc,fibrogen-inc,US31572Q8087,942658,USD,FGEN
+united states,INC Research,INC Research Holdings Inc,inc-research-holdings-inc,US87166B1026,942671,USD,SYNH
 united states,DBV Technologies,DBV Technologies,dbv-technologies,US23306J1016,943145,USD,DBVT
 united states,Dermira,Dermira,dermira,US24983L1044,943146,USD,DERM
 united states,Xenon Pharmaceuticals,Xenon Pharmaceuticals Inc,xenon-pharmaceuticals,CA98420N1050,943154,USD,XENE
@@ -3153,6 +3360,7 @@ united states,Ascendis Pharma AS,Ascendis Pharma AS,ascendis-pharma-as,US04351P1
 united states,Rocket Pharma,Rocket Pharmaceuticals Inc,inotek-pharmaceuticals-corp,US77313F1066,946347,USD,RCKT
 united states,TherapeuticsMD,TherapeuticsMD Inc,therapeuticsmd-inc,US88338N1072,949611,USD,TXMD
 united states,Aduro Biotech Inc,Aduro Biotech Inc,aduro-biotech-inc,US00739L1017,949614,USD,ADRO
+united states,Corbus Pharmaceuticals Holding,Corbus Pharmaceuticals Holding,corbus-pharmaceuticals-holding,US21833P1030,949618,USD,CRBP
 united states,Blueprint Medicines Corp,Blueprint Medicines Corp,blueprint-medicines-corp,US09627Y1091,951001,USD,BPMC
 united states,Adaptimmune Therapeutics,Adaptimmune Therapeutics Plc,adaptimmune-therapeutics,US00653A1079,951677,USD,ADAP
 united states,Collegium Pharmaceutical,Collegium Pharmaceutical Inc,collegium-pharmaceutical,US19459J1043,951679,USD,COLL
@@ -3181,6 +3389,7 @@ united states,Reata Pharma,Reata Pharmaceuticals Inc,reata-pharmaceuticals-inc,U
 united states,Intellia Therapeutics Inc,Intellia Therapeutics Inc,intellia-therapeutics-inc,US45826J1051,978740,USD,NTLA
 united states,Syros Pharma,Syros Pharmaceuticals Inc,syros-pharmaceuticals-inc,US87184Q1076,985718,USD,SYRS
 united states,Audentes Therapeutics,Audentes Therapeutics Inc,audentes-therapeutics-inc,US05070R1041,985952,USD,BOLD
+united states,Medpace Holdings,Medpace Holdings Inc,medpace-holdings-inc,US58506Q1094,986248,USD,MEDP
 united states,AC Immune,AC Immune Ltd,ac-immune-ltd,CH0329023102,989652,USD,ACIU
 united states,Crispr Therapeutics,Crispr Therapeutics AG,crispr-therapeutics-ag,CH0334081137,992762,USD,CRSP
 united states,Ra Pharma,Ra Pharmaceuticals Inc,ra-pharmaceuticals-inc,US74933V1089,992766,USD,RARX
@@ -3254,6 +3463,7 @@ united states,TiVo,TiVo Corp,tivo-inc,US88870P1066,17357,USD,TIVO
 united states,TeleNav,TeleNav Inc,telenav,US8794551031,17363,USD,TNAV
 united states,Tower,Tower Semiconductor Ltd,tower-semicond?cid=17393,IL0010823792,17393,USD,TSEM
 united states,Xperi,Xperi Corp,tessera-tech,US98421B1008,17396,USD,XPER
+united states,Ultra Cleans,Ultra Clean Holdings Inc,ultra-clean-holdi,US90385V1070,17432,USD,UCTT
 united states,Onespan,OneSpan Inc,vasco-data-securi,US68287N1000,17480,USD,OSPN
 united states,21Vianet,21Vianet Group Inc,21vianet-group,US90138A1034,17499,USD,VNET
 united states,Virtusa,Virtusa Corporation,virtusa-corp,US92827P1021,17515,USD,VRTU
@@ -3269,6 +3479,7 @@ united states,Tucows Inc.,Tucows Inc,tucows-inc?cid=30937,US8986972060,30937,USD
 united states,XpresSpa,XpresSpa Group Inc,vringo,US98420U6047,30963,USD,XSPA
 united states,CounterPath,CounterPath Corp,counterpath-corp?cid=31019,US22228P3029,31019,USD,CPAH
 united states,Neonode,Neonode Inc,neonode-inc,US64051M7092,31052,USD,NEON
+united states,Ideanomics,Ideanomics Inc,you-on-demand-holdings-inc,US45166V1061,31077,USD,IDEX
 united states,Mellanox,Mellanox Technologies Ltd,mellanox-tech,IL0011017329,32394,USD,MLNX
 united states,Brightcove,Brightcove Inc,brightcove,US10921T1016,32540,USD,BCOV
 united states,Nextgen Healthcare,Nextgen Healthcare Inc,quality-systems-inc,US65343C1027,39106,USD,NXGN
@@ -3281,6 +3492,7 @@ united states,Gogo Inc,Gogo Inc,gogo-inc,US38046C1099,41308,USD,GOGO
 united states,Premier Inc,Premier Inc,premier-inc,US74051N1028,41323,USD,PINC
 united states,Wix.Com Ltd,Wix.Com Ltd,wix.com-ltd.,IL0011301780,42595,USD,WIX
 united states,Criteo Sa,Criteo Sa,criteo-sa,US2267181046,48404,USD,CRTO
+united states,Endurance Intl,Endurance International Group Holdings Inc,endurae-intl-grp,US29272B1052,48415,USD,EIGI
 united states,SilverSun Tech,SilverSun Technologies Inc,silversun-tech,US82846H2076,50857,USD,SSNT
 united states,DarioHealth,DarioHealth Corp,labstyle,US23725P1003,50995,USD,DRIO
 united states,AudioEye,AudioEye Inc,"audioeye,-inc",US0507342014,52322,USD,AEYE
@@ -3301,6 +3513,7 @@ united states,Upland Software Inc,Upland Software Inc,upland-software-inc,US9154
 united states,Momo Inc,Momo Inc,momo-inc,US60879B1070,943151,USD,MOMO
 united states,Baozun Inc,Baozun Inc,baozun-inc,US06684L1035,953525,USD,BZUN
 united states,Majesco,Majesco,majesco,US56068V1026,955551,USD,MJCO
+united states,Alarm.com Holdings,Alarm.com Holdings Inc,alarm.com-holdings,US0116421050,955557,USD,ALRM
 united states,Appfolio Inc,Appfolio Inc,appfolio-inc,US03783C1009,955558,USD,APPF
 united states,Rapid7 Inc,Rapid7 Inc,rapid7-inc,US7534221046,958242,USD,RPD
 united states,SITO Mobile Ltd,SITO Mobile Ltd,sito-mobile-ltd,US82988R2031,958244,USD,SITO
@@ -3315,15 +3528,20 @@ united states,Impinj,Impinj Inc,impinj-inc,US4532041096,985958,USD,PI
 united states,Atomera,Atomera Inc,atomera-inc,US04965B1008,986076,USD,ATOM
 united states,Talend,Talend SA,talend-sa,US8742242071,986082,USD,TLND
 united states,Everbridge,Everbridge Inc,everbridge-inc,US29978A1043,989531,USD,EVBG
+united states,Gridsum,Gridsum Holding Inc,gridsum-holding-inc,US3981321009,989657,USD,GSUM
 united states,Nutanix,Nutanix Inc,nutanix-inc,US67059N1081,989658,USD,NTNX
 united states,Tabula Rasa HealthCare,Tabula Rasa HealthCare Inc,tabula-rasa-healthcare-inc,US8733791011,989659,USD,TRHC
 united states,Coupa Software,Coupa Software Inc,coupa-software-inc,US22266L1061,991169,USD,COUP
 united states,Everspin Tech,Everspin Technologies Inc,everspin-technologies-inc,US30041T1043,991171,USD,MRAM
 united states,Blackline,Blackline Inc,blackline-inc,US09239B1098,992965,USD,BL
+united states,GDS Holdings,GDS Holdings Ltd,gds-holdings-ltd,US36165L1089,992966,USD,GDS
+united states,GTY Tech A,GTY Technology Holdings Inc A,gty-technology-holdings-inc-a,US3624091043,993273,USD,GTYH
+united states,Ichor Holdings,Ichor Holdings Ltd,ichor-holdings-ltd,KYG4740B1059,994018,USD,ICHR
 united states,Presidio,Presidio Inc,presidio-inc,US74102M1036,997432,USD,PSDO
 united states,Okta,Okta Inc,okta-inc,US6792951054,1006169,USD,OKTA
 united states,Veritone,Veritone Inc,veritone-inc,US92347M1009,1010529,USD,VERI
 united states,Appian,Appian Corp,appian-corp,US03782L1017,1010718,USD,APPN
+united states,Smart Global,Smart Global Holdings Inc,smart-global-holdings-inc,KYG8232Y1017,1010720,USD,SGH
 united states,Exela Tech,Exela Technologies Inc,exela-tech,US30162V1026,1024875,USD,XELA
 united states,Beyond Air,Beyond Air Inc,ait-therapeutics,US08862L1035,1052097,USD,XAIR
 united states,Rimini Street,Rimini Street Inc,rimini-street,US76674Q1076,1052375,USD,RMNI
@@ -3334,6 +3552,7 @@ united states,Altair Engineering,Altair Engineering Inc,altair-engineering,US021
 united states,Safe-T,Safe-T Group Ltd ADR,safe-t-adr,US78643B4014,1054451,USD,SFET
 united states,Acm Research,Acm Research Inc,acm-research-inc,US00108J1097,1054776,USD,ACMR
 united states,Bandwidth,Bandwidth Inc,bandwidth,US05988J1034,1054803,USD,BAND
+united states,Ameri,Ameri Holdings Inc,ameri-holdings,US02362F1049,1054960,USD,AMRH
 united states,One Stop Systems,One Stop Systems Inc,one-stop-systems-inc,US68247W1099,1061439,USD,OSS
 united states,Akerna,Akerna Corp,mtech-acquisition-a,US00973W1027,1069502,USD,KERN
 united states,Zscaler,Zscaler Inc,zscaler-inc,US98980G1022,1072222,USD,ZS
@@ -3341,32 +3560,42 @@ united states,Dropbox,Dropbox Inc,dropbox-inc,US26210C1045,1072273,USD,DBX
 united states,Red Violet,Red Violet Inc,red-violet,US75704L1044,1073137,USD,RDVT
 united states,nLIGHT,nLIGHT Inc,nlight-inc,US65487K1007,1073208,USD,LASR
 united states,DocuSign,DocuSign Inc,docusign-inc,US2561631068,1073599,USD,DOCU
+united states,AGM A,AGM Group Holdings Inc Class A,agm-a,VGG0132V1058,1073602,USD,AGMH
 united states,CLPS,CLPS Inc,clps,KYG316421042,1076736,USD,CLPS
 united states,i3 Verticals,i3 Verticals Inc,i3-verticals,US46571Y1073,1081674,USD,IIIV
 united states,Domo,Domo Inc,domo-inc,US2575541055,1082075,USD,DOMO
+united states,Tenable,Tenable Holdings Inc,tenable-holdings-inc,US88025T1025,1084931,USD,TENB
 united states,Opera,Opera Ltd,opera-ltd,US68373M1071,1084934,USD,OPRA
 united states,Aurora Mobile,Aurora Mobile Ltd,aurora-mobile,US0518571007,1088703,USD,JG
+united states,Pintec Tech,Pintec Technology Holdings Ltd,pintec-technology-holdings-ltd,US72352G1076,1089263,USD,PT
 united states,Qutoutiao,Qutoutiao Inc,qutoutiao,US74915J1079,1096012,USD,QTT
 united states,SVMK,SurveyMonkey LLC,svmk,US78489X1037,1096076,USD,SVMK
 united states,Covetrus,Covetrus Inc,covetrus,US22304C1009,1122330,USD,CVET
-united states,Super League Gaming,Super League Gaming Inc,super-league-gaming,,1123000,USD,SLGG
+united states,Super League Gaming,Super League Gaming Inc,super-league-gaming,US86804F2020,1123000,USD,SLGG
+united states,Ruhnn,Ruhnn Holding Ltd,ruhnn-holding-ltd,US7813141097,1123968,USD,RUHN
 united states,Powerbridge,Powerbridge Technologies Co Ltd,powerbridge,KYG720071003,1127917,USD,PBTS
 united states,Sciplay,Sciplay Corp,sciplay-corp,US8090871091,1129319,USD,SCPL
 united states,Yunji,Yunji Inc,yunji-inc,US98873N1072,1129395,USD,YJ
+united states,Mohawk Group,Mohawk Group Inc,mohawk-group-holdings-inc,US6081891060,1131556,USD,MWK
+united states,Crowdstrike Holdings,Crowdstrike Holdings Inc,crowdstrike-holdings-inc,US22788C1053,1131557,USD,CRWD
+united states,DouYu,DouYu International Holdings,douyu-international-holdings,US25985W1053,1141590,USD,DOYU
 united states,Livongo,Livongo Health Inc,livongo-health-inc,US5391831030,1141822,USD,LVGO
 united states,Health Catalyst,Health Catalyst Inc,health-catalyst,US42225T1079,1142294,USD,HCAT
 united states,Datadog,Datadog Inc,datadog-inc,US23804L1035,1152784,USD,DDOG
 united states,Fangdd Network,Fangdd Network Group Ltd,fangdd-network-group-ltd,,1153445,USD,DUO
+united states,36Kr Holdings,36Kr Holdings Inc,36kr-holdings-inc,,1153683,USD,KRKR
 united states,Retail Opportunity,Retail Opportunity Investments,retail-opportunit,US76131N1019,17078,USD,ROIC
 united states,Selective,Selective Insurance Group Inc,selective-insurance,US8163001071,17176,USD,SIGI
 united states,Lendingtree,Lendingtree Inc,tree.com,US52603B1070,17377,USD,TREE
 united states,Sabra,Sabra Healthcare REIT Inc,sabra-healthcare-reit-inc,US78573L1061,24371,USD,SBRA
 united states,GCI Liberty A,GCI Liberty Inc Class A,liberty-interactive-corp-a-vi,US36164V3050,31048,USD,GLIBA
+united states,National General Holdings Corp,National General Holdings Corp,national-ge,US6362203035,100217,USD,NGHC
 united states,Caretrust Inc,Caretrust Inc,caretrust-inc,US14174T1079,102910,USD,CTRE
 united states,FirstService,FirstService Corp,new-firstservice-corp,CA33767E2024,953817,USD,FSV
 united states,Kinsale Capital,Kinsale Capital Group Inc,kinsale-capital-group-inc,US49714P1084,986078,USD,KNSL
 united states,Brighthouse Financial,Brighthouse Financial Inc,brighthouse-financial,US10922N1037,1031336,USD,BHF
 united states,Newmark Group,Newmark Group Inc,newmark-group,US65158N1028,1056451,USD,NMRK
+united states,Park-Ohios,Park-Ohio Holdings Corp,park-ohio-holding,US7006661000,16914,USD,PKOH
 united states,The Childrens Place,The Childrens Place Retail Stores,the-childrens-place,US1689051076,16918,USD,PLCE
 united states,Plug Power,Plug Power Inc,plug-power,US72919P2020,16924,USD,PLUG
 united states,Plexus,Plexus Corp,plexus-corp,US7291321005,16926,USD,PLXS
@@ -3382,6 +3611,7 @@ united states,The Providence Service,The Providence Service Corporation,the-prov
 united states,US Auto Parts,US Auto Parts Network Inc,us-auto-parts-network,US90343C1009,16968,USD,PRTS
 united states,PriceSmart,PriceSmart Inc,pricesmart,US7415111092,16976,USD,PSMT
 united states,Papa John's,Papa John's International Inc,papa-johns-international,US6988131024,17001,USD,PZZA
+united states,Rave Restaurant,Rave Restaurant Group Inc,pizza-inn-holding,US7541981095,17002,USD,RAVE
 united states,QuinStreet,QuinStreet Inc,quinstreet,US74874Q1004,17014,USD,QNST
 united states,Rada Electronic Industries,Rada Electronic Industries Ltd,rada-electronics,IL0010826506,17018,USD,RADA
 united states,Freightcar,Freightcar America Inc,freightcar-americ,US3570231007,17019,USD,RAIL
@@ -3399,6 +3629,7 @@ united states,Richardson Electronics,Richardson Electronics Ltd,richardson-elect
 united states,Reliv,Reliv International Inc,reliv-international,US75952R2094,17046,USD,RELV
 united states,RF Industries,RF Industries Ltd,rf-industries,US7495521053,17051,USD,RFIL
 united states,RGC Resources,RGC Resources Inc,rgc-resources-inc,US74955L1035,17053,USD,RGCO
+united states,RCI Hospitality,RCI Hospitality Holdings Inc,ricks-cabaret,US74934Q1085,17056,USD,RICK
 united states,Rocky Mountain Chocolate,Rocky Mountain Chocolate Factory,rocky-mountain-ch,US77467X1019,17064,USD,RMCF
 united states,RealNetworks,RealNetworks Inc,realnetworks,US75605L7082,17072,USD,RNWK
 united states,Gibraltar Industries,Gibraltar Industries Inc,gibraltar-industries,US3746891072,17073,USD,ROCK
@@ -3427,6 +3658,7 @@ united states,Scientific Games,Scientific Games Corp,scientific-games,US80874P10
 united states,SPAR Group,SPAR Group Inc,spar-group,US7849331035,17162,USD,SGRP
 united states,Shiloh,Shiloh Industries Inc,shiloh-industries,US8245431023,17168,USD,SHLO
 united states,Steven Madden,Steven Madden Ltd,steven-madden,US5562691080,17169,USD,SHOO
+united states,Silgans,Silgan Holdings Inc,silgan-holdings,US8270481091,17188,USD,SLGN
 united states,Sharps,Sharps Compliance Corp,sharps-compliance,US8200171010,17196,USD,SMED
 united states,Schmitt,Schmitt Industries Inc,schmitt-industries,US8068702005,17197,USD,SMIT
 united states,Stein Mart,Stein Mart Inc,stein-mart,US8583751081,17199,USD,SMRT
@@ -3459,6 +3691,7 @@ united states,Tandy Leather,Tandy Leather Factory Inc,tandy-leather-fac,US87538X
 united states,Transcat,Transcat Inc,transcat,US8935291075,17387,USD,TRNS
 united states,TriMas,TriMas Corporation,trimas-corp,US8962152091,17389,USD,TRS
 united states,TSR,TSR Inc,tsr,US8728852075,17397,USD,TSRI
+united states,TTEC,TTEC Holdings Inc,teletech-holdings,US89854H1023,17403,USD,TTEC
 united states,Tetra Tech,Tetra Tech Inc,tetra-tech,US88162G1031,17404,USD,TTEK
 united states,TechTarget,TechTarget Inc,techtarget,US87874R1005,17405,USD,TTGT
 united states,TTM,TTM Technologies Inc,ttm-technologies,US87305R1095,17407,USD,TTMI
@@ -3520,12 +3753,17 @@ united states,ClearSign,ClearSign Combustion Corporation,clearsign-combustion-co
 united states,Caesarstone,Caesarstone Ltd,caesarstone-sdot-yam-ltd,IL0011259137,31020,USD,CSTE
 united states,CUI Global,CUI Global Inc,cui-global-inc,US1265762062,31021,USD,CUI
 united states,Caesars,Caesars Entertainment Corporation,caesars-entertainment-corp,US1276861036,31022,USD,CZR
+united states,DLH Holdings,DLH Holdings Corp,dlh-holdings-corp,US23335Q1004,31024,USD,DLHC
 united states,Enphase,Enphase Energy Inc,enphase-energy-inc,US29355A1079,31028,USD,ENPH
 united states,Five Below,Five Below Inc,five-below-inc,US33829M1018,31033,USD,FIVE
 united states,Fiesta,Fiesta Restaurant Group Inc,fiesta-restaurant-group-inc,US31660B1017,31034,USD,FRGI
+united states,Chanticleer,Chanticleer Holdings Inc,chanticleer-holdings-inc,US15930P8005,31041,USD,BURG
+united states,MACOM Tech,MACOM Technology Solutions Holdings Inc,m-a-com-holding,US55405Y1001,31051,USD,MTSI
 united states,Turtle Beach,Turtle Beach Corp,parametric-sound-corp,US9004502061,31055,USD,HEAR
 united states,Renewable Energy,Renewable Energy Group Inc,renewable-energy-group-inc,US75972A3014,31062,USD,REGI
+united states,SAExploration,SAExploration Holdings Inc,trio-merger-corp,US78636X8737,31072,USD,SAEX
 united states,Bloomin Brands,Bloomin Brands Inc,bloomin-brands-inc,US0942351083,31171,USD,BLMN
+united states,Chuy's Holdings,Chuy's Holdings Inc,chuys-holdings-inc,US1716041017,31172,USD,CHUY
 united states,WW International,WW International Inc,weight-watcher,US98262P1012,32353,USD,WW
 united states,Iconix Brand,Iconix Brand Group Inc,iconix-brand-group,US4510553054,32386,USD,ICON
 united states,Westport Fuel,Westport Fuel Systems Inc,westport-inov-inc,CA9609083097,32388,USD,WPRT
@@ -3534,6 +3772,7 @@ united states,Fossil,Fossil Group Inc,fossil-inc,US34988V1061,32395,USD,FOSL
 united states,ANGI Homeservices,ANGI Homeservices Inc,angies-list-inc,US00183L1026,32542,USD,ANGI
 united states,The Wendy’s Co,The Wendy’s Co,the-wendys-co,US95058W1009,32543,USD,WEN
 united states,Groupon,Groupon Inc,groupon-inc,US3994731079,32546,USD,GRPN
+united states,Lincoln Electrics,Lincoln Electric Holdings Inc,lincoln-electric-holdings-inc,US5339001068,39105,USD,LECO
 united states,Elbit Systems,Elbit Systems Ltd,elbit-systems-limited,IL0010811243,39122,USD,ESLT
 united states,Visteon,Visteon Corp,visteon,US92839U2069,39150,USD,VC
 united states,Travelzoo,Travelzoo Inc,travelzoo,US89421Q2057,39156,USD,TZOO
@@ -3547,16 +3786,22 @@ united states,Lifevantage,Lifevantage Corporation,lifevantage-corp,US53222K2050,
 united states,Taronis Tech,Taronis Technologies Inc,magnegas-corp,US8762142060,40081,USD,TRNX
 united states,Vertex Energy,Vertex Energy Inc,vertex-energy-inc,US92534K1079,40103,USD,VTNR
 united states,The ExOne,The ExOne Company,exone-co,US3021041047,40106,USD,XONE
+united states,Diversified Restaurant Hld,Diversified Restaurant Holdings Inc,diversified-restaurant-hld-inc,US25532M1053,40977,USD,SAUC
 united states,Hemisphere,Hemisphere Media Group Inc,hemisphere-media-group-inc,US42365Q1031,40992,USD,HMTV
 united states,Professional Diversity,Professional Diversity Network Inc,professional-diversity-network-inc,US74312Y2028,40996,USD,IPDN
 united states,Micronet Enertec,Micronet Enertec Technologies Inc,micronet-enertec-technologies-inc,US55328R1095,41002,USD,MICT
 united states,Digital Turbine,Digital Turbine Inc,mandalay-digital-group-inc,US25400W1027,41004,USD,APPS
 united states,National Research,National Research Corp,national-research-corporation,US6373722023,41007,USD,NRC
 united states,Supercom Lt,Supercom Lt,supercom-lt,IL0010830961,41284,USD,SPCB
+united states,Lindblad Expeditions,Lindblad Expeditions Holdings Inc,capitol-acq,US5352191093,41295,USD,LIND
+united states,Fox Factory,Fox Factory Holding Corp,fox-fctry-h,US35138V1026,41307,USD,FOXF
+united states,HD Supply,HD Supply Holdings Inc,hd-supply-h,US40416M1053,41309,USD,HDS
 united states,Marron Bio,Marrone Bio Innovations Inc,marron-bio,US57165B1061,41313,USD,MBII
+united states,NV5 Global,NV5 Global Inc,nv5-holding,US62945V1098,41316,USD,NVEE
 united states,Noodles & Co,Noodles & Company,noodles---c,US65540B1052,41318,USD,NDLS
 united states,Pattern Energy,Pattern Energy Group,pattern-ene,US70338P1003,41322,USD,PEGI
 united states,Sprouts Farmers,Sprouts Farmers Market Inc,sprts-frmr,US85208M1027,41328,USD,SFM
+united states,BMC Stock Hldgs,BMC Stock Holdings Inc,stck-bldg-s,US05591B1098,41329,USD,BMCH
 united states,Pioneer Pow,Pioneer Pow,pioneer-pow,US7238363003,41337,USD,PPSI
 united states,Sequential,Sequential,sequential,US81734P1075,41339,USD,SQBG
 united states,Potbelly Co,Potbelly Co,potbelly-co,US73754Y1001,42592,USD,PBPB
@@ -3569,6 +3814,7 @@ united states,Houghton Mifflin,Houghton Mifflin Harcourt Co,houghton-mifflin,US4
 united states,Torchlight Energ,Torchlight Energ,torchlight-energ,US89102U1034,48420,USD,TRCH
 united states,Reed’s,Reed’s Inc,reeds-inc,US7583381071,48648,USD,REED
 united states,Genius Brands International Inc,Genius Brands International Inc,genius-brands-intl.,US37229T3014,50840,USD,GNUS
+united states,Workhorse Grp,Workhorse Group Inc,amp-holding-inc,US98138J2069,50880,USD,WKHS
 united states,Paysign,Paysign Inc,3pea-intl-inc,US70451A1043,50885,USD,PAYS
 united states,Envision Solar,Envision Solar International Inc,envision-solar-intl,US29413Q2012,50891,USD,EVSI
 united states,Alkaline Water,Alkaline Water Company Inc,the-alkaline-water,US01643A2078,50893,USD,WTER
@@ -3584,9 +3830,11 @@ united states,Youngevity International,Youngevity International Inc,youngevity-i
 united states,BIO-Key,BIO-Key International Inc,bio-key-intl-inc,US09060C3097,52199,USD,BKYI
 united states,Coda Octopus,Coda Octopus Group Inc,coda-octopus-group,US19188U2069,52212,USD,CODA
 united states,Aemetis Inc,Aemetis Inc,aemetis-inc,US00770K2024,52321,USD,AMTX
+united states,Celsius,Celsius Holdings Inc,celsius-holdings,US15118V2079,52417,USD,CELH
 united states,Blink Charging,Blink Charging Co,car-charging-group,US09354A1007,52609,USD,BLNK
 united states,OPTIMIZERx,OPTIMIZERx Corp,optimizerx-corp,US68401U2042,52660,USD,OPRX
 united states,Social Reality,Social Reality Inc,social-reality,US78472M1062,52661,USD,SRAX
+united states,ALJ Regional,ALJ Regional Holdings Inc,alj-regional-hldgs,US0016271084,52672,USD,ALJJ
 united states,Chromadex Corp,Chromadex Corp,chromadex-corp,US1710774076,52674,USD,CDXC
 united states,Epsilon Energy,Epsilon Energy Ltd,epsilon-energy-ltd,CA2943752097,52750,USD,EPSN
 united states,Global Water,Global Water Resources Inc,gwr-global-water-resources-corp.?cid=52757,US3794631024,52757,USD,GWRS
@@ -3611,10 +3859,12 @@ united states,Truecar Inc,Truecar Inc,truecar-inc,US89785L1070,101926,USD,TRUE
 united states,GoPro Inc,GoPro Inc,gopro-inc,US38268T1034,102883,USD,GPRO
 united states,Atlantica Yield,Atlantica Yield PLC,abengoa-yield-plc,GB00BLP5YB54,102887,USD,AY
 united states,Michaels,The Michaels Companies Inc,michaels-co,US59408Q1067,102902,USD,MIK
+united states,Quest Resource,Quest Resource Holding Corp,quest-resou,US74836W2035,102909,USD,QRHC
 united states,Tecogen Inc,Tecogen Inc,tecogen-inc,US87876P2011,102921,USD,TGEN
 united states,Viper Energy Ut,Viper Energy Ut,viper-energy-ut,US92763M1053,102923,USD,VNOM
 united states,Xunlei Ltd Adr,Xunlei Ltd Adr,xunlei-ltd-adr,US98419E1082,102928,USD,XNET
 united states,TerraForm Power,TerraForm Power Inc,terraform-power-inc,US88104R2094,104389,USD,TERP
+united states,El Pollo Loco Holdings Inc,El Pollo Loco Holdings Inc,el-pollo-loco-holdings-inc,US2686031079,940762,USD,LOCO
 united states,Trupanion Inc,Trupanion Inc,trupanion-inc,US8982021060,940816,USD,TRUP
 united states,Energy Focu,Energy Focu,energy-focu,US29268T3005,940827,USD,EFOI
 united states,Marathon Patent,Marathon Patent Group Inc,marathon-pa,US56585W4015,940830,USD,MARA
@@ -3623,6 +3873,8 @@ united states,MTBC,MTBC Inc,medical-tra,US55378G1022,940836,USD,MTBC
 united states,Myos Rens,Myos Rens Technology Inc,myos-corpor,US62857P1084,940837,USD,MYOS
 united states,Spark Energy Inc,Spark Energy Inc,spark-energy-inc,US8465111032,940844,USD,SPKE
 united states,Wilhelmina,Wilhelmina,wilhelmina,US9682352003,940847,USD,WHLM
+united states,Liberty Tripadvisor,Liberty Tripadvisor Holdings Inc,liberty-trpadv-b,US5314652018,941160,USD,LTRPB
+united states,Limbach Holdings,Limbach Holdings Inc,1347-capital-cor,US53263P1057,941162,USD,LMB
 united states,Eldorado Resorts LLC,Eldorado Resorts LLC,eldorado-resorts-llc,US28470R1023,941653,USD,ERI
 united states,Liberty Tri,Liberty Tri,liberty-tri,US5314651028,941657,USD,LTRPA
 united states,Dave & Buster’s Entertainment,Dave & Buster’s Entertainment,dave-busters-entertainment,US2383371091,942485,USD,PLAY
@@ -3633,7 +3885,10 @@ united states,Inspired Entertainment,Inspired Entertainment Inc,hydra-industries
 united states,Liberty Broadband Srs A,Liberty Broadband Srs A,liberty-broadband-srs-a,US5303071071,943142,USD,LBRDA
 united states,Liberty Broadband Srs C,Liberty Broadband Srs C,liberty-broadband-srs-c,US5303073051,943143,USD,LBRDK
 united states,Kimball Electronics,Kimball Electronics,kimball-electronics,US49428J1097,943148,USD,KE
+united states,Sky Solar Holdings Adr Rep 8,Sky Solar Holdings Adr Rep 8,sky-solar-holdings-adr-rep-8,US83084J2024,943152,USD,SKYS
 united states,Tribune Publishing,Tribune Publishing Co,tribune-publishing-co,US89609W1071,945657,USD,TPCO
+united states,Inovalon Holdings Inc,Inovalon Holdings Inc,inovalon-holdings-inc,US45781D1019,945665,USD,INOV
+united states,Tantech Holdings Ltd,Tantech Holdings Ltd,tantech-holdings-ltd,VGG8675X1078,948332,USD,TANH
 united states,LiqTech,LiqTech International Inc,liqtech-international-inc,US53632A2015,949595,USD,LIQT
 united states,Etsy Inc,Etsy Inc,etsy-inc,US29786A1060,949620,USD,ETSY
 united states,Kornit Digital Ltd,Kornit Digital Ltd,kornit-digital-ltd,IL0011216723,949622,USD,KRNT
@@ -3651,6 +3906,8 @@ united states,JMU,JMU Ltd,wowo-ltd,US46647L2043,955569,USD,JMU
 united states,Hailiang Education Group Inc,Hailiang Education Group Inc,hailiang-education-group-inc,US40522L1089,955852,USD,HLG
 united states,Aqua Metals Inc,Aqua Metals Inc,aqua-metals-inc,US03837J1016,958219,USD,AQMS
 united states,Green Plains Partners LP,Green Plains Partners LP,green-plains-partners-lp,US3932211069,958230,USD,GPP
+united states,Mastercraft Boat,Mastercraft Boat Holdings Inc,mcbc-holdings-inc,US57637H1032,958235,USD,MCFT
+united states,Ollies Bargain Outlet Holdings Inc,Ollies Bargain Outlet Holdings Inc,ollies-bargain-outlet-holdings-inc,US6811161099,958239,USD,OLLI
 united states,Sunrun Inc,Sunrun Inc,sunrun-inc,US86771W1053,958243,USD,RUN
 united states,Payment Data Systems Inc,Payment Data Systems Inc,payment-data-systems-inc,US9173131080,958251,USD,USIO
 united states,CSW Industrials Inc,CSW Industrials Inc,csw-industrials-inc,US1264021064,958821,USD,CSWI
@@ -3659,6 +3916,8 @@ united states,Fuling Global Inc,Fuling Global Inc,fuling-global-inc,KYG3729B1023
 united states,Purple Innovation,Purple Innovation Inc,global-partner-acquisition-corp,US74640Y1064,960609,USD,PRPL
 united states,New Age Beverages,New Age Beverages Corp,american-brewing-company-inc,US64157V1089,960941,USD,NBEV
 united states,Akoustis Tech,Akoustis Technologies Inc,akoustis-technologies-inc,US00973N1028,960944,USD,AKTS
+united states,Duluth Holdings Inc,Duluth Holdings Inc,duluth-holdings-inc,US26443V1017,961629,USD,DLTH
+united states,Hostess Brands,Hostess Brands Inc,gores-holdings-inc,US44109J1060,961754,USD,TWNK
 united states,China Customer Relations Centers,China Customer Relations Centers Inc,china-customer-relations-centers,VGG2118P1027,962328,USD,CCRC
 united states,Naked Brand,Naked Brand Group Ltd,naked-brand-group-inc,AU0000016941,962330,USD,NAKD
 united states,SPI Energy,SPI Energy Co Ltd,spi-energy-co-ltd,KYG8651P1101,962507,USD,SPI
@@ -3677,6 +3936,7 @@ united states,Innovate Biopharma,Innovate Biopharmaceuticals Inc,monster-digital
 united states,Estre USA A,Estre USA Inc Class A,boulevard-acquisition-corp-ii,KYG3206V1005,985951,USD,ESTR
 united states,TPI Composites,TPI Composites Inc,tpi-composites-inc,US87266J1043,985959,USD,TPIC
 united states,VistaGen Therapeutics,VistaGen Therapeutics Inc,vistagen-therapeutics-inc,US92840H2022,985960,USD,VTGN
+united states,Waitr,Waitr Holdings Inc,landcadia-holdings-a,US9307521008,986299,USD,WTRH
 united states,Sundance Energy ADR,Sundance Energy Australia Ltd ADR,sundance-energy-australia-ltd,US86724Y1091,989446,USD,SNDE
 united states,Trade Desk,Trade Desk Inc,trade-desk-inc,US88339J1051,989534,USD,TTD
 united states,Fluent,Fluent Inc,cogint-inc,US34380C1027,989653,USD,FLNT
@@ -3689,6 +3949,7 @@ united states,Forterra,Forterra Inc,forterra-inc,US34960W1062,992763,USD,FRTA
 united states,Smart Sand,Smart Sand Inc,smart-sand-inc,US83191H1077,992968,USD,SND
 united states,Phunware,Phunware Inc,stellar-acquisition-iii-inc-ord,US71948P1003,992969,USD,PHUN
 united states,SenesTech,SenesTech Inc,senestech-inc,US81720R1095,993179,USD,SNES
+united states,Priority Tech,Priority Technology Holdings Inc,m-i-acquisitions-inc-unit,US74275G1076,994019,USD,PRTH
 united states,Polar Power,Polar Power Inc,polar-power-inc,US73102V1052,994020,USD,POLA
 united states,Trivago,Trivago NV,trivago-nv,US89686D1054,994234,USD,TRVG
 united states,Yatra Online,Yatra Online Inc,yatra-online-inc,KYG983381099,994250,USD,YTRA
@@ -3699,6 +3960,9 @@ united states,Ramaco Resources,Ramaco Resources Inc,ramaco-resources-inc,US75134
 united states,Attis Industries,Attis Industries Inc,meridian-waste-solutions-inc,US0498362088,995933,USD,ATIS
 united states,iFresh Inc,iFresh Inc,ifresh-inc,US4495381075,996146,USD,IFMK
 united states,Playa Hotels & Resorts,Playa Hotels & Resorts BV,playa-hotels-resorts-bv,NL0012170237,997803,USD,PLYA
+united states,Valeritas Inc,Valeritas Holdings Inc,valeritas-holdings-inc,US91914N3017,998048,USD,VLRX
+united states,Verra Mobility,Verra Mobility Corp,gores-holdings-ii-incorporated,US92511U1025,999054,USD,VRRM
+united states,NCS Multistage,NCS Multistage Holdings Inc,ncs-multistage-holdings,US6288771024,1008764,USD,NCSM
 united states,Kayne Anderson,Kayne Anderson Acquisition Corp,kayne-anderson-acquisition-corp-ord,US02215L1008,1009355,USD,ALTM
 united states,National Energy Services,National Energy Services Reunited Corp,national-energy-services-reunited,VGG6375R1073,1010658,USD,NESR
 united states,Shotspotter,Shotspotter Inc,shotspotter-inc,US82536T1079,1011049,USD,SSTI
@@ -3708,18 +3972,24 @@ united states,SG Blocks,SG Blocks Inc,sg-blocks,US78418A3077,1017259,USD,SGBX
 united states,Newater Technology,Newater Technology Inc,newater-technology,VGG643351056,1031028,USD,NEWA
 united states,Eastside Distilling,Eastside Distilling Inc,eastside-distilling,US2778023026,1031391,USD,EAST
 united states,Chicken Soup,Chicken Soup for the Soul Entertainment,chicken-soup,US16842Q1004,1031736,USD,CSSE
+united states,Concrete Pumping A,Concrete Pumping Holdings Class A,industrea-acquisition-a,US2067041085,1034513,USD,BBCP
 united states,ZK International,ZK International Group Co Ltd,zk-international,VGG9892K1003,1043281,USD,ZKIN
 united states,Hf Foods,Hf Foods Group Inc,atlantic-acquisition,US40417F1093,1046340,USD,HFFG
+united states,Secoo Holding,Secoo Holding Ltd,secoo-holding,US81367P1012,1050116,USD,SECO
 united states,Roku,Roku Inc,roku,US77543R1023,1050149,USD,ROKU
 united states,Arcimoto,Arcimoto Inc,arcimoto,US0395871009,1050151,USD,FUV
+united states,TDH Holdings,TDH Holdings Inc,tdh-holdings,VGG870841027,1050165,USD,PETZ
 united states,CarGurus,CarGurus,cargurus,US1417881091,1052244,USD,CARG
 united states,LiveXLive Media,Livexlive Media Inc,livexlive-media,US53839L2088,1052401,USD,LIVX
 united states,FAT Brands,FAT Brands Inc,fat-brands,US30258N1054,1052404,USD,FAT
 united states,RISE Education Cayman,RISE Education Cayman Ltd,rise-education-cayman,US76761L1026,1052406,USD,REDU
+united states,Reebonz,Reebonz Holding Ltd,draper-oakwood-tech-a,KYG7457R1222,1052429,USD,RBZ
+united states,National Vision,National Vision Holdings Inc,national-vision,US63845R1077,1052916,USD,EYE
 united states,Black Ridge,Black Ridge Acquisition Corp,black-ridge-o,US0191701095,1053083,USD,AESE
 united states,Funko,Funko Inc,funko-inc,US3610081057,1053090,USD,FNKO
 united states,Sleep Number,Sleep Number Corp,sleep-number,US83125X1037,1054772,USD,SNBR
 united states,BioHiTech,BioHiTech Global Inc,biohitech-global,US09074B1070,1054791,USD,BHTG
+united states,Kaixin Auto,Kaixin Auto Holdings,cm-seven-star-o,KYG5223X1007,1054858,USD,KXIN
 united states,Stitch Fix,Stitch Fix,stitch-fix,US8608971078,1054959,USD,SFIX
 united states,Haymaker A,Haymaker Acquisition Corp Class A,haymaker-acquisition-a,BSP736841136,1055294,USD,OSW
 united states,ReTo Eco-Solutions,ReTo Eco-Solutions Inc,reto-eco-solutions,VGG752711090,1055313,USD,RETO
@@ -3731,6 +4001,7 @@ united states,Cardlytics,Cardlytics Inc,cardlytics-inc,US14161W1053,1061933,USD,
 united states,Falcon Minerals A,Falcon Minerals Corp Class A,osprey-energy-a,US30607B1098,1062876,USD,FLMN
 united states,Farmmi,Farmmi Inc,farmmi,KYG332771073,1065447,USD,FAMI
 united states,Cronos,Cronos Group Inc,cronos,CA22717L1013,1071987,USD,CRON
+united states,Lazydays,Lazydays Holdings Inc,lazydays,US52110H1005,1072329,USD,LAZY
 united states,VERB TECH,VERB TECHNOLOGY COMPANY INC,nfusz,US92337U1043,1073049,USD,VERB
 united states,Bilibili,Bilibili Inc,bilibili-inc,US0900401060,1073087,USD,BILI
 united states,iQIYI,iQIYI Inc,iqiyi-inc,US46267X1081,1073098,USD,IQ
@@ -3740,6 +4011,7 @@ united states,Lovesac,The Lovesac Company,the-lovesac-company,US54738L1098,10736
 united states,EVO Payments,EVO Payments Inc,evo-payments-inc,US26927E1047,1075231,USD,EVOP
 united states,GreenSky,GreenSky LLC,greensky-inc,US39572G1004,1075234,USD,GSKY
 united states,Pluralsight,Pluralsight LLC,pluralsight-inc,US72941B1061,1075235,USD,PS
+united states,Jerash,Jerash Holdings US Inc,jerash,US47632P1012,1075585,USD,JRSH
 united states,Edison Nation,Edison Nation Inc,xspand-products,US28103E1064,1076547,USD,EDNT
 united states,Piedmont Lithium ADR,Piedmont Lithium Ltd ADR,piedmont-lithium-adr,US7201621064,1076596,USD,PLL
 united states,Uxin,Uxin Ltd,uxin,US91818X1081,1080044,USD,UXIN
@@ -3757,6 +4029,7 @@ united states,Cumulus Media A,Cumulus Media Inc Class A,cumulus-media-a,US231082
 united states,Electrameccanica Vehicles,Electrameccanica Vehicles Corp,electrameccanica-vehicles,CA2848492054,1091128,USD,SOLO
 united states,Select Interior A,Select Interior Concepts Inc Class A,select-interior-a,US8161203075,1091189,USD,SIC
 united states,GreenPro,GreenPro Capital Corp,greenpro,US39540F1012,1095118,USD,GRNQ
+united states,KLX Energy,KLX Energy Services Holdings Inc,klx-energy,US48253L1061,1095917,USD,KLXE
 united states,Frontdoor,Frontdoor Inc,frontdoor,US35905A1097,1096042,USD,FTDR
 united states,BRP Inc,BRP Inc,brp-inc,CA05577W2004,1096063,USD,DOOO
 united states,111 Inc,111 Inc,111-inc,US68247Q1022,1096066,USD,YI
@@ -3764,6 +4037,7 @@ united states,Viomi Technology,Viomi Technology ADR,viomi-technology-adr,US92762
 united states,Arco Platform,Arco Platform,arco-platform,KYG045531061,1096074,USD,ARCE
 united states,Upwork,Upwork Inc,upwork,US91688F1049,1096129,USD,UPWK
 united states,Niu Tech,Niu Technologies,niu-technologies,US65481N1000,1096132,USD,NIU
+united states,OrganiGram Holdings Inc,OrganiGram Holdings Inc,organigram-holdings-inc?cid=1096199,CA68620P1018,1096199,USD,OGI
 united states,StoneCo,StoneCo Ltd,stoneco-ltd,KYG851581069,1096238,USD,STNE
 united states,TuanChe,TuanChe ADR,tuanche,US89856T1043,1097737,USD,TC
 united states,Legacy Housing,Legacy Housing Corp,legacy-housing-corporation,US52472M1018,1097779,USD,LEGH
@@ -3773,13 +4047,17 @@ united states,Hoth Therapeutics,Hoth Therapeutics Inc,hoth-therapeutics,US44148G
 united states,American Resources,American Resources Corp Class A,american-resources,US02927U2087,1122743,USD,AREC
 united states,Village Farms International Inc,Village Farms International Inc,village-farms-international-inc?cid=1123048,CA92707Y1088,1123048,USD,VFF
 united states,LYFT,LYFT Inc,lyft,US55087P1049,1123146,USD,LYFT
+united states,Freedom,Freedom Holding Corp,freedom,US3563901046,1123899,USD,FRHC
 united states,Tradeweb Markets,Tradeweb Markets Inc,tradeweb-markets-inc,US8926721064,1123969,USD,TW
+united states,Greenlane,Greenlane Holdings Inc,greenlane-holdings-inc,US3953301039,1127926,USD,GNLN
 united states,Beyond Meat,Beyond Meat Inc,beyond-meat-inc,US08862E1091,1129317,USD,BYND
 united states,Wah Fu Education,Wah Fu Education Group Ltd,wah-fu-education,VGG941841014,1129462,USD,WAFU
+united states,ATIF Holdings,ATIF Holdings Ltd,atif-holdings,VGG0602B1004,1130912,USD,ATIF
 united states,Luckin Coffee,Luckin Coffee,luckin-coffee,US54951L1098,1130932,USD,LK
 united states,Rattler Midstream,Rattler Midstream LP,rattler-midstream-lp,US75419T1034,1131058,USD,RTLR
 united states,iHeartMedia A,iHeartMedia Inc Class A,iheartmedia-a,US45174J5092,1131121,USD,IHRT
 united states,Paringa Resources,Paringa Resources Ltd,paringa-resources,US69949M1009,1136129,USD,PNRL
+united states,Grocery Outlet,Grocery Outlet Holding Corp,grocery-outlet-inc,US39874R1014,1137413,USD,GO
 united states,TheRealReal,TheRealReal Inc,therealreal-inc,US88339P1012,1137573,USD,REAL
 united states,Wanda Sports,Wanda Sports Group Co Ltd,wanda-sports-group-co-ltd,US93368R1014,1141823,USD,WSG
 united states,Kura Sushi,Kura Sushi USA Inc,kura-sushi-usa-inc,US5012701026,1142208,USD,KRUS
@@ -3791,17 +4069,31 @@ united states,Happiness Biotech,Happiness Biotech Group Ltd,happiness-biotech-gr
 united states,Ecmoho,Ecmoho Ltd,ecmoho-ltd,US27888P1049,1155048,USD,MOHO
 united states,Safety Insurance,Safety Insurance Group Inc,safety-insurance,US78648T1007,17107,USD,SAFT
 united states,State Auto,State Auto Financial Corporation,state-auto-financial,US8557071052,17264,USD,STFC
+united states,Federated National,Federated National Holding Co,federated-national,US31431B1098,17324,USD,FNHC
 united states,United Fire,United Fire Group Inc,united-fire---cas,US9103401082,17436,USD,UFCS
 united states,Unico,Unico American Corporation,unico-american-corp,US9046071083,17448,USD,UNAM
+united states,Atlas Financials,Atlas Financial Holdings Inc,atlas-financial-holdings,KYG062071157,40049,USD,AFH
 united states,Health Insurance,Health Insurance Innovations Inc,health-insurance-innovations-inc,US42225K1060,40064,USD,HIIQ
+united states,United Insurances,United Insurance Holdings Corp,united-insurance-holdings-corp,US9107101027,40101,USD,UIHC
 united states,Ambac,Ambac Financial Group Inc,ambac-financial-group-inc,US0231398845,40974,USD,AMBC
+united states,Mr. Cooper,Mr. Cooper Group Inc,wmi-holdings,US62482R1077,52734,USD,COOP
 united states,1347 Property In,1347 Property In,1347-property-in,US68244P1075,100189,USD,PIH
+united states,Oxbridge Re,Oxbridge Re Holdings Ltd,oxbridge-re,KYG6856M1069,101921,USD,OXBR
+united states,GWG Holdings Inc,GWG Holdings Inc,gwg-holdings-inc,US36192A1097,941655,USD,GWGH
+united states,James River Group,James River Group Holdings Ltd,james-river-group-holdings-ltd,BMG5005R1079,943135,USD,JRVR
+united states,Conifer Holding Inc,Conifer Holding Inc,conifer-holding-inc,US20731J1025,958249,USD,CNFR
+united states,NI Holdings,NI Holdings Inc,ni-holdings-inc,US65342T1060,998045,USD,NODK
+united states,ICC Holding,ICC Holdings Inc,icc-holdings-inc,US44931Q1040,999055,USD,ICCH
 united states,Goosehead Insurance,Goosehead Insurance Inc,goosehead-insurance-inc,US38267D1090,1073210,USD,GSHD
 united states,Watford,Watford Hldg Ltd,watford,BMG947871015,1123962,USD,WTRE
+united states,Positive Physicians,Positive Physicians Holdings Inc,positive-physicians,US73740G1067,1127193,USD,PPHI
+united states,Palomar,Palomar Holdings Inc,palomar-holdings-inc,US69753M1053,1127922,USD,PLMR
 united states,Brp Gr,Brp Group Inc,brp-group-inc,,1153166,USD,BRP
+united states,Vipshop,Vipshop Holdings Limited,vipshop-holdings,US92763W1036,29715,USD,VIPS
 united states,YY A,YY Inc Class A,yy-inc,US98426T1060,40109,USD,YY
 united states,Shutterstock,Shutterstock,shutterstock,US8256901005,41272,USD,SSTK
 united states,Autohome ADR,Autohome Inc ADR,autohome-inc-adr,US05278C1071,48389,USD,ATHM
+united states,Alibaba ADR,Alibaba Group Holdings Ltd ADR,alibaba,US01609W1027,941155,USD,BABA
 united states,Wayfair Inc,Wayfair Inc,wayfair-inc,US94419L1017,942326,USD,W
 united states,New Relic Inc,New Relic Inc,new-relic-inc,US64829B1008,943121,USD,NEWR
 united states,Godaddy Inc,Godaddy Inc,godaddy-inc,US3802371076,948325,USD,GDDY
@@ -3811,6 +4103,7 @@ united states,Sea,Sea Ltd,sea-limited,US81141R1005,1052403,USD,SE
 united states,SOGOU,SOGOU Inc,sogou,US83409V1044,1054796,USD,SOGO
 united states,Eventbrite A,Eventbrite Inc Class A,eventbrite-a,US29975E1091,1096055,USD,EB
 united states,Anaplan,Anaplan Inc,anaplan,US03272L1089,1096130,USD,PLAN
+united states,PICO Holdings,PICO Holdings Inc,pico-holdings-inc,US6933662057,16912,USD,PICO
 united states,Siebert,Siebert Financial Corp,siebert-financial,US8261761097,17173,USD,SIEB
 united states,Security National Financial,Security National Financial,security-national,US8147853092,17208,USD,SNFCA
 united states,Stratus,Stratus Properties Inc,stratus-propertie,US8631672016,17275,USD,STRS
@@ -3833,13 +4126,17 @@ united states,Capitala Finance Corp,Capitala Finance Corp,capitala-fi,US14054R10
 united states,China Bat,China Bat Group Inc,china-cmrcl,US07039P1049,41297,USD,GLG
 united states,Tiptree,Tiptree Inc,tiptree-fin,US88822Q1031,41330,USD,TIPT
 united states,Silvrcst As,Silvrcst As,silvrcst-as,US8283591092,41338,USD,SAMG
+united states,NMI Holdings,NMI Holdings Inc,nmi-holding,US6292093050,44411,USD,NMIH
+united states,National Holdings,National Holdings,national-holdings,US6363752063,50944,USD,NHLD
 united states,DelMar Pharma,DelMar Pharmaceuticals Inc,delmar-pharma,US2470783067,50980,USD,DMPI
 united states,IZEA,IZEA Inc,izea-inc,US46604H1059,52478,USD,IZEA
 united states,Ability,Ability Inc,cambridge-capita,KYG8789K1242,100194,USD,ABIL
 united states,Jason Industries,Jason Industries Inc,quinpario-a,US4711721062,100198,USD,JASN
 united states,Cm Finance Inc,Cm Finance Inc,cm-finance-inc,US46090R1041,100218,USD,ICMB
 united states,Hennessy Ad,Hennessy Ad,hennessy-ad,US4258851009,101916,USD,HNNA
+united states,Investar Holding,Investar Holding Corp,investar-ho,US46134L1052,103935,USD,ISTR
 united states,MMA Capital Management LLC,MMA Capital Management LLC,mma-capital-management-llc,US55315D1054,942486,USD,MMAC
+united states,Wins Finance Holdings,Wins Finance Holdings Inc,sino-mercury-acquisition-corp,KYG972231040,942500,USD,WINS
 united states,Virtu Financial Inc,Virtu Financial Inc,virtu-financial-inc,US9282541013,949627,USD,VIRT
 united states,Brookfield Property,Brookfield Property Partners LP,brookfield-property-partners-lp,BMG162491077,958120,USD,BPY
 united states,WillScot A,WillScot Corp Class A,double-eagle-acquisition-corp,US9713751264,960584,USD,WSC
@@ -3848,11 +4145,15 @@ united states,Aspen Group,Aspen Group Inc,aspen-group-inc,US04530L2034,960950,US
 united states,Moxian,Moxian Inc,moxian-inc,US6246973068,961051,USD,MOXC
 united states,LM Funding America,LM Funding America Inc,lm-funding-america-inc,US5020743051,961755,USD,LMFA
 united states,RMR Group Inc,RMR Group Inc,rmr-group-inc,US74967R1068,962331,USD,RMR
+united states,TMSR,TMSR Holding Company Ltd,jm-global-holding-co,US87266C1099,962334,USD,TMSR
 united states,Global Self Storage,Global Self Storage Inc,global-self-storage-inc,US37955N1063,962506,USD,SELF
+united states,Jensyn Acquisition,Peck Company Holdings Inc,jensyn-acquisition-corp,US7051631031,976452,USD,PECK
 united states,Datasea,Datasea Inc,datasea-inc,US2381162062,976550,USD,DTSS
+united states,Yintech Investment,Yintech Investment Holdings Ltd,yintech-investment-holdings,US98585M1080,985174,USD,YIN
 united states,FlexShopper Inc,FlexShopper Inc,flexshopper-inc,US33939J3032,993272,USD,FPAY
 united states,Hamilton Lane,Hamilton Lane Inc,hamilton-lane-inc,US4074971064,997108,USD,HLNE
 united states,FinTech Acquisition II,FinTech Acquisition Corp II,fintech-acquisition-corp-ii,US46005L1017,999053,USD,IMXI
+united states,Foresight Autonomous,Foresight Autonomous Holdings Ltd ADR,foresight-autonomous-holdings-adr,US3455231049,1013465,USD,FRSX
 united states,Redfin,Redfin Corp,redfin,US75737F1084,1027143,USD,RDFN
 united states,China Internet Financial,China Internet Nationwide Financial Services Inc,china-internet-financial,VGG2120A1012,1031390,USD,CIFS
 united states,Rekor Systems,Rekor Systems Inc,novume-solutions,US7594191048,1043334,USD,REKR
@@ -3862,9 +4163,11 @@ united states,KBL Merger IV,KBL Merger Corp IV,kbl-merger-iv,US48242A1043,105294
 united states,Dragon Victory,Dragon Victory International Ltd,dragon-victory,KYG283651076,1052949,USD,LYL
 united states,Meridian Bank,Meridian Bank,meridian-bank,US58958P1049,1054834,USD,MRBK
 united states,Big Rock Partners,Big Rock Partners Acquisition Corp,big-rock-partners-o,US0894821034,1056129,USD,BRPA
+united states,Lexinfintech,Lexinfintech Holdings Ltd,lexinfintech,US5288771034,1056506,USD,LX
 united states,Nebula Acquisition A,Nebula Acquisition Corp Class A,nebula-acquisition,US6290761005,1057699,USD,NEBU
 united states,Industrial Logistics Properties,Industrial Logistics Properties Trust,industrial-logistics-properties,US4562371066,1057998,USD,ILPT
 united states,Leisure Acquisition,Leisure Acquisition Corp,leisure-acquisition,US52539T1079,1058000,USD,LACQ
+united states,Victory Capital,Victory Capital Holdings Inc,victory-capital-holdings-inc,US92645B1035,1061932,USD,VCTR
 united states,DFB Healthcare,DFB Healthcare Acquisitions Corp,dfb-healthcare-acquisitions-corp,US00653Q1022,1064342,USD,AHCO
 united states,Gordon Pointe A,Gordon Pointe Acquisition Corp Class A,gordon-pointe-a,US3827881075,1072283,USD,GPAQ
 united states,Mudrick Capital A,Mudrick Capital Acquisition Corporation Class A,mudrick-capital-a,US6247451056,1072285,USD,MUDS
@@ -3875,6 +4178,7 @@ united states,Trinity Merger A,Trinity Merger Corp Class A,trinity-merger-corp,U
 united states,Tiberius Acquisition,Tiberius Acquisition Corp,tiberius-acquisition,US88633A1079,1073490,USD,TIBR
 united states,Mogo,Mogo Inc,mogo-finance-technology?cid=1073633,CA60800C1095,1073633,USD,MOGO
 united states,VectoIQ,VectoIQ Acquisition Corp,vectoiq-acquisition,US92243N1037,1076611,USD,VTIQ
+united states,eXp World,eXp World Holdings Inc,exp-world,US30212W1009,1077150,USD,EXPI
 united states,Focus Financial Partners,Focus Financial Partners Inc,focus-financial-partners,US34417P1003,1080050,USD,FOCS
 united states,LF Capital A,LF Capital Acquisition Corp Class A,lf-capital-acquisition,US50200K1088,1082076,USD,LFAC
 united states,Twelve Seas,Twelve Seas Investment Co,twelve-seas-investment-company,KYG9145A1076,1082077,USD,BROG
@@ -3893,6 +4197,8 @@ united states,ChaSerg Tech A,ChaSerg Technology Acquisition Corp Class A,chaserg
 united states,DD3 Acquisition,DD3 Acquisition Corp,dd3-acquisition-corp,VGG2692M1032,1096534,USD,DDMX
 united states,Alberton Acquisition,Alberton Acquisition Corp,alberton-acquisition-corp,VGG350061088,1097546,USD,ALAC
 united states,360 Finance,360 Finance Inc,360-finance-inc,US88557W1018,1097548,USD,QFIN
+united states,Edtechx,Edtechx Holdings Acquisition Corp,edtechx,US28138X1037,1097643,USD,EDTX
+united states,Gores Holdings III A,Gores Holdings III Inc Class A,gores-holdings-iii-a,US38286G1094,1097769,USD,GRSH
 united states,Sirius Intl,Sirius International Insurance Group Ltd,sirius-intl,BMG8196D1011,1097773,USD,SG
 united states,AMCI Acquisition,AMCI Acquisition Corp Class A,amci-acquisition-corp,US00165R1014,1097841,USD,AMCI
 united states,Boxwood Merger,Boxwood Merger Corp,boxwood-merger,US10319T1016,1097916,USD,BWMC
@@ -3907,6 +4213,10 @@ united states,Schultze Special,Schultze Special Purpose Acquisition Corp,schultz
 united states,Gores Metropoulos,Gores Metropoulos Inc,gores-metropoulos-inc,US3828721098,1121160,USD,GMHI
 united states,Wealthbridge Acquisition,Wealthbridge Acquisition Ltd,wealthbridge-acquisition,VGG4887W1106,1121795,USD,HHHH
 united states,Monocle Acquisition,Monocle Acquisition Corp,monocle-acquisition-corp,US6097541063,1121798,USD,MNCL
+united states,Futu,Futu Holdings Ltd,futu-holdings,US36118L1061,1123144,USD,FUTU
+united states,Diamondpeak A,Diamondpeak Holdings Corp Class A,diamondpeak-holdings-corp,US25280H1005,1123577,USD,DPHC
+united states,Tuscan,Tuscan Holdings Corp,tuscan-holdings-corp,US90069K1043,1123578,USD,THCB
+united states,Up Fintech,Up Fintech Holding Ltd,up-fintech-holding,US91531W1062,1123579,USD,TIGR
 united states,Hennessy Capital IV A,Hennessy Capital Acquisition Corp IV Class A,hennessy-capital-acquisition-corp,US42589C1045,1123581,USD,HCAC
 united states,Crescent Acquisition,Crescent Acquisition Corp Class A,crescent-acquisition-corp,US22564L1052,1123583,USD,CRSA
 united states,8i Enterprises,8i Enterprises Acquisition Corp,8i-enterprises-acquisition-corp,VGG2956M1041,1123798,USD,JFK
@@ -3928,6 +4238,7 @@ united states,Shenandoah,Shenandoah Telecommunications Co,shenandoah-teleco,US82
 united states,Sierra Wireless,Sierra Wireless Inc,sierra-wireless-inc?cid=17292,CA8265161064,17292,USD,SWIR
 united states,Technical Communications,Technical Communications,technical-communications,US8784091014,17323,USD,TCCO
 united states,TESSCO,TESSCO Technologies Incorporated,tessco-tech,US8723861071,17332,USD,TESS
+united states,Spok Holdings,Spok Holdings Inc,usa-mobility,US84863T1060,17466,USD,SPOK
 united states,VOXX,VOXX International Corporation,voxx--international,US91829F1049,17502,USD,VOXX
 united states,Wi-LAN,Wi-LAN Inc,wi-lan?cid=17551,CA7477131055,17551,USD,QTRH
 united states,Westell Tech,Westell Technologies Inc,westell-tech,US9575412047,17577,USD,WSTL
@@ -3954,25 +4265,30 @@ united states,Cambium Networks,Cambium Networks Corp,cambium-networks-corp,KYG17
 united states,PAM,PAM Transportation Services Inc,p.a.m.-transportation,US6931491061,16988,USD,PTSI
 united states,Saia,Saia Inc,saia,US78709Y1055,17108,USD,SAIA
 united states,Star Bulk Carriers,Star Bulk Carriers Corp,star-bulk-carrier,MHY8162K2046,17123,USD,SBLK
+united states,Seanergy Maritime,Seanergy Maritime Holdings Corp,seanergy-maritime,MHY737603016,17166,USD,SHIP
 united states,Sino-Global,Sino-Global Shipping America Ltd,sino-global-shipp,US82935V1098,17181,USD,SINO
 united states,SkyWest,SkyWest Inc,skywest,US8308791024,17186,USD,SKYW
 united states,Top Ships,Top Ships Inc,top-ships-inc,MHY8897Y1648,17370,USD,TOPS
 united states,Torm A,Torm PLC Class A,torm-plc,GB00BZ3CNK81,17385,USD,TRMD
+united states,Universal Logistics,Universal Logistics Holdings Inc,universal-trucklo,US91388P1057,17420,USD,ULH
 united states,USA Truck,USA Truck Inc,usa-truck,US9029251066,17458,USD,USAK
 united states,Golden Ocean,Golden Ocean Group Ltd,knightsbridge-tankers-ltd,BMG396372051,17494,USD,GOGL
 united states,Werner,Werner Enterprises Inc,werner-enterprise,US9507551086,17541,USD,WERN
 united states,Willis Lease,Willis Lease Finance Corporation,willis-lease-finance-corp,US9706461053,17560,USD,WLFC
 united states,Air Transport Services,Air Transport Services Group Inc,air-transport-service,US00922R1059,32380,USD,ATSG
 united states,Old Dominion Freight Line,Old Dominion Freight Line Inc,old-dominion-freight-line-inc,US6795801009,39333,USD,ODFL
+united states,Patriot Transportation,Patriot Transportation Holding Inc,new-patriot-transport-holding,US70338W1053,945079,USD,PATI
 united states,Daseke,Daseke Inc,hennessy-capital-acquisition-ii,US23753F1075,960616,USD,DSKE
 united states,Pyxis Tankers Inc,Pyxis Tankers Inc,pyxis-tankers-inc,MHY717261066,960648,USD,PXS
 united states,EuroDry,EuroDry Ltd,eurodry,MHY235081079,1081559,USD,EDRY
+united states,Grindrod Shipping,Grindrod Shipping Holdings Ltd,grindrod-shipping,SG9999019087,1084845,USD,GRIN
 united states,Mesa Air,Mesa Air Group Inc,mesa-air-group-inc,US5904791358,1089261,USD,MESA
 united states,Navios Maritime,Navios Maritime Containers Inc,navios-maritime-containers,MHY621511085,1096013,USD,NMCI
 united states,Castor Maritime,Castor Maritime Inc,castor-maritime,MHY1146L1092,1122513,USD,CTRM
 united states,Taiwan Semiconductor,Taiwan Semiconductor Manufacturing,taiwan-semicond.manufacturing-co,US8740391003,32306,USD,TSM
 united states,Signet Jewelers,Signet Jewelers Ltd,signet-jewelers-limited,BMG812761002,39114,USD,SIG
 united states,Tegna,Tegna Inc,tegna-inc,US87901J1051,955553,USD,TGNA
+united states,Yum China Holdings,Yum China Holdings Inc,yum-china-holdings-inc,US98850P1093,992964,USD,YUMC
 united states,LATAM Airlines ADR,LATAM Airlines Group SA ADR,lan-airlines-s.a.,US51817R1068,32333,USD,LTM
 united states,Vuela,Vuela Compania de Aviacion SAB de CV,ctrld-vl-cmp-avn,US21240E1055,41202,USD,VLRS
 united states,Avianca Hldgs Adr Rep 8 Prf,Avianca Hldgs Adr Rep 8 Prf,avianca-hldgs-adr-rep-8-prf,US05367G1004,943126,USD,AVH
@@ -3993,6 +4309,7 @@ united states,Linde PLC,Linde PLC,linde-plc?cid=942017,IE00BZ12WP82,942017,USD,L
 united states,TC Energy,TC Energy Corp,transcanada-corp?cid=29627,CA87807B1076,29627,USD,TRP
 united states,Encana,Encana Corporation,encana-corporation,CA2925051047,32530,USD,ECA
 united states,BCE Inc.,BCE Inc,bce?cid=21242,CA05534B7604,21242,USD,BCE
+united states,Vonage,Vonage Holdings Corp,vonage-holdings-corp,US92886T2015,24317,USD,VG
 united states,TELUS,TELUS Corp,telus-corp?cid=29623,CA87971M1032,29623,USD,TU
 united states,United States Cellular,United States Cellular Corporation,united-states-cellular-corp,US9116841084,29706,USD,USM
 united states,BP ADR,BP PLC ADR,bp-plc,US0556221044,21257,USD,BP
@@ -4012,7 +4329,9 @@ united states,Designer Brands,Designer Brands Inc,dsw-inc,US2505651081,21247,USD
 united states,American Eagle Outfitters,American Eagle Outfitters Inc,american-eagle-outfitters,US02553E1064,32311,USD,AEO
 united states,Burlington Stores,Burlington Stores Inc,burlington-stor,US1220171060,41257,USD,BURL
 united states,Tenneco,Tenneco Inc,tenneco-automotive-inc,US8803491054,24309,USD,TEN
+united states,Wabco,Wabco Holdings Inc,wabco-holdings,US92927K1025,32351,USD,WBC
 united states,Lear,Lear Corporation,lear,US5218652049,39140,USD,LEA
+united states,Dana,Dana Inc,dana-holding,US2358252052,39287,USD,DAN
 united states,Adient,Adient PLC,adient-plc,IE00BD845X29,992960,USD,ADNT
 united states,CBS A,CBS Corp,cbs-corp,US1248571036,21221,USD,CBSa
 united states,Tribune Media Co,Tribune Media Co,tribune-media-co,US8960475031,942649,USD,TRCO
@@ -4020,24 +4339,29 @@ united states,Cable One Inc,Cable One Inc,cable-one-inc,US12685J1051,955542,USD,
 united states,Watsco,Watsco Inc,watsco-inc,US9426222009,24357,USD,WSO
 united states,Lennox,Lennox International Inc,lennox-international,US5261071071,39165,USD,LII
 united states,Louisiana-Pacific,Louisiana-Pacific Corporation,louisiana-pacific,US5463471053,39168,USD,LPX
+united states,Generac,Generac Holdlings Inc,generac-holdings,US3687361044,39269,USD,GNRC
 united states,Owens Corning,Owens Corning Inc,owens-corning,US6907421019,39289,USD,OC
 united states,CoreLogic,Corelogic Inc,corelogic,US21871D1037,39185,USD,CLGX
 united states,LSC Communications,LSC Communications Inc,lsc-communications-inc,US50218P1075,989651,USD,LKSD
 united states,ManpowerGroup,ManpowerGroup Inc,manpower-inc,US56418H1005,39293,USD,MAN
 united states,Toro,Toro Co,toro-co.,US8910921084,29694,USD,TTC
+united states,Allison Transmission,Allison Transmission Holdings Inc,allison-transmission,US01973R1014,32322,USD,ALSN
 united states,AGCO,AGCO Corporation,agco,US0010841023,39138,USD,AGCO
 united states,Trinity Industries,Trinity Industries Inc,trinity-industries,US8965221091,39145,USD,TRN
 united states,KBR,KBR Inc,kbr-inc,US48242W1062,21252,USD,KBR
 united states,Valmont Industries,Valmont Industries Inc,valmont-industries-inc,US9202531011,29718,USD,VMI
 united states,Aecom Technology,Aecom Technology Corporation,aecom-technology,US00766T1007,39169,USD,ACM
+united states,Crown,Crown Holdings Inc,crown-hldgs,US2283681060,39255,USD,CCK
 united states,Berry Global,Berry Global Group Inc,berry-plastcs-gr,US08579W1036,41195,USD,BERY
 united states,Enersys,Enersys,enersys,US29275Y1029,21249,USD,ENS
 united states,Vishay Intertechnology,Vishay Intertechnology Inc,vishay-intertechnology-inc,US9282981086,29721,USD,VSH
 united states,Arrow Electronics,Arrow Electronics Inc,arrow-electronics,US0427351004,39170,USD,ARW
 united states,WESCO,WESCO International Inc,wesco-intl,US95082P1057,39304,USD,WCC
+united states,Sensata Tech,Sensata Technologies Holding NV,sensata-technologies-holding,GB00BFMBMT84,39302,USD,ST
 united states,Wex,Wex Inc,wright-express-corp,US96208T1043,24325,USD,WEX
 united states,First Data Corp,First Data Corp,first-data-corp,US32008D1063,959201,USD,FDC
 united states,Treehouse Foods,Treehouse Foods Inc,treehouse-foods-inc,US89469A1043,24323,USD,THS
+united states,Post,Post Holdings Inc,post-holdings,US7374461041,29665,USD,POST
 united states,Herbalife,Herbalife Nutrition Ltd,herbalife,KYG4412G1010,32366,USD,HLF
 united states,Darling Ingredients,Darling Ingredients Inc,darling-international,US2372661015,39164,USD,DAR
 united states,Bunge,Bunge Limited,bunge,BMG169621056,39190,USD,BG
@@ -4058,6 +4382,7 @@ united states,Sermaster G,Sermaster G,sermaster-g,US81761R1095,103913,USD,SERV
 united states,NVR,NVR Inc,nvr-inc,US62944T1051,21255,USD,NVR
 united states,Toll Brothers,Toll Brothers Inc,toll-brothers,US8894781033,32520,USD,TOL
 united states,Marriot Vacations Worldwide,Marriot Vacations Worldwide,marriott-vacations-worldwide-corp,US57164Y1073,29707,USD,VAC
+united states,Energizer,Energizer Holdings Inc,energizer-hldgs,US29272W1099,39267,USD,ENR
 united states,Northstar Realty Europe Corp,Northstar Realty Europe Corp,northstar-realty-europe-corp,US66706L1017,960268,USD,NRE
 united states,Colfax,Colfax Corporation,colfax,US1940141062,39133,USD,CFX
 united states,IDEX,IDEX Corporation,idex,US45167R1041,39139,USD,IEX
@@ -4067,6 +4392,7 @@ united states,Timken,Timken Company,timken-co,US8873891043,39303,USD,TKR
 united states,Manitowoc Foodservice,Manitowoc Foodservice Inc,manitowoc-foodservice-inc,US9490901041,968965,USD,WBT
 united states,XPO Logistics,XPO Logistics Inc,xpo-logistics,US9837931008,29751,USD,XPO
 united states,Genesee&Wyoming,Genesee & Wyoming Inc,genesee---wyomin,US3715591059,39270,USD,GWR
+united states,Covanta,Covanta Holding Corp,covanta-hldg,US22282E1029,39273,USD,CVA
 united states,Now Inc,Now Inc,now-inc,US67011P1003,103922,USD,DNOW
 united states,Macquarie Infrastructure Co,Macquarie Infrastructure Co,macquarie-infrastructure-co,US55608B1052,945642,USD,MIC
 united states,Thor Industries,Thor Industries Inc,thor-industries,US8851601018,29683,USD,THO
@@ -4076,6 +4402,9 @@ united states,Gannett,Gannett Co Inc,gannett-co,US36473H1041,22586,USD,GCI
 united states,MSG Networks Inc,MSG Networks Inc,msg-networks-inc,US5535731062,958816,USD,MSGN
 united states,Edgewell Personal Care,Edgewell Personal Care Co,edgewell-personal-care,US28035Q1022,955546,USD,EPC
 united states,Six Flags,Six Flags Entertainment New,six-flags-entert,US83001A1025,39237,USD,SIX
+united states,Cinemark,Cinemark Holdings Inc,cinemark-hldg,US17243V1026,39268,USD,CNK
+united states,Aramark Holdings,Aramark Holdings,aramark-holdings,US03852U1060,48388,USD,ARMK
+united states,Hertz Global Holdings,Hertz Global Holdings Inc,hertz-global-holdings-inc,US42806J1060,991162,USD,HTZ
 united states,Meritage,Meritage Corporation,meritage-homes-corp,US59001A1025,32325,USD,MTH
 united states,Teekay Tankers,Teekay Tankers Ltd,teekay-tankers-ltd,MHY8565N1022,24326,USD,TNK
 united states,Apergy,Apergy Corp,apergy,US03755L1044,1076636,USD,APY
@@ -4093,6 +4422,7 @@ united states,Unifi,Unifi Inc,unifi-inc,US9046772003,24358,USD,UFI
 united states,Guess,Guess? Inc,guess-inc,US4016171054,32362,USD,GES
 united states,WWE,World Wrestling Entertainment Inc,world-wrestling-entertainment,US98156Q1085,39142,USD,WWE
 united states,Buckle,Buckle Inc,the-buckle-inc,US1184401065,39294,USD,BKE
+united states,Tile Shop,Tile Shop Hldgs Inc,tile-shop-holdings-inc,US88677Q1094,40100,USD,TTSH
 united states,FTD Companies,FTD Companies Inc,ftd-companies-inc,US30281V1089,42588,USD,FTDCQ
 united states,Cooper Stnd,Cooper Stnd,cooper-stnd,US21676P1030,48378,USD,CPS
 united states,Installed Building,Installed Building Products Inc,instld-buld,US45780R1014,101868,USD,IBP
@@ -4111,7 +4441,9 @@ united states,Legacy Texas Financial Grp,Legacy Texas Financial Group Inc,viewpo
 united states,Greenhill&Co,Greenhill & Co Inc,greenhill,US3952591044,21204,USD,GHL
 united states,CPB,CPB Inc,cpb-inc,US1547604090,21245,USD,CPF
 united states,Walker&Dunlop,Walker & Dunlop Inc,walker---dunlop-inc,US93148P1021,24324,USD,WD
+united states,Universal Insurance,Universal Insurance Holdings Inc,universal-insurance-holdings-inc,US91359V1070,24384,USD,UVE
 united states,Customers Bancorp,Customers Bancorp Inc,customers-bancorp-inc,US23204G1004,40982,USD,CUBI
+united states,First NBC Bank,First NBC Bank Holding Co,first-nbc-bank-holding-company,US32115D1063,41006,USD,FNBCQ
 united states,Great Western Bancorp Inc,Great Western Bancorp Inc,great-western-bancorp-inc,US3914161043,942478,USD,GWB
 united states,Enova International Inc,Enova International Inc,enova-international-inc,US29357K1034,942638,USD,ENVA
 united states,Repligen,Repligen Corporation,repligen-corp,US7599161095,17055,USD,RGEN
@@ -4140,6 +4472,7 @@ united states,Veritiv Cor,Veritiv Cor,veritiv-cor,US9234541020,103911,USD,VRTV
 united states,SPX FLOW Inc,SPX FLOW Inc,spx-flow-inc,US78469X1072,958814,USD,FLOW
 united states,Rudolph,Rudolph Technologies Inc,rudolph-tech,US7812701032,17094,USD,RTEC
 united states,Super Micro Computer,Super Micro Computer Inc,super-micro-compu,US86800U1043,17195,USD,SMCI
+united states,Monotype,Monotype Imaging Holdings Inc,monotype-imaging,US61022P1003,17417,USD,TYPE
 united states,CMTSU Liquidation,CMTSU Liquidation Inc,ciber-inc,US12601V1098,21195,USD,CBRI
 united states,CTS Corp,CTS Corporation,cts-corp,US1265011056,21226,USD,CTS
 united states,Fabrinet,Fabrinet,fabrinet,KYG3323L1005,21228,USD,FN
@@ -4201,9 +4534,12 @@ united states,NeoGenomics,NeoGenomics Inc,neogenomics-inc,US64049M2098,40083,USD
 united states,Third Point Rens,Third Point Rens,third-point-rens,BMG8827U1009,41187,USD,TPRE
 united states,Armada Hflr Pr,Armada Hflr Pr,armada-hflr-pr,US04208T1088,41192,USD,AHH
 united states,Evertec Inc,Evertec Inc,evertec-inc,PR30040P1032,41209,USD,EVTC
+united states,Re Max Holding,Re Max Holding,re-max-holding,US75524W1080,41234,USD,RMAX
+united states,National Bank Holdings,National Bank Holdings Corporation,national-bak-hld,US6337071046,41267,USD,NBHC
 united states,William Lyon Homes,William Lyon Homes,william-lyon-hms,US5520747008,41276,USD,WLH
 united states,Control4 Co,Control4 Co,control4-co,US21240D1072,41299,USD,CTRL
 united states,Marcus & Millichap,Marcus & Millichap Inc,marcus---mi,US5663241090,44403,USD,MMI
+united states,Par Pacific Holdings,Par Pacific Holdings Inc,par-pete-corp,US69888T2078,51057,USD,PARR
 united states,Care Com In,Care Com In,care-com-in,US1416331072,101857,USD,CRCM
 united states,New Media Investment,New Media Investment Group Inc,new-mda-inv,US64704V1061,101879,USD,NEWM
 united states,Century Communities,Century Communities Inc,century-commnts,US1565043007,103928,USD,CCS
@@ -4216,11 +4552,13 @@ united states,Ring Energy Inc,Ring Energy Inc,ring-energy-inc,US76680V1089,94960
 united states,National Storage Affiliates Trust,National Storage Affiliates Trust,national-storage-affiliates-trust,US6378701063,950998,USD,NSA
 united states,Community Healthcare Trust Inc,Community Healthcare Trust Inc,community-healthcare-trust-inc,US20369C1062,953806,USD,CHCT
 united states,Global Net Lease,Global Net Lease Inc,global-net-lease,US3793782018,953810,USD,GNL
+united states,Lantheus Holdings Inc,Lantheus Holdings Inc,lantheus-holdings-inc,US5165441032,955563,USD,LNTH
 united states,GMS Inc,GMS Inc,gms-inc,US36251C1036,977731,USD,GMS
 united states,Tactile Systems,Tactile Systems Technology Inc,tactile-systems-technology-inc,US87357P1003,985781,USD,TCMD
 united states,Innovative Industrial Properties,Innovative Industrial Properties Inc,innovative-industrial-properties,US45781V1017,993270,USD,IIPR
 united states,Varex Imaging,Varex Imaging Corp,varex-imaging-corp,US92214X1063,995706,USD,VREX
 united states,C&J Energy,C&J Energy Services Inc,c-j-energy-services-inc,US12674R1005,997430,USD,CJ
+united states,ProPetro,ProPetro Holding Corp,propetro-holding-corp,US74347M1080,997801,USD,PUMP
 united states,Granite Point Mortgage,Granite Point Mortgage Trust Inc,granite-point-mortgage-trust-inc,US38741L1070,1013389,USD,GPMT
 united states,Consol Energy,Consol Energy Inc,consol-energy-k,US20854L1089,1055312,USD,CEIX
 united states,Arlo Technologies,Arlo Technologies,arlo-technologies,US04206A1016,1088201,USD,ARLO
@@ -4232,6 +4570,7 @@ united states,Freds,Freds Inc,freds,US3561081007,16125,USD,FREDQ
 united states,HFF,HFF Inc,hff-inc,US40418F1084,21250,USD,HF
 united states,GATX,GATX Corporation,gatx-corp,US3614481030,21205,USD,GATX
 united states,Matador,Matador Resources Company,matador-resources-co,US5764852050,29662,USD,MTDR
+united states,Wyndham Hotels,Wyndham Hotels & Resorts Inc,wsp-holdings,US98311A1051,29731,USD,WH
 united states,Globus Medical,Globus Medical,globus-medical,US3795772082,41261,USD,GMED
 united states,Valvoline,Valvoline Inc,valvoline-inc,US92047W1018,989528,USD,VVV
 united states,Janus Henderson,Janus Henderson Group PLC,henderson-group,JE00BYPZJM29,1010884,USD,JHG
@@ -4240,4 +4579,4 @@ united states,JBG SMITH Properties,JBG SMITH Properties,jbg-smith-properties,US4
 united states,Delphi Tech,Delphi Technologies PLC,delphi-tech,JE00BD85SC56,1057059,USD,DLPH
 united states,nVent Electric,nVent Electric PLC,nvent-electric,IE00BDVJJQ56,1075387,USD,NVT
 united states,Resideo Tech,Resideo Technologies Inc,resideo-tech,US76118Y1047,1097629,USD,REZI
-united states,Equitrans Midstream,Equitrans Midstream Corp,equitrans-midstream,US2946001011,1097893,USD,ETRN
+united states,Equitrans Midstream,Equitrans Midstream Corp,equitrans-midstream,US2946001011,1097893,USD,ETRNS
