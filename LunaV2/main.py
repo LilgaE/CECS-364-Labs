@@ -103,7 +103,6 @@ def plotting():
 # Used to pull in all US stocks and compare their year/month/week average return on the stock
 def compare():
     listofnames = []
-    listofmeans = []
     current = datetime.datetime.now()
     cur = str(current.day) + '/' + str(current.month) + '/' + str(current.year)
     pastyear = str(current.day) + '/' + str(current.month) + '/' + str(current.year - 1)
@@ -113,24 +112,51 @@ def compare():
         for row in Filein:
             split = row.split(",")
             listofnames.append(split[7])
-    for name in listofnames:
-        try:
-            data = nasdaqdatalink.get_table('WIKI/PRICES', ticker=name, date={'gte': '2016-01-01'})
-            print(data)
-            time.sleep(30)  # Website limitaions
-        except RuntimeError:
-            print("Stocks not found.")
-        except ConnectionError:
-            print("connection error")
-            break
-        except IndexError:
-            print("Index error")
-        except TypeError:
-            print("Type Error")
-        except:
-            print("Unknown Error")
-    print(listofnames)
-    print(listofmeans)
+    try:
+        data = nasdaqdatalink.get_table('WIKI/PRICES', ticker=listofnames[0], date={'gte': '2016-01-01'})
+        test0 = pd.DataFrame(data[['date', 'open', 'high', 'low', 'close']])
+        data = nasdaqdatalink.get_table('WIKI/PRICES', ticker=listofnames[1], date={'gte': '2016-01-01'})
+        test1 = pd.DataFrame(data[['date', 'open', 'high', 'low', 'close']])
+        data = nasdaqdatalink.get_table('WIKI/PRICES', ticker=listofnames[2], date={'gte': '2016-01-01'})
+        test2 = pd.DataFrame(data[['date', 'open', 'high', 'low', 'close']])
+        data = nasdaqdatalink.get_table('WIKI/PRICES', ticker=listofnames[3], date={'gte': '2016-01-01'})
+        test3 = pd.DataFrame(data[['date', 'open', 'high', 'low', 'close']])
+        data = nasdaqdatalink.get_table('WIKI/PRICES', ticker=listofnames[4], date={'gte': '2016-01-01'})
+        test4 = pd.DataFrame(data[['date', 'open', 'high', 'low', 'close']])
+        data = nasdaqdatalink.get_table('WIKI/PRICES', ticker=listofnames[5], date={'gte': '2016-01-01'})
+        test5 = pd.DataFrame(data[['date', 'open', 'high', 'low', 'close']])
+        data = nasdaqdatalink.get_table('WIKI/PRICES', ticker=listofnames[6], date={'gte': '2016-01-01'})
+        test6 = pd.DataFrame(data[['date', 'open', 'high', 'low', 'close']])
+        data = nasdaqdatalink.get_table('WIKI/PRICES', ticker=listofnames[7], date={'gte': '2016-01-01'})
+        test7 = pd.DataFrame(data[['date', 'open', 'high', 'low', 'close']])
+        data = nasdaqdatalink.get_table('WIKI/PRICES', ticker=listofnames[8], date={'gte': '2016-01-01'})
+        test8 = pd.DataFrame(data[['date', 'open', 'high', 'low', 'close']])
+        data = nasdaqdatalink.get_table('WIKI/PRICES', ticker=listofnames[9], date={'gte': '2016-01-01'})
+        test9 = pd.DataFrame(data[['date', 'open', 'high', 'low', 'close']])
+
+        print(listofnames[0] + ' mean of open prices: ' + str(test0['open'].mean()))
+        print(listofnames[1] + ' mean of open prices: ' + str(test1['open'].mean()))
+        print(listofnames[2] + ' mean of open prices: ' + str(test2['open'].mean()))
+        print(listofnames[3] + ' mean of open prices: ' + str(test3['open'].mean()))
+        print(listofnames[4] + ' mean of open prices: ' + str(test4['open'].mean()))
+        print(listofnames[5] + ' mean of open prices: ' + str(test5['open'].mean()))
+        print(listofnames[6] + ' mean of open prices: ' + str(test6['open'].mean()))
+        print(listofnames[7] + ' mean of open prices: ' + str(test7['open'].mean()))
+        print(listofnames[8] + ' mean of open prices: ' + str(test8['open'].mean()))
+        print(listofnames[9] + ' mean of open prices: ' + str(test9['open'].mean()))
+
+
+
+    except RuntimeError:
+        print("Stocks not found.")
+    except ConnectionError:
+        print("connection error")
+    except IndexError:
+        print("Index error")
+    except TypeError:
+        print("Type Error")
+    except:
+        print("Unknown Error")
 
 
 # main asks what function the user would like to use and runs that function, also repeats until the user is done
@@ -171,6 +197,4 @@ def main():
 
 main()
 
-
-
-#SHOULD NOT BE USED AS A FINANCIAL ADVICE
+# SHOULD NOT BE USED AS A FINANCIAL ADVICE
