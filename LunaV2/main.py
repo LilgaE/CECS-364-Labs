@@ -1,6 +1,8 @@
 # Writen by Stabs-
 # Second version of Luna
 # The Stock Trading Bot
+# YOU HAVE TO WANT SO SUCCEED AS BAD AS YOU WANT TO BREATH
+# Using Zacks Investment Research $1,200 a year data
 
 # TODO
 #  Get current price data for the day to find when to buy/sell that day
@@ -21,14 +23,22 @@
 #  Maybe some tax stuff
 #  Volume * ((high + low)/2) Average amount traded
 #  Volume Change from day to day
+#  NumPy Arrays to put lists with values together
+#  ANOVA for compare (DONT FORGET TESTS)(LIKE WHAT MADE YOU FAIL STATS) Scipy
+#
 #
 
 import datetime  # Gets current date
-import time
 from _socket import gethostname  # For Users Name
 import matplotlib.pyplot as plt  # Plots Stock Data
-import pandas as pd  # Processes stock data
 import nasdaqdatalink
+import pandas as pd  # Processes stock data
+from sklearn.metrics import accuracy_score
+from sklearn.model_selection import train_test_split
+from sklearn.linear_model import LogisticRegression
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.neighbors import KNeighborsClassifier as KNN
+from sklearn.ensemble import VotingClassifier
 
 nasdaqdatalink.ApiConfig.api_key = "H9RVg-d39XS_GaKb2Eyh"
 
@@ -133,19 +143,26 @@ def compare():
         test8 = pd.DataFrame(data[['date', 'open', 'high', 'low', 'close']])
         data = nasdaqdatalink.get_table('WIKI/PRICES', ticker=listofnames[9], date={'gte': '2016-01-01'})
         test9 = pd.DataFrame(data[['date', 'open', 'high', 'low', 'close']])
-
         print(listofnames[0] + ' mean of open prices: ' + str(test0['open'].mean()))
+        print(listofnames[0] + ' most recent open price: ' + str(test0['open'][0]))
         print(listofnames[1] + ' mean of open prices: ' + str(test1['open'].mean()))
+        print(listofnames[1] + ' most recent open price: ' + str(test1['open'][1]))
         print(listofnames[2] + ' mean of open prices: ' + str(test2['open'].mean()))
+        print(listofnames[2] + ' most recent open price: ' + str(test2['open'][2]))
         print(listofnames[3] + ' mean of open prices: ' + str(test3['open'].mean()))
+        print(listofnames[3] + ' most recent open price: ' + str(test3['open'][3]))
         print(listofnames[4] + ' mean of open prices: ' + str(test4['open'].mean()))
+        print(listofnames[4] + ' most recent open price: ' + str(test4['open'][4]))
         print(listofnames[5] + ' mean of open prices: ' + str(test5['open'].mean()))
+        print(listofnames[5] + ' most recent open price: ' + str(test5['open'][5]))
         print(listofnames[6] + ' mean of open prices: ' + str(test6['open'].mean()))
+        print(listofnames[6] + ' most recent open price: ' + str(test6['open'][6]))
         print(listofnames[7] + ' mean of open prices: ' + str(test7['open'].mean()))
+        print(listofnames[7] + ' most recent open price: ' + str(test7['open'][7]))
         print(listofnames[8] + ' mean of open prices: ' + str(test8['open'].mean()))
+        print(listofnames[8] + ' most recent open price: ' + str(test8['open'][8]))
         print(listofnames[9] + ' mean of open prices: ' + str(test9['open'].mean()))
-
-
+        print(listofnames[9] + ' most recent open price: ' + str(test9['open'][9]))
 
     except RuntimeError:
         print("Stocks not found.")
@@ -159,6 +176,62 @@ def compare():
         print("Unknown Error")
 
 
+def learnsomething():
+    Stockname = str(input("Please input the company ticker\n"))
+    Traindata = nasdaqdatalink.get_table('WIKI/PRICES', ticker=Stockname, date={'gte': '2016-01-01'})
+    Testdata = nasdaqdatalink.get_table('WIKI/PRICES', ticker=Stockname, date={'gte': '2017-01-01'})
+    print(Testdata)
+    print(Traindata)
+
+
+def Lab4():
+    Stockname = str(input("Please input the company ticker\n"))
+    data = nasdaqdatalink.get_table('WIKI/PRICES', ticker=Stockname, date={'gte': '2016-01-01'})
+    cutdata = pd.DataFrame(data[['close', 'volume']])
+    volsum = cutdata['volume'].sum()
+    volmin = cutdata['volume'].min()
+    volmax = cutdata['volume'].max()
+    print("Volume")
+    print(str(volmin) + ": Min value")
+    print(str(volmax) + ": Max value")
+    print(str(volsum) + ": Total Sum")
+    print(str(volsum / cutdata['volume'].size) + ": Average")
+    print("\n\n")
+    print("Close price")
+    cCount = 0
+    iCount = 0
+    closemin = cutdata['close'].min()
+    closemax = cutdata['close'].max()
+    print(str(closemin) + ": Min value")
+    print(str(closemax) + ": Max value")
+    print("\n\n")
+    for x in range(1,478):
+        if cutdata['volume'][x] >= cutdata['volume'][x-1]:
+            print('Price will rise from yesterday')
+            print(str(cutdata['close'][x-1]) + 'Price from yesterday')
+            print(str(cutdata['close'][x]) + 'Price from today')
+            if cutdata['close'][x-1] <= cutdata['close'][x]:
+                print('correct')
+                cCount += 1
+            else:
+                print('incorrect')
+                iCount += 1
+        else:
+            print('Price will fall from yesterday')
+            print(str(cutdata['close'][x - 1]) + ' Price from yesterday')
+            print(str(cutdata['close'][x]) + ' Price from today')
+            if cutdata['close'][x-1] >= cutdata['close'][x]:
+                print('correct')
+                cCount += 1
+            else:
+                print('incorrect')
+                iCount += 1
+    print(str(cCount) + ' Correct')
+    print(str(iCount) + ' Incorrect')
+
+
+
+
 # main asks what function the user would like to use and runs that function, also repeats until the user is done
 def main():
     pd.set_option('display.max_columns', None)
@@ -170,6 +243,8 @@ def main():
         print("2. Messing around")
         print("3. PLOT")
         print("4. compare")
+        print("5. to be continued")
+        print("6. Lab4")
         print("0. EXIT")
         Userin = int(input("Please input the test you would like to run\n"))
         if Userin == 1:
@@ -184,6 +259,13 @@ def main():
         elif Userin == 4:
             compare()
             print("\n\n")
+        elif Userin == 5:
+            learnsomething()
+            print("\n\n")
+        elif Userin == 6:
+            Lab4()
+            print("\n\n")
+
         else:
             print("Please Try again")
 
@@ -197,4 +279,4 @@ def main():
 
 main()
 
-# SHOULD NOT BE USED AS A FINANCIAL ADVICE
+# SHOULD NOT BE USED AS FINANCIAL ADVICE
