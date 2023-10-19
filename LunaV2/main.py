@@ -47,7 +47,7 @@ nasdaqdatalink.ApiConfig.api_key = "H9RVg-d39XS_GaKb2Eyh"
 def test0():
     try:
         # Stockname = str(input("Please input the company name or ticker\n"))
-        data = nasdaqdatalink.get_table('ZACKS/FC', ticker='MMM')
+        data = nasdaqdatalink.get_table('ZACKS/FC', ticker='NOC')
         print(data.info())
         for col in data.columns:
             print(col)
@@ -208,8 +208,8 @@ def Lab4():
     for x in range(1,478):
         if cutdata['volume'][x] >= cutdata['volume'][x-1]:
             print('Price will rise from yesterday')
-            print(str(cutdata['close'][x-1]) + 'Price from yesterday')
-            print(str(cutdata['close'][x]) + 'Price from today')
+            print(str(cutdata['close'][x-1]) + ' Price from yesterday')
+            print(str(cutdata['close'][x]) + ' Price from today')
             if cutdata['close'][x-1] <= cutdata['close'][x]:
                 print('correct')
                 cCount += 1
@@ -247,7 +247,14 @@ def main():
         print("6. Lab4")
         print("0. EXIT")
         Userin = int(input("Please input the test you would like to run\n"))
-        if Userin == 1:
+        if Userin == 0:
+            print("Thank you for using Luna the stock trading bot\n")
+            print("And never forget\n")
+            print(
+                "\"Nobody knows if a stock is going to go up, down,\nsideways or in fucking circles,\nleast of all "
+                "stockbrokers, right?\"")
+            # QUOTE FROM THE WOLF OF WALL STREET
+        elif Userin == 1:
             test0()
             print("\n\n")
         elif Userin == 2:
@@ -269,12 +276,8 @@ def main():
         else:
             print("Please Try again")
 
-    print("Thank you for using Luna the stock trading bot\n")
-    print("And never forget\n")
-    print(
-        "\"Nobody knows if a stock is going to go up, down,\nsideways or in fucking circles,\nleast of all "
-        "stockbrokers, right?\"")
-    # QUOTE FROM THE WOLF OF WALL STREET
+
+
 
 
 main()
